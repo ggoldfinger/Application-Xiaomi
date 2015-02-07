@@ -199,9 +199,9 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_step_run_duration_average">Moy. couru</string>
     <string name="stat_step_walk_calories_average">Moy. brûlées</string>
     <string name="stat_step_run_calories_average">Moy. brûlées</string>
-    <string name="stat_step_total">Pas total</string>
+    <string name="stat_step_total">Total de pas</string>
     <string name="stat_step_distance_total">Distance totale</string>
-    <string name="stat_step_calorie_total">Cal. totales brûlées</string>
+    <string name="stat_step_calorie_total">Total de cal. brûlées</string>
     <string name="stat_sleep">Temps de sommeil</string>
     <string name="stat_sleep_deep">Sommeil profond</string>
     <string name="stat_sleep_shallow">Sommeil léger</string>
@@ -211,9 +211,9 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_sleep_average">Moy. sommeil</string>
     <string name="stat_sleep_deep_average">Moy. sommeil profond</string>
     <string name="stat_sleep_shallow_average">Moy. sommeil léger</string>
-    <string name="stat_sleep_time_average">Moy. couché à</string>
-    <string name="stat_sleep_rise_time_average">Moy. réveillé à</string>
-    <string name="stat_sleep_wake_average">Réveillé/jour</string>
+    <string name="stat_sleep_time_average">Moy. couché(e) à</string>
+    <string name="stat_sleep_rise_time_average">Moy. réveillé(e) à</string>
+    <string name="stat_sleep_wake_average">Réveil/jour</string>
     <string name="fw_upgrade_succ">Mise à jour du firmware terminée, en attente de redémarrage...</string>
     <string name="fw_upgrade_failed">La mise à jour du firmware a échoué.</string>
 	<string name="user_agreement">"Conditions d'utilisation et Politique de confidentialité"</string>
@@ -236,14 +236,14 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="help">Aide</string>
     <string name="unlock_screen_invalid_helper">Impossible de déverrouiller votre téléphone avec le Mi-Band ?</string>
     <string name="help_title_0">Votre téléphone est-il à proximité du Mi-Band ?</string>
-    <string name="help_info_0">Assurez-vous que votre téléphone prend en charge Bluetooth 4.0 ou une version ultérieure. Vous pouvez trouver ces informations dans les spécifications de votre téléphone.</string>
+    <string name="help_info_0">Vérifiez que votre téléphone prend en charge Bluetooth 4.0 ou une version ultérieure. Vous pouvez trouver cette information dans les spécifications de votre téléphone.</string>
     <string name="help_title_1">"Le système d'exploitation de votre téléphone répond-il à la configuration minimale exigée ?"</string>
     <string name="help_info_1">Seuls Android 4.4 ou une version ultérieure prennent en charge le Mi-Band.</string>
     <string name="help_title_2">Votre Mi-Band est-il complètement chargé ?</string>
-    <string name="help_info_2">Assurez-vous de charger correctement votre Mi-Band. Vous devriez voir les DEL clignoter en vert durant la charge.</string>
+    <string name="help_info_2">Assurez-vous de charger correctement votre Mi-Band. Vous devriez voir les LEDs clignoter en vert durant la charge.</string>
     <string name="help_title_3">Mi-Band appairé avec un autre téléphone ?</string>
     <string name="help_info_3">"Si votre Mi-Band est déjà appairé avec un téléphone ou qu'il n'est pas à proximité de votre téléphone, désactiver le Bluetooth de l'ancien téléphone et relancer la recherche avec le nouveau téléphone à appairer."</string>
-    <string name="help_title_4">Essayez de redémarrer votre téléphone</string>
+    <string name="help_title_4">Essayez de redémarrer votre téléphone.</string>
     <string name="help_info_4">Ouvrir Mi-Fit après le redémarrage de votre téléphone.</string>
     <string name="get_image_file_fail">"Impossible de charger l'image"</string>
     <string name="select_image">Modifier avatar</string>
@@ -268,7 +268,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="bracelet_login_info_2">"Connectez-vous si vous êtes d'accord avec la 
 "</string>
     <string name="please_input_gender">Sélectionner un genre</string>
-    <string name="input_precise_person_info">"Veuillez renseigner vos informations personnelles. Ces détails permettront d'obtenir des résultats plus précis."</string>
+    <string name="input_precise_person_info">"Merci de renseigner vos informations personnelles. Ces détails permettront d'obtenir des mesures plus précises."</string>
     <string name="check_upgrade">Vérifier les mises à jour</string>
     <string name="visit_micom">Visiter le site officiel</string>
     <string name="apk_uptodate">"Vous utilisez actuellement la dernière version de l'application."</string>
@@ -281,7 +281,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="dynamic_title_bracelet_unbind">Mi-Band non appairé</string>
     <string name="dynamic_title_weight_unbind">Mi-Weight non appairée</string>
     <string name="dynamic_step_tip">Mesures actuelles</string>
-    <string name="dynamic_sleep_tip">Total</string>
+    <string name="dynamic_sleep_tip">Durée totale</string>
     <string name="dynamic_sleep_deep_title">Sommeil profond %s</string>
     <string name="dynamic_detail_sleep_title">%s</string>
     <string name="dynamic_detail_sleep_title_yesterday">Dernière nuit de sommeil</string>
@@ -294,15 +294,15 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="dynamic_sleep_active">Temps réveillé</string>
     <string name="dynamic_sleep_active_start">Prêt à dormir</string>
     <string name="dynamic_sleep_active_end">Prêt à se lever</string>
-    <string name="dynamic_tip_unweared">Pas activé</string>
+    <string name="dynamic_tip_unweared">Non porté</string>
     <string name="dynamic_tip_sleep_unsynced">Non mis à jour</string>
     <string name="dynamic_tip_step_unsynced">Non mis à jour</string>
     <string name="dynamic_tip_step_sync_time_hour">Il y a %d h</string>
     <string name="dynamic_tip_step_sync_time_min">Il y a %d min</string>
     <string name="dynamic_tip_sync_progress">Synchro. des données : %d %%</string>
     <string name="dynamic_tip_sync_time">Synchronisé à %s</string>
-    <string name="dynamic_detail_modify_sleep_start_time">Temps de début du sommeil correct</string>
-    <string name="dynamic_detail_modify_sleep_end_time">Temps réveillé correct</string>
+    <string name="dynamic_detail_modify_sleep_start_time">Heure de début du sommeil correcte</string>
+    <string name="dynamic_detail_modify_sleep_end_time">Heure de réveil correcte</string>
     <string name="time_format_hour_min">%1$s h %2$s min</string>
     <string name="time_format_min">%s min</string>
     <string name="action_pop_my_bracelet">Paramètres du Mi-Band</string>
@@ -311,18 +311,18 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="action_pop_unlock_screen">"Déverrouillage de l'écran"</string>
     <string name="action_pop_weixin_enter">Ajouter WeChat</string>
     <string name="bind_qq">Ajouter QQ</string>
-    <string name="bind_qq_health">Synchroniser avec le Centre de santé QQ</string>
+    <string name="bind_qq_health">Synchroniser avec QQ Health Center</string>
     <string name="start_weixin">Ouvrir WeChat</string>
     <string name="start_weixin_not_installed">Démarrer WeChat (non installé)</string>
     <string name="action_pop_about">À propos</string>
     <string name="find_bracelet">Rechercher Mi-Band</string>
-    <string name="light_color">Couleur des DEL</string>
+    <string name="light_color">Couleur des LEDs</string>
     <string name="light_color_title">"Couleur de l'indicateur de progression"</string>
     <string name="wear_hand">Poignet</string>
     <string name="left_hand">Gauche</string>
     <string name="right_hand">Droit</string>
-    <string name="unbind">Dissocier</string>
-    <string name="unbind_short">Dissocier</string>
+    <string name="unbind">Désappairer</string>
+    <string name="unbind_short">Désappairer</string>
     <string name="firmware_version">Version du firmware</string>
     <string name="step_per_day"> pas/jour</string>
     <string name="remain_days_format">%s jour(s) depuis la dernière charge</string>
@@ -346,7 +346,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="week" />
     <string name="alarm_ring">Alarme</string>
     <string name="alarm_repeat">Répéter</string>
-    <string name="alarm_repeat_title_format">Sélectionné %s</string>
+    <string name="alarm_repeat_title_format">%s jours sélectionné(s)</string>
     <string name="alarm_device_not_connect">"Vous devez appairer un Mi-Band avant de configurer l'alarme."</string>
     <string name="unlock_screen_not_connect">"Vous devez appairer un Mi-Band avant de configurer le déverrouillage de l'écran."</string>
     <string name="unlock_screen_help_tips">Encore deux étapes avant de découvrir le moyen le plus rapide et le plus sûr pour déverrouiller votre téléphone.</string>
@@ -361,128 +361,128 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="share_step_goal_succ_title">Objectif atteint</string>
     <string name="share_step_goal_failed_title_today">"Aujourd'hui"</string>
     <string name="share_step_goal_failed_title">Total</string>
-    <string name="share_step_description">"Marché %1$s brûlé %2$s cal.
+    <string name="share_step_description">"%1$s marchés, %2$s calories brulées
 "</string>
-    <string name="share_step_description_run">"Marché %1$s, couru %2$s.
-%3$s cal. brûlées.
+    <string name="share_step_description_run">"%1$s marchés, %2$s courus. 
+%3$s calories brûlées.
 "</string>
-    <string name="share_step_description_weekly">"%1$s%2$s,
-%3$s cal. brûlées. Le précédent record quotidien était de %4$s, avec %5$s pas marchés."</string>
-    <string name="share_step_description_weekly_run">"%1$s, couru %2$s.%3$s
-Le précédent record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
-    <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
-    <string name="share_step_description_monthly">"%1$s%2$s
- Avec %3$s cal. brûlées, vous avez économisé %4$s gallon(s) d'essence.
-Le précédent record a eu lieu le %5$s, avec %6$s pas marchés."</string>
-    <string name="share_step_description_monthly_run">"%1$s, couru %2$s
- %3$s, et vous avez économisé %4$s gallon(s) d'essence.
-Le précédent record a eu lieu le %5$s, avec %6$s pas marchés."</string>
-    <string name="marathon_format_0">"C'est environ %1$s marathon(s)"</string>
-    <string name="marathon_format_1">Plus que %1$s marathon(s)</string>
-    <string name="half_marathon_format_0">"C'est environ %1$s demi-marathon(s)"</string>
-    <string name="half_marathon_format_1">"Plus d'un demi-marathon(s)"</string>
-    <string name="share_continue_goal_format">"Marche totale de %1$s, %2$s pas par jour.
-%3$s
+    <string name="share_step_description_weekly">"%1$s%2$s, 
+%3$s calories brûlées. Le précédent record quotidien était de %4$s, avec %5$s pas marchés."</string>
+    <string name="share_step_description_weekly_run">"%1$s marchés, %2$s courus. %3$s
+Le précédent record quotidien, établi le %4$s, était de %5$s pas."</string>
+    <string name="share_play_ground_format">"Soit l'équivalent de %1$s tours de piste."</string>
+    <string name="share_step_description_monthly">"%1$s%2$s, 
+%3$s calories brûlées, vous avez ainsi économisé %4$s gallon(s) d'essence.
+Ce mois-ci, le record quotidien, établi le %5$s, était de %6$s pas."</string>
+    <string name="share_step_description_monthly_run">"%1$s marchés, %2$s courus.
+ %3$s, vous avez ainsi économisé %4$s gallon(s) d'essence.
+Ce mois-ci, le record quotidien, établi le %5$s, était de %6$s pas."</string>
+    <string name="marathon_format_0">"Cela représente environ %1$s marathon(s)"</string>
+    <string name="marathon_format_1">"C'est plus de %1$s marathon(s)"</string>
+    <string name="half_marathon_format_0">"Cela représente environ %1$s demi-marathon(s)"</string>
+    <string name="half_marathon_format_1">"C'est plus d'un demi-marathon(s)"</string>
+    <string name="share_continue_goal_format">"Marche totale de %1$s, %2$s pas par jour. 
+%3$s 
 %4$s"</string>
-    <string name="share_continue_goal_format_run">"Marche totale de %1$s, couru %2$s.%3$s.
+    <string name="share_continue_goal_format_run">"Marche totale de %1$s, couru %2$s. %3$s. 
 %4$s"</string>
     <string name="share_sleep_description">"En phase de sommeil profond pendant %1$s h et %2$s min, 
 En phase de sommeil léger pendant %3$s h et %4$s min.
-Endormi : %5$s. Réveil : %6$s"</string>
-    <string name="share_sleep_description_average">"A passé en moyenne %1$s h %2$s min en phase de sommeil profond et %3$s h %4$s min en phase de sommeil léger
-Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6$s."</string>
+Endormissement à %5$s. Réveil à %6$s."</string>
+    <string name="share_sleep_description_average">"En moyenne %1$s h %2$s min en phase de sommeil profond et %3$s h %4$s min en phase de sommeil léger. 
+En moyenne, vous vous êtes couché(e) aux alentours de %5$s, et réveillé(e) aux alentours de %6$s."</string>
     <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="battery_charge_full">Batterie chargée</string>
-    <string name="battery_low_info">Batterie Mi-Band faible</string>
+    <string name="battery_low_info">Batterie du Mi-Band faible</string>
     <string name="battery_charging">En charge...</string>
-    <string name="finding_bracelet">Recherche Mi-Band ...</string>
-    <string name="unlock_screen_set_password_tips_set">"Définir le mot de passe de l'écran de verrouillage"</string>
-    <string name="unlock_screen_set_password_tips_has_set">"Le mot de passe de l'écran de verrouillage a été correctement configuré."</string>
-    <string name="unlock_screen_set_password">Étape 1: Définir votre mot de passe.</string>
-    <string name="unlock_screen_set_use_bracelet_tips">Confirmez le mot de passe.</string>
-    <string name="unlock_screen_set_use_bracelet">Étape 2: Définir pour déverrouiller votre téléphone avec Mi-Band.</string>
-    <string name="unlock_screen_set_success">Vous avez configuré votre téléphone pour le déverrouiller avec ce Mi-Band.</string>
-    <string name="unlock_screen_modify_unlock_v5">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres> Sécurité > Sécurité de l\'écran</string>
-    <string name="unlock_screen_modify_unlock_v6">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres> Ecran de verrouillage> Déverrouiller avec le dispositif Bluetooth</string>
+    <string name="finding_bracelet">Recherche du Mi-Band ...</string>
+    <string name="unlock_screen_set_password_tips_set">"Définir le mot de passe de verrouillage de l'écran"</string>
+    <string name="unlock_screen_set_password_tips_has_set">"Le mot de passe de verrouillage de l'écran a été correctement configuré."</string>
+    <string name="unlock_screen_set_password">Étape 1 : Définir votre mot de passe.</string>
+    <string name="unlock_screen_set_use_bracelet_tips">Confirmer le mot de passe.</string>
+    <string name="unlock_screen_set_use_bracelet">Étape 2: Configurer le déverrouillage de votre téléphone avec le Mi-Band.</string>
+    <string name="unlock_screen_set_success">Le déverrouillage du téléphone avec le Mi-Band a été correctement configuré.</string>
+    <string name="unlock_screen_modify_unlock_v5">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres > Sécurité > Sécurité de l\'écran</string>
+    <string name="unlock_screen_modify_unlock_v6">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres > Ecran de verrouillage > Déverrouiller avec le dispositif Bluetooth</string>
     <string name="unlock_for_smartlock_tip">Utilisez le Mi-Band pour débloquer l\'application en cours d\'exécution en arrière-plan</string>
-    <string name="unlock_for_smartlock_tip_step1">Étape 1: Aller à dans <b>Paramètres système</b> - <b> Sécurité</b></string>
-    <string name="unlock_for_smartlock_tip_step2">Étape 2: Définir le <b>Mode de verrouillage de l\'écran</b> avec un schéma, un code PIN ou mot de passe</string>
-    <string name="unlock_for_smartlock_tip_step3">Étape 3: Cliquez sur <b>Smart Lock</b> déverrouillage utilisant le Mi-Band</string>
-    <string name="unlock_for_smartlock_pair_start_tip">Appairage en cours, s\'il vous plaît patientez...</string>
-    <string name="unlock_for_smartlock_pair_success_tip">Succès de l\'appairage, Smart Lock disponible</string>
-    <string name="unlock_for_smartlock_pair_fail_tip">Échec de l\'appairage, s\'il vous plaît patientez</string>
+    <string name="unlock_for_smartlock_tip_step1">Étape 1 : Aller à dans <b>Paramètres système</b> - <b> Sécurité</b>.</string>
+    <string name="unlock_for_smartlock_tip_step2">Étape 2 : Définir le mode de <b>Verrouillage de l\'écran</b> avec un schéma, un code PIN ou mot de passe.</string>
+    <string name="unlock_for_smartlock_tip_step3">Étape 3 : Appuyer sur <b>Smart Lock</b> puis sur <b>Appareils fiable</b> puis sélectionner le Mi-Band.</string>
+    <string name="unlock_for_smartlock_pair_start_tip">Appairage en cours, merci de patienter...</string>
+    <string name="unlock_for_smartlock_pair_success_tip">Appairage effectué, Smart Lock disponible</string>
+    <string name="unlock_for_smartlock_pair_fail_tip">Échec de l\'appairage, merci de patienter...</string>
     <string name="unlock_for_smartlock_start_setting">Démarrer</string>
-    <string name="bind_weixin_title">Synchronisez pour partager et vous comparer à vos amis.</string>
+    <string name="bind_weixin_title">Synchroniser pour partager vos performances et les comparer à celles de vos amis.</string>
     <string name="bind_qq_health_title">Ajouter un compte QQ</string>
-    <string name="step1">Étape 1:</string>
-    <string name="step2">Étape 2:</string>
-    <string name="bind_weixin_tips_1">Cliquez sur Générer QR Code, cela génèrera un QR Code et le sauvegardera dans la galerie.</string>
-    <string name="bind_weixin_tips_2">Cliquez sur Ouvrir WeChat, entrez dans Scan QR Code et cliquez sur Album pour sélectionner le QR Code sauvegardé.</string>
-    <string name="bind_weixin_now">Génération du QR code ...</string>
-    <string name="bind_weixin_failed">Echec, veuillez réessayer</string>
-    <string name="bind_weixin_succ">Relié avec succès !</string>
-    <string name="bind_weixin_save">Sauvegarder dans la galerie,</string>
+    <string name="step1">Étape 1 : </string>
+    <string name="step2">Étape 2 : </string>
+    <string name="bind_weixin_tips_1">"Appuyer sur Générer QR Code, cela génèrera un QR Code et l'enregistrera dans la galerie."</string>
+    <string name="bind_weixin_tips_2">Appuyer sur Ouvrir WeChat, entrer dans Scan QR Code et cliquer sur Album pour sélectionner le QR Code enregistré.</string>
+    <string name="bind_weixin_now">Génération du QR code...</string>
+    <string name="bind_weixin_failed">Échec. Veuillez réessayer.</string>
+    <string name="bind_weixin_succ">Compte lié avec succès !</string>
+    <string name="bind_weixin_save">Enregistrer dans la galerie</string>
     <string name="incoming_call_notify">Appel entrant</string>
-    <string name="incoming_call_notify_tips">"M'avertir si je rate un appel après %s sec"</string>
+    <string name="incoming_call_notify_tips">"M'avertir si je rate un appel après %s secondes"</string>
     <string name="share_step_walk" />
     <string name="one_week">Au cours de cette semaine, </string>
     <string name="walked">Marché </string>
-    <string name="come_from_xiaomi_bracelet">A partir du Mi-Band</string>
+    <string name="come_from_xiaomi_bracelet">À partir du Mi-Band</string>
     <string name="unlock_screen_invalid">Que puis-je faire si je ne suis pas en mesure de déverrouiller mon téléphone ?</string>
     <string name="unlock_screen_help_title0">Le Mi-Band est-il suffisamment près de votre téléphone ?</string>
-    <string name="unlock_screen_help_title1">Essayez de redémarrer le Bluetooth.</string>
-    <string name="unlock_screen_help_title2">Essayez de réinitialiser le déverrouillage.</string>
-    <string name="unlock_screen_help_title3">Redémarrez et essayez à nouveau.</string>
-    <string name="unlock_screen_help_info3">Après le redémarrage de votre appareil, essayez d\'utiliser votre Mi-Band pour le déverrouiller.</string>
-    <string name="unlock_screen_help_info0">"Pour une question de sécurité, le déverrouillage ne s'opère que quand le Mi-Band est suffisamment près du téléphone."</string>
+    <string name="unlock_screen_help_title1">Essayer de redémarrer le Bluetooth.</string>
+    <string name="unlock_screen_help_title2">Essayer de réinitialiser le déverrouillage.</string>
+    <string name="unlock_screen_help_title3">Redémarrer le téléphone, relancer Mi-Fit et essayer à nouveau.</string>
+    <string name="unlock_screen_help_info3">Après le redémarrage de votre téléphone, relancer Mi-Fit puis essayer d\'utiliser votre Mi-Band pour le déverrouiller.</string>
+    <string name="unlock_screen_help_info0">"Pour une question de sécurité, le déverrouillage ne s'opère que lorsque le Mi-Band est suffisamment près du téléphone."</string>
     <string name="unlock_screen_help_info1">Si votre téléphone est toujours verrouillé, vous pouvez essayer de redémarrer le Bluetooth pour résoudre le problème.</string>
-    <string name="unlock_screen_help_info2">"Si vous ne parvenez pas à redémarrer le Bluetooth, veuillez-vous rendre dans Paramètres Système->Sécurité pour dissocier le Mi-Band. Ensuite, rendez-vous dans l'application du Mi-Band pour réinitialiser le déverrouillage de l'écran."</string>
+    <string name="unlock_screen_help_info2">"Si vous ne parvenez pas à redémarrer le Bluetooth, veuillez-vous rendre dans Paramètres Système > Sécurité pour désappairer le Mi-Band. Ensuite, rendez-vous dans l'application Mi-Fit pour réinitialiser le déverrouillage de l'écran."</string>
     <string name="instruction_title">Mieux utiliser son Mi-Band</string>
-    <string name="instruction_tip_1">"Jetez un coup d'œil sur votre progression"</string>
+    <string name="instruction_tip_1">"Jetez un coup d'oeil à votre progression"</string>
     <string name="instruction_tip_2_1">"Moins d'1/3 de votre objectif"</string>
     <string name="instruction_tip_2_2">"Plus d'1/3 de votre objectif"</string>
     <string name="instruction_tip_2_3">Plus de 2/3 de votre objectif</string>
-    <string name="instruction_tip_2_4">Bravo ! Vous avez atteint votre objectif de la journée</string>
-    <string name="instruction_tip_2_5">Vous avez dépassé votre objectif</string>
-    <string name="instruction_tip_3">"S'il vous plaît recharger Mi-Band"</string>
-    <string name="new_record_born">Bravo ! Vous avez établi un nouveau record</string>
-    <string name="new_record_format_str">"%1$s pas, %2$s calories brûlées
-Chaque nouveau record n'est qu'une étape
-Il faut garder le rythme"</string>
-    <string name="continue_reach_goal">"Continuez d'atteindre vos objectifs"</string>
-    <string name="continue_tips_format">"Votre plus beau record serait d'atteindre votre objectif pendant %1$s jour(s)."</string>
+    <string name="instruction_tip_2_4">Bravo ! Vous avez atteint votre objectif de la journée.</string>
+    <string name="instruction_tip_2_5">Vous avez dépassé votre objectif.</string>
+    <string name="instruction_tip_3">"Merci de recharger le Mi-Band."</string>
+    <string name="new_record_born">Bravo ! Vous avez établi un nouveau record.</string>
+    <string name="new_record_format_str">"%1$s pas, %2$s calories brûlées.
+Chaque nouveau record n'est qu'une étape.
+Il faut garder le rythme."</string>
+    <string name="continue_reach_goal">"Continuez d'atteindre vos objectifs."</string>
+    <string name="continue_tips_format">"Votre record serait d'atteindre votre objectif durant %1$s jours consécutifs."</string>
     <string name="gram">" g "</string>
-    <string name="sync_to_server">Synchro des données sur le Cloud en cours ...</string>
-    <string name="unlock_screen_miui_version_low">"Votre version de MIUI n'est pas supporté par le Mi-Band, veuillez mettre à jour votre version."</string>
-    <string name="share_uninstall_client">"L'application n'a pas été installée, impossible de partager"</string>
+    <string name="sync_to_server">Synchro des données sur le cloud en cours...</string>
+    <string name="unlock_screen_miui_version_low">"Votre version de MIUI n'est pas prise en charge par Mi-Fit. Veuillez mettre à jour votre version."</string>
+    <string name="share_uninstall_client">"L'application n'a pas été installée, partage impossible."</string>
     <string name="setting_feedback_send">Envoyer</string>
     <string name="setting_feedback_hint">Nous aimons vos commentaires.</string>
     <string name="setting_feedback_address">Comment pouvons-nous vous joindre ?</string>
     <string name="bluetooth">Bluetooth :</string>
     <string name="setting_about_fw">Version firmware :</string>
-    <string name="setting_about_app">"Version App :
+    <string name="setting_about_app">"Version App : 
 Traduction par Fays, Boleofr et PifGadget"</string>
     <string name="stop">Fin</string>
     <string name="start">Début</string>
     <string name="no_wear_bracelet">"Vous n'avez pas porté votre Mi-Band la nuit dernière."</string>
     <string name="no_steps">Pas de relevé de pas aujourd\'hui</string>
-    <string name="no_wear_user_modified">Ajouter manuellement les données sur mon sommeil</string>
-    <string name="dynamic_pull_connect_failed">Connexion échouée, tirez pour réessayer</string>
-    <string name="dynamic_pull_connect_failed_hint">Veuillez vérifier que votre Mi-Band soit assez chargé.</string>
+    <string name="no_wear_user_modified">Ajouter manuellement les données de mon sommeil</string>
+    <string name="dynamic_pull_connect_failed">Échec de la connexion. Tirer pour réessayer.</string>
+    <string name="dynamic_pull_connect_failed_hint">Vérifier que votre Mi-Band est assez chargé.</string>
     <string name="dynamic_pull_not_sync_today">"Non synchro aujourd'hui"</string>
-    <string name="dynamic_pull_last_sync_time">Dernière synchro %s</string>
-    <string name="dynamic_pull_connecting_bracelet">Connexion au Mi-Band ...</string>
+    <string name="dynamic_pull_last_sync_time">Dernière synchro : %s</string>
+    <string name="dynamic_pull_connecting_bracelet">Connexion au Mi-Band...</string>
     <string name="dynamic_pull_sync_after_connected">Récupération des informations de votre Mi-Band</string>
-    <string name="dynamic_pull_syncing">Synchronisation ...</string>
-    <string name="dynamic_pull_syncing_progress">Synchronisé (%s%%)</string>
-    <string name="dynamic_pull_release_to_sync">Relâchez pour synchroniser</string>
-    <string name="dynamic_pull_pull_to_sync">Tirez pour synchroniser</string>
-    <string name="dynamic_pull_sync_error">Impossible de synchroniser, tirez pour rafraîchir.</string>
+    <string name="dynamic_pull_syncing">Synchronisation...</string>
+    <string name="dynamic_pull_syncing_progress">Synchronisé (%s %%)</string>
+    <string name="dynamic_pull_release_to_sync">Relâcher pour synchroniser</string>
+    <string name="dynamic_pull_pull_to_sync">Tirer pour synchroniser</string>
+    <string name="dynamic_pull_sync_error">Synchronisation impossible. Tirer pour actualiser.</string>
     <string name="bind_weixin_qrcode_name">QR code du Mi-Band</string>
-    <string name="mili_exit_login_info_unbind">Êtes-vous sur de vouloir quitter ? Le Mi-Band sera déconnecté de votre téléphone</string>
-    <string name="mili_exit_login_info_unlock">"La fonctionnalité de déverrouillage de l'écran ne sera plus opérationnelle"</string>
+    <string name="mili_exit_login_info_unbind">Êtes-vous sur de vouloir quitter ? Le Mi-Band sera déconnecté de votre téléphone.</string>
+    <string name="mili_exit_login_info_unlock">"La fonctionnalité de déverrouillage de l'écran ne sera plus opérationnelle."</string>
     <string name="mili_exit_login_info_continue_tip">Êtes-vous sûr de vouloir continuer ?</string>
-    <string name="mili_exit_login_info_exiting">Déconnexion ...</string>
+    <string name="mili_exit_login_info_exiting">Déconnexion...</string>
     <string name="back">Retour</string>
     <string name="enable_debug_log">Mode de débogage activé ！</string>
     <string name="disable_debug_log">Mode de débogage désactivé ！</string>
@@ -493,9 +493,9 @@ Traduction par Fays, Boleofr et PifGadget"</string>
     <string name="share_to_miliao_path">Partager via</string>
     <string name="share_to_miliao_target_feeds">Cercle</string>
     <string name="share_to_miliao_target_friends">Amis</string>
-    <string name="share_to_miliao_target_union">Entraînez-vous entre copains</string>
+    <string name="share_to_miliao_target_union">Entraînez-vous entre amis</string>
     <string name="no_network_connection">Déconnecté du réseau</string>
-    <string name="no_network_connection_retry">Cliquez pour vous reconnecter.</string>
+    <string name="no_network_connection_retry">Cliquer pour vous reconnecter.</string>
     <string name="gen_qr_code">Générer un QR code</string>
     <string name="bin_weixin_device_not_connect">Mi-Band non connecté</string>
     <string name="share_to_content_sleep">Mes infos sur mon sommeil</string>
@@ -503,12 +503,12 @@ Traduction par Fays, Boleofr et PifGadget"</string>
     <string name="share_to_topic">\#Mi-Band#</string>
     <string name="month" />
     <string name="year" />
-    <string name="find_bracelet_warning">"L'autonomie sera vite réduite en recherchant votre Mi-Band.."</string>
+    <string name="find_bracelet_warning">"L'autonomie de votre Mi-Band sera rapidement réduite si vous le recherchez trop souvent."</string>
     <string name="second">" secondes"</string>
-    <string name="move_and_capture">Déplacer et capturé</string>
+    <string name="move_and_capture">Déplacer et capturer</string>
     <string name="share_miliao_too_old">Votre version de Mi-Talk est trop ancienne.</string>
     <string name="first_use_days_today_format">"Moins d'une journée depuis la première utilisation."</string>
-    <string name="first_use_remain_days_format">%s jour(s) depuis la première utilisation</string>
+    <string name="first_use_remain_days_format">%s jour(s) depuis la première utilisation.</string>
     <string name="until_hit_goals">"Objectifs atteints consécutifs jusqu'au %s"</string>
     <string name="continue_reach_goal_new_record">Nouveau record créé</string>
     <string name="bind_qq_health_tip">"Synchronisez données (pas et sommeil) avec le Centre de santé QQ,
