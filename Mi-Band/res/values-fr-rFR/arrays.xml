@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weeks">
-        <item>Lun.</item>
-        <item>Mar.</item>
-        <item>Mer.</item>
-        <item>Jeu.</item>
-        <item>Ven.</item>
-        <item>Sam.</item>
-        <item>Dim.</item>
+        <item>lundi</item>
+        <item>mardi</item>
+        <item>mercredi</item>
+        <item>jeudi</item>
+        <item>vendredi</item>
+        <item>samedi</item>
+        <item>dimanche</item>
     </string-array>
     <string-array name="weeks_short">
         <item>Lun.</item>
@@ -19,44 +19,44 @@
         <item>Dim.</item>
     </string-array>
     <string-array name="months">
-        <item>Janvier</item>
-        <item>Février</item>
-        <item>Mars</item>
-        <item>Avril</item>
-        <item>Mai</item>
-        <item>Juin</item>
-        <item>Juillet</item>
-        <item>Août</item>
-        <item>Septembre</item>
-        <item>Octobre</item>
-        <item>Novembre</item>
-        <item>Décembre</item>
+        <item>janvier</item>
+        <item>février</item>
+        <item>mars</item>
+        <item>avril</item>
+        <item>mai</item>
+        <item>juin</item>
+        <item>juillet</item>
+        <item>août</item>
+        <item>septembre</item>
+        <item>octobre</item>
+        <item>novembre</item>
+        <item>décembre</item>
     </string-array>
     <string-array name="select_days_simple">
         <item>Une fois</item>
         <item>Tous les jours</item>
-        <item>Du Lundi au Vendredi</item>
+        <item>Du lundi au vendredi</item>
         <item>Personnaliser</item>
     </string-array>
     <string-array name="fortune">
-        <item>"Facile d'atteindre son objectif sur une journée plus dur de le faire chaque jour."</item>
-        <item>"Ce n'est pas une chose facile que d'atteindre un objectif chaque jour."</item>
-        <item>Tu bas de nouveaux records chaque jour !</item>
-        <item>Prends plaisir à faire de toi un homme meilleur !</item>
-        <item>La persévérance est la qualité première d’un gagnant.</item>
+        <item>"Facile est d'atteindre son objectif sur une journée, plus dur est de le faire chaque jour."</item>
+        <item>"Il n'est pas chose facile que d'atteindre un objectif chaque jour."</item>
+        <item>Vous battez de nouveaux records chaque jour !</item>
+        <item>Prenez plaisir à faire de vous une personne meilleure !</item>
+        <item>"La persévérance est la qualité première d'un gagnant."</item>
         <item>"L'excellence est un art que l'on n'atteint que par l'exercice constant. Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas une action mais une habitude."</item>
-        <item>Atteins un objectif par jour.</item>
-        <item>"Accroches-toi pour être encore meilleur aujourd'hui."</item>
-        <item>Fais-Le.</item>
-        <item>"Continues à t'entrainer et la victoire viendra d'elle-même."</item>
+        <item>Atteignez un objectif par jour.</item>
+        <item>"Accrochez-vous pour être encore meilleur(e) aujourd'hui."</item>
+        <item>Just do it.</item>
+        <item>"Continuez à vous entraîner et la victoire viendra d'elle-même."</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
-        <item>Génial</item>
-        <item>Bien</item>
-        <item>Modéré</item>
-        <item>Prudence</item>
-        <item>Mauvaise</item>
-        <item>Très mauvaise</item>
+        <item>Très bon</item>
+        <item>Bon</item>
+        <item>Moyen</item>
+        <item>Médiocre</item>
+        <item>Mauvais</item>
+        <item>Très mauvais</item>
     </string-array>
     <string-array name="weight_test_unit">
         <item>Kg</item>
@@ -64,73 +64,73 @@
         <item>livre</item>
     </string-array>
     <string-array name="weight_body_figures">
-        <item>Léger</item>
+        <item>Maigre</item>
         <item>Normal</item>
-        <item>trop gros</item>
-        <item>Gras</item>
-        <item>Trop gras</item>
+        <item>En léger surpoids</item>
+        <item>Obèse</item>
+        <item>Très obèse</item>
     </string-array>
     <string-array name="weight_dynamic_list_bmi_tips">
-        <item>有点偏瘦哦，点击查看详情</item>
-        <item>恭喜你身材很标准</item>
-        <item>有点偏胖哦，点击查看详情</item>
-        <item>有点偏胖哦，点击查看详情</item>
+        <item>Un peu maigre. Appuyer pour voir les détails.</item>
+        <item>Félicitations, votre silhouette est parfaite.</item>
+        <item>En léger surpoids. Appuyer pour voir les détails.</item>
+        <item>Obèse. Appuyer pour voir les détails.</item>
     </string-array>
     <string-array name="weight_report_suggestions_boy">
-        <item>身体是革命的本钱，况且你还要保护心爱的人。建议加大无氧运动增加蛋白质摄入，让自己变成一个肌肉猛男吧。</item>
-        <item>身材非常标准，建议保持目前的生活饮食习惯，一定要将好身材保持下去哦。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
+        <item>"Masse corporelle un peu faible. Il est conseillé d'effectuer des exercices anaérobies et d'augmenter votre apport en protéines pour développer votre masse musculaire."</item>
+        <item>"Masse corporelle normale. Maintenez vos habitudes alimentaires et continuez à faire de l'exercice pour vous maintenir en forme."</item>
+        <item>"Vous devez réduire votre apport en graisses et maintenir votre apport en protéines. Pratiquez une activité sportive aérobie en effectuant des exercices anaérobies avant chaque demi-heure d'activité aérobie afin de vous aider à perdre du poids."</item>
+        <item>"Vous devez réduire votre apport en graisses et maintenir votre apport en protéines. Pratiquez une activité sportive aérobie en effectuant des exercices anaérobies avant chaque demi-heure d'activité aérobie afin de vous aider à perdre du poids."</item>
     </string-array>
     <string-array name="weight_report_suggestions_girl">
-        <item>爱美也要注意健康哦，平时要多观察体重避免继续下降。建议多增加无氧运动，增加体重的同时也可以保持较好的身材。</item>
-        <item>身材非常标准，建议保持目前的生活饮食习惯，一定要将好身材保持下去哦。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
-        <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
+        <item>"Masse corporelle un peu faible. Vous devez prendre un peu de poids. Il est conseillé d'effectuer des exercices anaérobies.</item>
+        <item>"Masse corporelle normale. Maintenez vos habitudes alimentaires et continuez à faire de l'exercice pour vous maintenir en forme."</item>
+        <item>"Vous devez réduire votre apport en graisses et maintenir votre apport en protéines. Pratiquez une activité sportive aérobie en effectuant des exercices anaérobies avant chaque demi-heure d'activité aérobie afin de vous aider à perdre du poids."</item>
+        <item>"Vous devez réduire votre apport en graisses et maintenir votre apport en protéines. Pratiquez une activité sportive aérobie en effectuant des exercices anaérobies avant chaque demi-heure d'activité aérobie afin de vous aider à perdre du poids."</item>
     </string-array>
     <string-array name="weight_report_result_without_goal">
-        <item>"超出标准
-注意控制体重哦"</item>
-        <item>"低于标准
-注意身体健康哦"</item>
-        <item>标准体型</item>
+        <item>"Supérieur à la normale
+Remarque : Surveiller votre poids."</item>
+        <item>"Inférieur à la normale
+Attention à votre état de santé."</item>
+        <item>Corpulence normale</item>
     </string-array>
     <string-array name="weight_report_result_with_goal_gainweight">
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"恭喜
-比目标高%1$s%2$s"</item>
+        <item>"L'objectif n'a pas été atteint.
+Persistez dans vos efforts."</item>
+        <item>"L'objectif n'a pas été atteint.
+Persistez dans vos efforts."</item>
+        <item>"L'objectif n'a pas été atteint.
+Persistez dans vos efforts."</item>
+        <item>"Félicitations.
+Vous avez pris %1$s %2$s de plus que l'objectif fixé."</item>
     </string-array>
     <string-array name="weight_report_result_with_goal_loseweight">
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"恭喜
-比目标轻%1$s%2$s"</item>
+        <item>"L'objectif n'a pas été atteint.
+Persistez dans vos efforts."</item>
+        <item>"L'objectif n'a pas été atteint.
+Persistez dans vos efforts."</item>
+        <item>"L'objectif n'a pas été atteint.
+Persistez dans vos efforts."</item>
+        <item>"Félicitations.
+Vous avez perdu %1$s %2$s de plus que l'objectif fixé."</item>
     </string-array>
     <string-array name="health_link_title">
-        <item>"1: Intervention d'urgence 24 heures"</item>
-        <item>"2: Proposition d'urgence"</item>
-        <item>"3: Aider à organiser des véhicules d'urgence"</item>
-        <item>"4: Aider le rapport de situation dangereuse"</item>
-        <item>"5: Contactez les familles"</item>
-        <item>"6: Hôpital d'urgence Disponible"</item>
-        <item>"7: Guide d'hospitalisation"</item>
+        <item>"1 - Assistance médicale 24h/24"</item>
+        <item>"2 - Appel médical d'urgence"</item>
+        <item>"3 - Service d'ambulances"</item>
+        <item>"4 - Assistance aux constats d'accidents"</item>
+        <item>"5 - Contacts en cas d'urgence"</item>
+        <item>"6 - Hospitalisation en cas d'urgence"</item>
+        <item>"7 - Guide d'hospitalisation"</item>
     </string-array>
     <string-array name="health_link_content">
-        <item>"Professionnels de soins de santé 24 heures, la fourniture bilingue de l'aide d'urgence, 7x24 heures, 365 jours l'année"</item>
-        <item>"Dans l'utilisateur averti de la situation réelle, l'UA fournira loin Platinum dix minutes de «soi» ou «aide mutuelle» proposition d'urgence par téléphone"</item>
-        <item>"Centre d'appels et appeler immédiatement le téléphone local du centre d'urgence ("120" ou "999"), la création de trois voies d'appel, par l'utilisateur à l'emplacement Chuxian processus de sauvetage suivi d'ambulance centre readme d'urgence"</item>
-        <item>"Aider l'utilisateur dans le cas d'un rapport d'accident aux autorités"</item>
-        <item>"Avertissez membres de la famille ou de la personne de contact en cas d'urgence selon les souhaits des utilisateurs et fournir des informations de contact"</item>
-        <item>"Sans préjudice de la «anxieux, à proximité, sur la condition des patients et de leurs familles sera« en vertu des principes de premiers secours, les premiers soins peut être mis en œuvre jusqu'ici-Union Hospital Medical à des renvois d'utilisateurs, a finalement décidé par l'utilisateur, ou selon la situation réelle par des véhicules d'urgence le médecin a ordonné"</item>
-        <item>"Orientation procédure d'hospitalisation, les précautions d'hospitalisation des conseils"</item>
+        <item>"Fourniture d'une assistance médicale bilingue (anglais/chinois) par des professionnels de santé 24 heures sur 24, 365 jours par an (Chine uniquement)."</item>
+        <item>"En cas de situation d'urgence, les abonnés (Chine uniquement) Platinum bénéficient de dix minutes d'assistance d'un médecin ou d'un appel téléphonique d'urgence."</item>
+        <item>"Sur appel local aux services d'urgences ("120" ou "999" en Chine uniquement), commande d'une ambulance."</item>
+        <item>"Assistance à l'abonné (Chine uniquement) dans le cas de constats d'accidents aux autorités."</item>
+        <item>"Permet d'avertir les membres de la famille ou la personne à contacter en cas d'urgence selon les souhaits de l'utilisateur et les informations de contact fournies (Chine uniquement)."</item>
+        <item>"Sans conditions de proximité ou d'état du patient, les premiers soins peuvent être appliqués dans un hôpital Union Hospital Medical (Chine uniquement) selon les souhaits de l'utilisateur ou la décision du médecin d'urgence."</item>
+        <item>"Informations et conseils sur les procédures d'hospitalisation (Chine uniquement)."</item>
     </string-array>
 </resources>
