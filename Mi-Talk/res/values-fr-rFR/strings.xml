@@ -2293,7 +2293,7 @@ groups and subscribe etc."</string>
     <string name="miliao_nearby_title">Nearby Friends</string>
     <string name="miliao_news">MiTalk News</string>
     <string name="miliao_perfects_content">Explore 100 select services</string>
-    <string name="miliao_perfects_title">Mi Talk Select</string>
+    <string name="miliaologoff_now_perfects_title">Mi Talk Select</string>
     <string name="miliao_privacy_agreement">MiTalk Privacy Policy</string>
     <string name="miliao_secretary_introduce">Hope you are having a nice day! How can we help you?</string>
     <string name="miliao_secretary_name">Mi Assistant</string>
@@ -4605,7 +4605,7 @@ Mi ID: %2$s
     <string name="user_profile_common_friend_title">%1$d mutual friends</string>
     <string name="user_profile_delete_info">Delete</string>
     <string name="user_profile_follow">Follow</string>
-    <string name="user_profile_follower">Follower</string>
+   sns_delete_all_weibo_friends <string name="user_profile_follower">Follower</string>
     <string name="user_profile_invitation_key">Add photo</string>
     <string name="user_profile_more">%1$s…</string>
     <string name="user_profile_no_avatar_tips">No photo</string>
@@ -4989,5 +4989,5 @@ Now, sit back and enjoy a life having MiTalk!"</string>
     <string name="zero_friend_tips">No friends? Check out these people >></string>
     <string name="zero_miliao_friends_from_fb">"It doesn't look like any of your friends on Facebook are using MiTalk."</string>
     <string name="zero_miliao_friends_from_renren">"It doesn't look like any of your friends on Renren are using MiTalk."</string>
-    <string name="ziliao">Profile</string>
+    <string name="ziliao">Profil</string>
 </resources>
