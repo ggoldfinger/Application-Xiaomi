@@ -131,9 +131,8 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="age">Âge %d</string>
     <string name="agree">D\'accord</string>
     <string name="agree_contact_licence">Fusionner avec les contacts du carnet d\'adresse</string>
-    <string name="agree_private_licence">"J'ai lu et j'accepte 
-"</string>
-    <string name="alert_dialog_known">Je l\'ai</string>
+    <string name="agree_private_licence">"J'ai lu et j'accepte"</string>
+    <string name="alert_dialog_known">OK</string>
     <string name="all_friends">Tous les amis</string>
     <string name="all_marked_readed">Marquer tout comme lu</string>
     <string name="all_people_visible">Afficher tout</string>
@@ -149,11 +148,11 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="anime_cancel_title">Annuler</string>
     <string name="anime_detail_title_key">Taille: %1$.2f Mo</string>
     <string name="anime_fix_msg_key">"Pack emoticon détecté, %1$s endommagé
- taille: %2$.2f Mo"</string>
+taille: %2$.2f Mo"</string>
     <string name="anime_fix_success">Réparé</string>
     <string name="anime_fix_title">Réparer Emoticons</string>
     <string name="anime_list_retry_text">Échec afin d\'obtenir les informations de l\'emoticon information, merci de vérifier votrre connexion et de réessayer à nouveau</string>
-    <string name="animemoji_btn_coin">Mi Credits</string>
+    <string name="animemoji_btn_coin">Mi-Crédits</string>
     <string name="animemoji_btn_delete">Supprimer</string>
     <string name="animemoji_btn_download">Télécharger</string>
     <string name="animemoji_btn_downloading">Téléchargement en cours</string>
@@ -220,7 +219,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="archived_total_number">%s total</string>
     <string name="archiving">Ajouté…</string>
     <string name="area_muc">Groupe d\'intérêt commun</string>
-    <string name="ask_text">Salut~ qui c'est ?</string>
+    <string name="ask_text">Salut~ qui c\'est ?</string>
     <string name="ask_who">Demander maintenant</string>
     <string name="at">\@</string>
     <string name="at_least_char">Au moins 8 caractères</string>
@@ -230,7 +229,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="audio_record_rerecord">Redo</string>
     <string name="audio_record_title">Sauvegarder</string>
     <string name="audio_too_short">Message vocal trop court.</string>
-    <string name="audio_weibo_tips">Je peux t'envoyer un message vocal instantanné sur Weibo Chine une fois que tu seras connecté en Chine !</string>
+    <string name="audio_weibo_tips">Je peux t\'envoyer un message vocal instantanné sur Weibo Chine une fois que tu seras connecté en Chine !</string>
     <string name="auto_check_sd_card_space_dialog_cancel_btn">Plus tard</string>
     <string name="auto_check_sd_card_space_dialog_content">La mémoire de l\'appareil est inférieure à 50Mo. Nettoyer le cache afin de gagner en performance.</string>
     <string name="auto_check_sd_card_space_dialog_ok_btn">Nettoyer maintenant</string>
@@ -392,7 +391,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="block_notify_detail">Votre compte a été bloqué suite à une activité irrégulière. Contactez nous à l\'adresse suivante mishu@xiaomi.com pour plus d\'informations</string>
     <string name="block_notify_summary">Votre compte a été bloqué</string>
     <string name="blue_gem_is_enough_message" formatted="false">Pour échanger %s vous avez besoin de %s gemmes bleues ?</string>
-    <string name="blue_gem_not_enough_message" formatted="false">Pour acheter des gemmes bleues ce n'est pas suffisant! Pour échanger %s vous avez besoin de %s gemmes bleues.</string>
+    <string name="blue_gem_not_enough_message" formatted="false">Pour acheter des gemmes bleues ce n\'est pas suffisant! Pour échanger %s vous avez besoin de %s gemmes bleues.</string>
     <string name="book_channel">Livres</string>
     <string name="bottom_forbidden_chat">Bloqué</string>
     <string name="bottom_permit_chat">Débloqué</string>
@@ -555,7 +554,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="click_to_enter">Démarrer Mi-Talk</string>
     <string name="click_to_get_friends">Trouver des amis</string>
     <string name="click_to_play">Appuyez pour lire</string>
-    <string name="click_to_recall">Appuyez pour trouver/string>
+    <string name="click_to_recall">Appuyez pour trouver</string>
     <string name="click_to_search">Rechercher</string>
     <string name="colleague">Collègue</string>
     <string name="collection">Favoris</string>
@@ -567,7 +566,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="common_about_message1">Version: %1$s%2$s</string>
     <string name="common_about_message2">Copyright ?2013 MiLiao.com</string>
     <string name="common_about_message3">Tous Droits Réservés</string>
-    <string name="common_agree">D\'accord</string>
+    <string name="common_agree">Accepter</string>
     <string name="common_bind_error">Trouver pour lier</string>
     <string name="common_bind_phone">Lier téléphone</string>
     <string name="common_bind_phone_tips">A verification code has been sent to your phone</string>
@@ -2198,7 +2197,7 @@ groups and subscribe etc."</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_view">Start a chat</string>
     <string name="message_detail">Message details</string>
-    <string name="miID_uninitialized">Not yet confirmed MiID</string>
+    <string name="miID_uninitialized">Not yet confirmed Mi-ID</string>
     <string name="mi_nickname">Mi-Talk: %s</string>
     <string name="mi_passport">Compte</string>
     <string name="mi_tips">/“Mi Me/” is just another way to say message me on Mi-Talk.</string>
