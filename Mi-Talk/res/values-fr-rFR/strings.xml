@@ -69,22 +69,23 @@
     <string name="action_button_scan">Scanner</string>
     <string name="action_button_send_msg">Nouveau message</string>
     <string name="action_button_vip_edit">Editer</string>
-    <string name="activiate_email_sent">"S\'il vous plait, regardez le mail de confirmation qu'on vient de vous envoyer. 
+    <string name="activiate_email_sent">"S'il vous plait, regardez le mail de confirmation qu'on vient de vous envoyer. 
+
 S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et restaurer votre mot de passe après avoir confirmer vos informations mail."</string>
     <string name="add_a_pic">Ajouter une photo</string>
     <string name="add_avatar">Ajouter une photo</string>
     <string name="add_batch_friends">Ajouter des amis</string>
     <string name="add_contact_hint">Entrez votre demande</string>
-    <string name="add_contact_title">Demande d\'ami</string>
+    <string name="add_contact_title">"Demande d'ami"</string>
     <string name="add_contacts">Ajouter un contact</string>
     <string name="add_desc">Ajouter une description</string>
     <string name="add_desc_optional">Ajouter une description (facultatif)</string>
     <string name="add_disable">Désactivé</string>
-    <string name="add_email_succeeded">"Mis à jour ! Vous allez recevoir une notification d\'email prochainement."</string>
+    <string name="add_email_succeeded">"Mis à jour ! Vous allez recevoir une notification d'email prochainement."</string>
     <string name="add_enable">Activé</string>
     <string name="add_friend">Ajouter</string>
-    <string name="add_friend_char_limit_tips">"Ne pas dépasser 9 caractères"</string>
-    <string name="add_friend_confirm">Accepter la demande d\'ami %s?</string>
+    <string name="add_friend_char_limit_tips">Ne pas dépasser 9 caractères</string>
+    <string name="add_friend_confirm">Accepter la demande d\'ami %s ?</string>
     <string name="add_friend_denied">Echec, cette personne ne veut pas être ajoutée.</string>
     <string name="add_friend_hint">Écris un message (Facultatif)</string>
     <string name="add_friend_in_bubble">Ajouter</string>
@@ -104,19 +105,19 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="add_new_school">Ajouter une école</string>
     <string name="add_phone_contact">Contacts</string>
     <string name="add_phone_failed">Erreur d\'ajout</string>
-    <string name="add_phone_succeeded">"Mis à jour! Vous allez recevoir une notification de texte prochainement."</string>
+    <string name="add_phone_succeeded">"Mis à jour ! Vous allez recevoir une notification de texte prochainement."</string>
     <string name="add_private_mail_box">Ajouter</string>
     <string name="add_reading_account">Souscrire</string>
     <string name="add_renren">Renren</string>
-    <string name="add_request_cancelled">Requête d\'ami annulée</string>
-    <string name="add_scan_code">Scan QR Code</string>
+    <string name="add_request_cancelled">"Requête d'ami annulée"</string>
+    <string name="add_scan_code">Scannez le code QR</string>
     <string name="add_search_group">Rechercher des groupes</string>
     <string name="add_search_person">Rechercher des utilisateurs</string>
     <string name="add_shortcut_dialog_msg">Ajouter %1$s à l\'accueil</string>
     <string name="add_sina_weibo">Sina Weibo</string>
     <string name="add_sns_friend_failed">Échec de mise à jour</string>
     <string name="add_sns_friend_succeeded">Félicitations! Vous êtes connecté avec %d en plus!</string>
-    <string name="add_tag_btn">ajouter un tag</string>
+    <string name="add_tag_btn">Ajouter un tag</string>
     <string name="add_title">Ajouter</string>
     <string name="added_by_me_contacts">invité %d</string>
     <string name="added_me_contacts">%d veux vous ajouter</string>
@@ -129,13 +130,14 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="after_sales_service">Aftersale</string>
     <string name="age">Âge %d</string>
     <string name="agree">D\'accord</string>
-    <string name="agree_contact_licence">Fusionner avec les contacts du carnet d'adresse</string>
-    <string name="agree_private_licence">"J'ai lu et j'accepte "</string>
-    <string name="alert_dialog_known">Je l'ai</string>
+    <string name="agree_contact_licence">Fusionner avec les contacts du carnet d\'adresse</string>
+    <string name="agree_private_licence">"J'ai lu et j'accepte 
+"</string>
+    <string name="alert_dialog_known">Je l\'ai</string>
     <string name="all_friends">Tous les amis</string>
     <string name="all_marked_readed">Marquer tout comme lu</string>
     <string name="all_people_visible">Afficher tout</string>
-    <string name="alread_friend">Amis MiTalk</string>
+    <string name="alread_friend">Amis Mi-Talk</string>
     <string name="already_download_all">Téléchargement terminé.</string>
     <string name="already_in_blacklist">dans la liste des blocages</string>
     <string name="anim_emoji_mall_paid">Acheté</string>
@@ -150,13 +152,13 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
  taille: %2$.2f Mo"</string>
     <string name="anime_fix_success">Réparé</string>
     <string name="anime_fix_title">Réparer Emoticons</string>
-    <string name="anime_list_retry_text">Échec afin d'obtenir les informations de l\'emoticon information, merci de vérifier votrre connexion et de réessayer à nouveau</string>
+    <string name="anime_list_retry_text">Échec afin d\'obtenir les informations de l\'emoticon information, merci de vérifier votrre connexion et de réessayer à nouveau</string>
     <string name="animemoji_btn_coin">Mi Credits</string>
     <string name="animemoji_btn_delete">Supprimer</string>
     <string name="animemoji_btn_download">Télécharger</string>
     <string name="animemoji_btn_downloading">Téléchargement en cours</string>
     <string name="animemoji_btn_free">Gratuit</string>
-    <string name="animemoji_btn_in_use">En cours d'utilisation</string>
+    <string name="animemoji_btn_in_use">En cours d\'utilisation</string>
     <string name="animemoji_delete_confirm">Continuez pour effacer cet emoticon?</string>
     <string name="animemoji_detail_title">Détails</string>
     <string name="animemoji_entrance_title">表情</string>
@@ -182,10 +184,10 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="app_name">Mi-Talk</string>
     <string name="app_name_miliao_2015">Mi-Talk 2015</string>
     <string name="app_name_miliao_test_2015">Mi-Talk 2015</string>
-    <string name="app_need_sdcard_to_add">Carte SD indisponible. Vous avez besoin d'une carte SD pour intaller les extensions  MiWorld.</string>
-    <string name="app_need_sdcard_to_install">Carte SD indisponible.  Vous avez besoin d'une carte SD pour ajouter les extensions  MiWorld.</string>
+    <string name="app_need_sdcard_to_add">Carte SD indisponible. Vous avez besoin d\'une carte SD pour intaller les extensions  MiWorld.</string>
+    <string name="app_need_sdcard_to_install">Carte SD indisponible.  Vous avez besoin d\'une carte SD pour ajouter les extensions  MiWorld.</string>
     <string name="app_need_sdcard_to_remove">Carte SD indisponible</string>
-    <string name="app_need_sdcard_to_use">Carte SD indisponible. Vous avez besoin d'une carte SD pour lancer les extensions  MiWorld.</string>
+    <string name="app_need_sdcard_to_use">Carte SD indisponible. Vous avez besoin d\'une carte SD pour lancer les extensions  MiWorld.</string>
     <string name="app_need_to_install">"Vous n'avez pas installé “%s. Vous pouvez le trouver dans le centre des extensions sous l'onglet Moi."</string>
     <string name="app_paused">En Pause</string>
     <string name="app_shortcut_created">Créer un raccourci</string>
@@ -194,7 +196,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="app_uninstalling_please_wait">Désinstallation…</string>
     <string name="app_unziping">Terminé…</string>
     <string name="app_update">Mise à jour</string>
-    <string name="app_upgradeDetail">Une nouvelle version de MiTalk est disponible, voulez-vous l'installer maintenant ?</string>
+    <string name="app_upgradeDetail">Une nouvelle version de MiTalk est disponible, voulez-vous l\'installer maintenant ?</string>
     <string name="app_upgradeDownloading">Mise à jour…</string>
     <string name="app_upgradeFailed">Impossible de mettre à jour, merci de réessayer plus tard.</string>
     <string name="app_upgradeNo">Me le redemander plus tard</string>
@@ -203,7 +205,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="app_upgrade_additional_size">[Mise à jour]Installation taille: %.2fMo</string>
     <string name="app_xiezai">Désinstaller</string>
     <string name="apply_reason">Envoyer une demande</string>
-    <string name="apply_reason_key">Demande d'ajout</string>
+    <string name="apply_reason_key">Demande d\'ajout</string>
     <string name="apply_theme">Appliquer</string>
     <string name="archive_management_title">Tchats archivés</string>
     <string name="archive_robot_displayname">Tchats archivés</string>
@@ -217,10 +219,10 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="archived_success">Sauvegardé</string>
     <string name="archived_total_number">%s total</string>
     <string name="archiving">Ajouté…</string>
-    <string name="area_muc">Groupe d'intérêt commun</string>
+    <string name="area_muc">Groupe d\'intérêt commun</string>
     <string name="ask_text">Salut~ qui c'est ?</string>
     <string name="ask_who">Demander maintenant</string>
-    <string name="at">"\@"</string>
+    <string name="at">\@</string>
     <string name="at_least_char">Au moins 8 caractères</string>
     <string name="attachment_search_empty">Vide</string>
     <string name="audio">Message vocal</string>
@@ -239,19 +241,19 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="award_detial">Détails du Prix</string>
     <string name="award_info">Informations du Prix</string>
     <string name="award_people">Vainqueurs du Prix</string>
-    <string name="back">retour</string>
+    <string name="back">Retour</string>
     <string name="back_to_share_app">Retourner à %s</string>
-    <string name="background_current_used">En cours d'utilisation</string>
+    <string name="background_current_used">En cours d\'utilisation</string>
     <string name="background_delete_error">Échec pour effacer, merci de réessayer.</string>
-    <string name="background_delete_success">Suppression des fonds d'écran réussie.</string>
+    <string name="background_delete_success">Suppression des fonds d\'écran réussie.</string>
     <string name="background_do_btn">Appliquer</string>
     <string name="background_downloaded">Téléchargé</string>
     <string name="background_loading">Chargement…</string>
     <string name="background_no_content">Oups! Erreur de connexion internet!</string>
     <string name="background_preview_btn">Prévisualisation</string>
-    <string name="background_preview_delete_content">Êtes-vous sûr de vouloir supprimer ce fond d'écran ?</string>
+    <string name="background_preview_delete_content">Êtes-vous sûr de vouloir supprimer ce fond d\'écran ?</string>
     <string name="background_preview_loading">Chargement…</string>
-    <string name="background_preview_title">Prévisualisation du fond d'écran</string>
+    <string name="background_preview_title">Prévisualisation du fond d\'écran</string>
     <string name="background_select_local_btn">Tchat</string>
     <string name="background_select_other_btn">Ajouter</string>
     <string name="background_select_remote_btn">En ligne</string>
@@ -291,7 +293,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="bbs_detail_size_lessen">Réduire la taille de la police</string>
     <string name="bbs_detail_url_succeed">Lien copié</string>
     <string name="bbs_detail_view_all">Afficher tout</string>
-    <string name="bbs_detail_view_only_author">Afficher uniquement le fil de l'auteur</string>
+    <string name="bbs_detail_view_only_author">Afficher uniquement le fil de l\'auteur</string>
     <string name="bbs_favor_title">Les plus vues</string>
     <string name="bbs_floor_index">%d floor</string>
     <string name="bbs_publish_btn">Post</string>
@@ -311,7 +313,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="bbs_publish_title">Post</string>
     <string name="bbs_publish_title_hint">Entrez un titre</string>
     <string name="bbs_register_empty">Le surnom ne doit pas être vide</string>
-    <string name="bbs_register_succeed">Paramétrage du surnom réussi!</string>
+    <string name="bbs_register_succeed">Paramétrage du surnom réussi !</string>
     <string name="bbs_reply_count">Répondus:%d</string>
     <string name="bbs_reply_from">Cités: %s</string>
     <string name="bbs_reply_hint">Répondus</string>
@@ -325,7 +327,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="bbs_threads_author_tag_4">4ème place</string>
     <string name="bbs_view_count">Vues:%d</string>
     <string name="begin_to_batch_delete_sms">Commencer la suppression</string>
-    <string name="begin_to_export_avatars">Synchronisation des photosde vos contacts de MiTalk vers le carnet d'adresse…</string>
+    <string name="begin_to_export_avatars">Synchronisation des photosde vos contacts de MiTalk vers le carnet d\'adresse…</string>
     <string name="big_group_edit_btn_done">Sauvegarder</string>
     <string name="big_group_edit_btn_edit">Éditer</string>
     <string name="big_group_find_group_filter_activity">Popularité</string>
@@ -334,7 +336,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="big_group_find_group_filter_member_num">Membres</string>
     <string name="big_group_find_group_filter_msg_num">Poster</string>
     <string name="big_group_find_group_filter_nearby">Proche</string>
-    <string name="big_group_list_guide_tips">Souhaitez-vous un groupe de contacts pour un groupe de plus de 100 contacts? Très bien, vous en avez un maintenant!</string>
+    <string name="big_group_list_guide_tips">Souhaitez-vous un groupe de contacts pour un groupe de plus de 100 contacts ? Très bien, vous en avez un maintenant !</string>
     <string name="big_group_load_more">Voir plus…</string>
     <string name="big_group_member_album_title">Album groupe</string>
     <string name="big_group_member_cannot_add_more">Ce groupe a atteint la taille maximum</string>
@@ -348,7 +350,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="big_group_member_title">Groupe des membres</string>
     <string name="bind">Ajouté</string>
     <string name="bind_access_binded_phone">Enregistré avec</string>
-    <string name="bind_access_email_binded">l'email a été enregistré.</string>
+    <string name="bind_access_email_binded">l\'email a été enregistré.</string>
     <string name="bind_access_tips">Liez votre numéro de téléphone avec votre compte pour vous connecter plus facilement.</string>
     <string name="bind_account">Compte SNS </string>
     <string name="bind_email">Email</string>
@@ -356,7 +358,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="bind_email_tips">ex. John@xiaomi.com</string>
     <string name="bind_error">Échec de la liaison</string>
     <string name="bind_facebook_success">Vous êtes maintenant connecté sur Facebook.</string>
-    <string name="bind_now">enregistrer</string>
+    <string name="bind_now">Enregistrer</string>
     <string name="bind_phone">Numéro de téléphone</string>
     <string name="bind_phone_access_tips">Les autres utilisateurs ne verront pas votre numéro de téléphone.</string>
     <string name="bind_phone_default_country">Afghanistan</string>
@@ -387,7 +389,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="blacklist_remove_succeed">Liste des blocages mise à jour!</string>
     <string name="blacklist_unblock_succeed">Les blocages ont été annulés.</string>
     <string name="block_alarm">Notifications de blocage</string>
-    <string name="block_notify_detail">Votre compte a été bloqué suite à une activité irrégulière. Contactez nous à l'adresse suivante mishu@xiaomi.com pour plus d'informations</string>
+    <string name="block_notify_detail">Votre compte a été bloqué suite à une activité irrégulière. Contactez nous à l\'adresse suivante mishu@xiaomi.com pour plus d\'informations</string>
     <string name="block_notify_summary">Votre compte a été bloqué</string>
     <string name="blue_gem_is_enough_message" formatted="false">Pour échanger %s vous avez besoin de %s gemmes bleues ?</string>
     <string name="blue_gem_not_enough_message" formatted="false">Pour acheter des gemmes bleues ce n'est pas suffisant! Pour échanger %s vous avez besoin de %s gemmes bleues.</string>
@@ -421,9 +423,9 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="buddy_type_ik">"Vous avez les informations de contact concernant cet utilisateur"</string>
     <string name="buddy_type_km">Cet utilisateur à vos informations de contact</string>
     <string name="buddy_type_miliao">Ami MiTalk</string>
-    <string name="buddy_type_university_schoolmate">Ami d'Université</string>
+    <string name="buddy_type_university_schoolmate">Ami d\'Université</string>
     <string name="burn_mode">Mode Destruction</string>
-    <string name="burn_mode_audio">[Supprimer l'enregistrement audio après l\'avoir écouté]</string>
+    <string name="burn_mode_audio">[Supprimer l\'enregistrement audio après l\'avoir écouté]</string>
     <string name="burn_mode_been_destroyed">Déjà effacé</string>
     <string name="burn_mode_been_screenshot_tip">Le destinataire a pris une capture d\'écran de votre message</string>
     <string name="burn_mode_begin_screenshot_tip">Les captures d\'écran sont interdites</string>
@@ -455,12 +457,12 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="cannot_delete_last_binded_phone">Vous devez vous enregistrer avec au moins un numéro de téléphone.</string>
     <string name="cannot_delete_secretary">Désolé, impossible de supprimer via Mitalk.</string>
     <string name="cannot_find_app_to_open_file">Impossible de trouver une application pour ouvrir</string>
-    <string name="cannot_report_self">"Vous n\'avez pas les droits pour le signaler"</string>
+    <string name="cannot_report_self">Vous n\'avez pas les droits pour le signaler</string>
     <string name="change_bkg_oom">Pas assez d\'espace pour changer le fond d\'écran, libérez de la mémoire et réessayez.</string>
     <string name="change_password_new">Nouveau mot de passe:</string>
     <string name="change_pwd">Changer mot de passe</string>
     <string name="change_secret_account_unsecret_tips">Vous serez redirigé vers une page Web pour achever ce processus.</string>
-    <string name="change_secret_accout_email_tips">Nous sommes sur le point d'ouvrir un navigateur Web afin de compléter ce processus. Veuillez noter que les informations actuelles de votre compte seront supprimées après ce changement. Voulez-vous continuer ?</string>
+    <string name="change_secret_accout_email_tips">Nous sommes sur le point d\'ouvrir un navigateur Web afin de compléter ce processus. Veuillez noter que les informations actuelles de votre compte seront supprimées après ce changement. Voulez-vous continuer ?</string>
     <string name="change_secret_accout_phone_tips">Voulez-vous ouvrir une page web pour compléter ce processus?</string>
     <string name="changing_pwd">Mise à jour du mot de passe…</string>
     <string name="changing_pwd_failed">Échec du changement de mot de passe</string>
@@ -478,7 +480,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="channel_publish_movie_info">"Réalisateur: %1$s
  Rôles principaux: %2$s"</string>
     <string name="channel_publish_music_artist">"%1$s | Du: %2$s thème de la chanson"</string>
-    <string name="channel_publish_music_hint">crire quelque chose à propos de la chanson</string>
+    <string name="channel_publish_music_hint">Ecrire quelque chose à propos de la chanson</string>
     <string name="channel_publish_text_hint">Entrer du texte</string>
     <string name="channel_publish_title">Soyez fou</string>
     <string name="channel_publish_vote_hint">Entrer votre vote</string>
@@ -486,13 +488,13 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="channel_publish_vote_option2_hint">Option 2</string>
     <string name="channel_publish_vote_option3_hint">Options 3</string>
     <string name="channel_publish_vote_option4_hint">Option 4</string>
-    <string name="channel_publish_vote_option_add">Add one option</string>
-    <string name="channel_vote_count">%d voters</string>
-    <string name="char_limit">1-9 characters</string>
+    <string name="channel_publish_vote_option_add">Ajouter une option</string>
+    <string name="channel_vote_count">%d votes</string>
+    <string name="char_limit">1-9 caractères</string>
     <string name="chat_bottom_add_voip_btn">Voip</string>
     <string name="chat_group">Inviter</string>
-    <string name="chat_record_file_header_part_1_buddy">[Mi-Talk] Conversation avec %s</string>
-    <string name="chat_record_file_header_part_1_group_and_muc">[Mi-Talk]Nom du groupe: %s</string>
+    <string name="chat_record_file_header_part_1_buddy">[MiTalk] Conversation avec %s</string>
+    <string name="chat_record_file_header_part_1_group_and_muc">[MiTalk]Nom du groupe: %s</string>
     <string name="chat_record_file_header_part_2">Sauvgardé: %s</string>
     <string name="check_bind_dialog_cancel_button">Annuler</string>
     <string name="check_bind_dialog_email_button">Activer email</string>
@@ -519,7 +521,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="choose_group_member">Choisissez les membres du groupe</string>
     <string name="choose_groups">Choisissez un groupe</string>
     <string name="choose_location_address">Sélectionnez votre localisation</string>
-    <string name="choose_muc_member">Choisissez l'union des membres</string>
+    <string name="choose_muc_member">Choisissez le groupe des membres</string>
     <string name="choose_muc_poi">Choisissez une localisation</string>
     <string name="choose_mutil_talk">Choisissez un groupe de tchat</string>
     <string name="choose_nearby_position">Choisissez une localisation</string>
@@ -527,9 +529,9 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="choose_one">Sélectionnez-en une</string>
     <string name="choose_phone_contact">Choisissez des contacts</string>
     <string name="choose_service_account">Choisissez un service de comptes</string>
-    <string name="choose_union">Choisissez des unions</string>
-    <string name="choose_unions">Choisissez une union</string>
-    <string name="choosertitle_sharevia">Complêtez cette action pour l'utiliser</string>
+    <string name="choose_union">Choisissez des groupe</string>
+    <string name="choose_unions">Choisissez un groupe</string>
+    <string name="choosertitle_sharevia">Complêtez cette action pour l\'utiliser</string>
     <string name="chose_buddy_already_exist_private_mailbox">Déjà existant dans la boîte de réception privée</string>
     <string name="chose_muc_category">Intérêt</string>
     <string name="chose_muc_label">Ajouté un titre</string>
@@ -540,17 +542,17 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="chose_pic_size">(%s)</string>
     <string name="chose_position">Choisissez une localisation</string>
     <string name="classmate">Camarade de classe</string>
-    <string name="clean_account_warning">Tout l'historique de tchat du compte précédent sera effacé.</string>
+    <string name="clean_account_warning">Tout l\'historique de tchat du compte précédent sera effacé.</string>
     <string name="clear_avatar_cache">Effacer les images du profil</string>
     <string name="clear_avatar_cache_info">Effacer les images du profil ?</string>
     <string name="clear_avatar_step">Étape</string>
     <string name="clear_button">Effacer</string>
-    <string name="clear_stat_confirm">Effacer les informations d'utilisation de données ?</string>
+    <string name="clear_stat_confirm">Effacer les informations d\'utilisation de données ?</string>
     <string name="clear_statistics">Effacer les statistiques</string>
     <string name="clearing_avatar_cache">Chargement…</string>
     <string name="click_add_comments">Appuyez pour éditer le  surnom</string>
     <string name="click_to_download">Cliquez pour télécharger</string>
-    <string name="click_to_enter">Démarrer MiTalk</string>
+    <string name="click_to_enter">Démarrer Mi-Talk</string>
     <string name="click_to_get_friends">Trouver des amis</string>
     <string name="click_to_play">Appuyez pour lire</string>
     <string name="click_to_recall">Appuyez pour trouver/string>
@@ -558,14 +560,14 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="colleague">Collègue</string>
     <string name="collection">Favoris</string>
     <string name="collection_person">Favoris</string>
-    <string name="college">Name de l\'école</string>
+    <string name="college">Nom de l\'école</string>
     <string name="comment">Commentaire</string>
     <string name="commit">OK</string>
     <string name="commit_chose_position_message">Une fois sélectionné, la localisation ne sera plus modifiable</string>
     <string name="common_about_message1">Version: %1$s%2$s</string>
     <string name="common_about_message2">Copyright ?2013 MiLiao.com</string>
     <string name="common_about_message3">Tous Droits Réservés</string>
-    <string name="common_agree">D'accord</string>
+    <string name="common_agree">D\'accord</string>
     <string name="common_bind_error">Trouver pour lier</string>
     <string name="common_bind_phone">Lier téléphone</string>
     <string name="common_bind_phone_tips">A verification code has been sent to your phone</string>
@@ -583,14 +585,14 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="common_creating_account">Creating account…</string>
     <string name="common_current_password">Current password:</string>
     <string name="common_download_install">Download and install</string>
-    <string name="common_download_miliao">Download MiTalk</string>
-    <string name="common_download_miliao_chat_hint">Install MiTalk and chat with %1$s</string>
+    <string name="common_download_miliao">Download Mi-Talk</string>
+    <string name="common_download_miliao_chat_hint">Install Mi-Talk and chat with %1$s</string>
     <string name="common_download_miliao_failed">Failed to download</string>
-    <string name="common_download_miliao_hint">Install MiTalk to chat with %1$s</string>
+    <string name="common_download_miliao_hint">Install Mi-Talk to chat with %1$s</string>
     <string name="common_download_miliao_running">Downloading…</string>
     <string name="common_download_miliao_succeed">Download complete</string>
-    <string name="common_download_miliao_voip_hint">You need to install MiTalk to chat with %1$sYY</string>
-    <string name="common_download_miliao_wall_hint">"You need to install Mi Talk to view %1$s's messages"</string>
+    <string name="common_download_miliao_voip_hint">You need to install Mi-Talk to chat with %1$sYY</string>
+    <string name="common_download_miliao_wall_hint">"You need to install Mi-Talk to view %1$s's messages"</string>
     <string name="common_download_progress">%d%%</string>
     <string name="common_email_not_for_secret">Public mailbox</string>
     <string name="common_email_unbinded">This email is not associated with any account</string>
@@ -1137,8 +1139,11 @@ Living in Guomao"</string>
 If you wish to turn it off, you can do via Phone Book Contacts in Account Privacy settings."</string>
     <string name="enabled_phone_btn_tips">View now</string>
     <string name="enabled_phone_tv_tips">"Welcome to Mi-Talk!
+
+
+
  See which of your contacts are already using Mi-Talk"</string>
-    <string name="enter_miliao">Start Mi-Talk>></string>
+    <string name="enter_miliao">"Démarrer Mi-Talk>>"</string>
     <string name="enter_miliao_tips">Go to Mi-Talk</string>
     <string name="enter_network_settings">Change network connection</string>
     <string name="enter_send_msg">Appuyez sur Entrer pour envoyer</string>
@@ -1211,7 +1216,7 @@ If you wish to turn it off, you can do via Phone Book Contacts in Account Privac
     <string name="fetch_network_data_error">Failed to identify network data.</string>
     <string name="file">Fichiers</string>
     <string name="file_category_edittext_hint">Type to search</string>
-    <string name="file_category_empty_tip">Fichier n\'existe pas</string>
+    <string name="file_category_empty_tip">"Fichier n'existe pas"</string>
     <string name="file_create_time">Time created:</string>
     <string name="file_explorer_item_itemName0">Application</string>
     <string name="file_explorer_item_itemName1">Document</string>
@@ -1223,7 +1228,7 @@ If you wish to turn it off, you can do via Phone Book Contacts in Account Privac
     <string name="file_explorer_item_title4">Recherche par répertoire</string>
     <string name="file_explorer_title">Envoyer un fichier</string>
     <string name="file_format_not_supported">Le système ne prend pas en charge ce format</string>
-    <string name="file_not_exist">Fichier n\'existe pas</string>
+    <string name="file_not_exist">"Fichier n'existe pas"</string>
     <string name="file_not_exist_toast">Photo not exist</string>
     <string name="file_path">Path:</string>
     <string name="file_size">Taille:</string>
@@ -1345,12 +1350,12 @@ If you wish to turn it off, you can do via Phone Book Contacts in Account Privac
     <string name="friend_recommend_bubble_UUID">(Mi ID: %s)</string>
     <string name="friend_recommend_robot_conversation_head">Nom: %1$s, Mi-ID:%2$s,%3$s</string>
     <string name="friend_relation_colike">This person also likes you</string>
-    <string name="friend_req">Demande d\'amis</string>
+    <string name="friend_req">"Demande d'amis"</string>
     <string name="friend_req_notif">%1$s asked to connect with you on Mi-Talk</string>
     <string name="friend_request">Verify request</string>
     <string name="friend_request_multiple_operation">Batch select</string>
     <string name="friend_request_notification_none">No friend requests</string>
-    <string name="friend_validation">Demande d\'amis</string>
+    <string name="friend_validation">"Demande d'amis"</string>
     <string name="friend_validation_alert_batch_accept">Accept them?</string>
     <string name="friend_validation_alert_batch_ignore">Ignore them?</string>
     <string name="friend_validation_batch_handle">Batch handle</string>
@@ -1483,10 +1488,10 @@ If you wish to turn it off, you can do via Phone Book Contacts in Account Privac
 My%4$s:%5$d"</string>
     <string name="gift_exp" formatted="false">Level: %d（Experience: %s）</string>
     <string name="gift_game_list">Get Benefits</string>
-    <string name="gift_game_res_download_package">chargement（%.1f%%）</string>
-    <string name="gift_game_res_download_package1">chargement（%dK）</string>
-    <string name="gift_game_res_download_progress" formatted="false">chargement%d/%d（%dKo）</string>
-    <string name="gift_game_res_downloading">chargement</string>
+    <string name="gift_game_res_download_package">Chargement（%.1f%%）</string>
+    <string name="gift_game_res_download_package1">Chargement（%dK）</string>
+    <string name="gift_game_res_download_progress" formatted="false">Chargement%d/%d（%dKo）</string>
+    <string name="gift_game_res_downloading">Chargement</string>
     <string name="gift_game_reward_exp_failed">Failed</string>
     <string name="gift_game_reward_exp_progress">Getting the rewards…</string>
     <string name="gift_game_share_weibo_prepare">Preparing</string>
@@ -1598,7 +1603,7 @@ groups and subscribe etc."</string>
     <string name="group_add_description_tips">When you add content in the \"About\" section, people who are interested can learn more about your group.</string>
     <string name="group_admin_limit_three">"1 group can't have more than 3 managers."</string>
     <string name="group_album_title">Album</string>
-    <string name="group_announce">Panneau d\'information</string>
+    <string name="group_announce">"Panneau d'information"</string>
     <string name="group_avatar">Profile pics.</string>
     <string name="group_card_add_member">Add Member</string>
     <string name="group_card_description">About</string>
@@ -1736,7 +1741,7 @@ groups and subscribe etc."</string>
     <string name="group_setting_receive_notify">Push notification</string>
     <string name="group_setting_recommend_group">Recommended groups</string>
     <string name="group_setting_request_to_join">I want to join</string>
-    <string name="group_setting_set_background">Paramètres d\'arrière-plan</string>
+    <string name="group_setting_set_background">"Paramètres d'arrière-plan"</string>
     <string name="group_setting_set_msg_notiry">Chat notification</string>
     <string name="group_setting_tag_key">Union tag</string>
     <string name="group_setting_title">Profile and settings</string>
@@ -2333,7 +2338,7 @@ groups and subscribe etc."</string>
     <string name="msg_bubble_font_size_greate">Très grand</string>
     <string name="msg_bubble_font_size_medium">Moyen</string>
     <string name="msg_bubble_font_size_normal">Normal</string>
-    <string name="msg_bubble_font_size_settings">Taille d\écriture</string>
+    <string name="msg_bubble_font_size_settings">Taille d\'écriture</string>
     <string name="msg_bubble_font_size_small">Petit</string>
     <string name="muc_active_helper">How to increase activity level</string>
     <string name="muc_active_key_admin_num">Administrator</string>
@@ -2589,7 +2594,7 @@ Follow the instructions in the email to complete the verification process."</str
     <string name="multi_graph_share_to">Share with:</string>
     <string name="music">Chansons</string>
     <string name="music_channel">Musique</string>
-    <string name="music_friend_cd">CD d\'aujourd\'hui</string>
+    <string name="music_friend_cd">"CD d'aujourd'hui"</string>
     <string name="music_friend_list_empty">You have no friends yet, please add via contacts</string>
     <string name="music_friend_list_failed">"Failed to load Friends' Theme Songs list, please pull down and try again"</string>
     <string name="music_friend_music_count">%d songs</string>
@@ -2862,8 +2867,8 @@ Follow the instructions in the email to complete the verification process."</str
     <string name="network_error_notify">Please check you internet connections or try again later</string>
     <string name="network_unavailable">No network available</string>
     <string name="never_show">Don’t show again</string>
-    <string name="new_buddy_conversation_basic">%1$s (Mi-ID: %2$s)</string>
-    <string name="new_friend">Demande d\'ami</string>
+    <string name="new_buddy_conversation_basic">%1$s (MiID: %2$s)</string>
+    <string name="new_friend">"Demande d'ami"</string>
     <string name="new_friend_request_notification">You have got a new notification, you can pull to refresh.</string>
     <string name="new_friends">New friends</string>
     <string name="new_lbs_guide_tip">Tap to invite friends</string>
@@ -2882,7 +2887,7 @@ Follow the instructions in the email to complete the verification process."</str
     <string name="new_namecard_add_location">Add location</string>
     <string name="new_namecard_add_mood">Edit status</string>
     <string name="new_namecard_add_more_company">Ajouter une sociéte</string>
-    <string name="new_namecard_add_more_domain">Ajouter d\'autres d\'intérêts</string>
+    <string name="new_namecard_add_more_domain">"Ajouter d'autres d'intérêts"</string>
     <string name="new_namecard_add_more_email">Ajouter une adresse mail</string>
     <string name="new_namecard_add_more_phone">Ajouter numéro de téléphone</string>
     <string name="new_namecard_add_more_school">Ajouter école</string>
@@ -3034,7 +3039,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="notification_cnt">You have %1$d new notifications</string>
     <string name="notification_msg_load_err">Failed to upload</string>
     <string name="notification_new_fri_content">You have %d new friend requests</string>
-    <string name="notification_new_fri_title">Demande d\'ami</string>
+    <string name="notification_new_fri_title">"Demande d'ami"</string>
     <string name="notification_not_be_friend_tip">Friend request canceled</string>
     <string name="notification_topic_wall_reply">"%1$s commented on %2$s's post."</string>
     <string name="notification_topic_wall_reply_with_cnt">"%1$s…(%2$d) commented on %3$s's post."</string>
@@ -3053,6 +3058,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="nr_add_avatar">Add profile photo</string>
     <string name="nr_edit_avatar">Edit</string>
     <string name="nr_female">Female</string>
+    <string name="nr_hint_name" />
     <string name="nr_male">Male</string>
     <string name="nr_name">Name</string>
     <string name="nr_password">Password</string>
@@ -3088,7 +3094,9 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="open_camera_exception_dialog_title">An error occurred</string>
     <string name="open_image_failed">Failed to enlarge</string>
     <string name="open_in_system_browser">Open in browser</string>
-    <string name="open_link_download_forbidden_tips">"You're opening:%s
+    <string name="open_link_download_forbidden_tips">"You're opening:
+%s
+
 . Please open in a browser to download from the link."</string>
     <string name="open_link_failed">This link is not safe</string>
     <string name="open_match_contact">Sync contacts</string>
@@ -3610,7 +3618,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="remind_refuse_btn">Don’t show again</string>
     <string name="remind_refuse_dialog_body">We will notify sender. Please confirm that you wish to not be reminded again.</string>
     <string name="remind_repeat_everyday">day</string>
-    <string name="remind_separator">"/"</string>
+    <string name="remind_separator">/</string>
     <string name="remind_set_repeat_day">Repeat</string>
     <string name="remind_set_repeat_tip">You will be reminded every %1$s</string>
     <string name="remind_set_time_invalid_msg">It has past the time selected, please reset time for this reminder.</string>
@@ -3646,6 +3654,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="report_gift">Avantages</string>
     <string name="report_group">Rapport</string>
     <string name="report_info">Send feedback</string>
+    <string name="report_input_default_hint" />
     <string name="report_input_other_hint">Please descript your problems</string>
     <string name="report_input_suggestion_hint">Please give your suggestions</string>
     <string name="report_mall">Mi store</string>
@@ -3694,12 +3703,12 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="reset_password">Reset password</string>
     <string name="reset_password_your_miid">Mi Account</string>
     <string name="resource_from">From %s</string>
-    <string name="restore_buddies">Synchro liste d\'amis</string>
+    <string name="restore_buddies">"Synchro liste d'amis"</string>
     <string name="restore_buddies_cannot_back">Still syncing…</string>
     <string name="restore_buddies_info">If some of your friends are missing, try syncing with Mi-Cloud.</string>
     <string name="restore_buddies_negative">Annuler</string>
     <string name="restore_buddies_positive">OK</string>
-    <string name="restore_buddies_title">Synchro liste d\'amis</string>
+    <string name="restore_buddies_title">"Synchro liste d'amis"</string>
     <string name="restoring_buddies">Syncing %s</string>
     <string name="retrieve_apply_dialog_hint">Enter your Mi Account</string>
     <string name="retrieve_apply_dialog_title">"If you dont have access to your previous email address or phone number, 
@@ -3924,7 +3933,7 @@ Mi ID: %2$s
     <string name="setting_pwd">Setting password…</string>
     <string name="setting_pwd_failed">Failed to update password settings</string>
     <string name="setting_pwd_succeed">Password changed</string>
-    <string name="setting_sync_friend">Synchro liste d\'amis</string>
+    <string name="setting_sync_friend">"Synchro liste d'amis"</string>
     <string name="setting_sync_muc">Sync friends groupchat or Union list</string>
     <string name="setting_sync_subscribe">Synchro liste des abonnements</string>
     <string name="setting_sysn_list">Synchro liste de contacts</string>
@@ -3942,11 +3951,11 @@ Mi ID: %2$s
     <string name="settings_cancel">Annuler</string>
     <string name="settings_close">Désactivé</string>
     <string name="settings_contact_black_list">Blocklist</string>
-    <string name="settings_friend_validate">Demande d\'ami</string>
+    <string name="settings_friend_validate">"Demande d'ami"</string>
     <string name="settings_group_talk">Friends groupchat</string>
     <string name="settings_how_to_search_me">Find me</string>
     <string name="settings_icon_unread_num">Indiquer le nombre de messages</string>
-    <string name="settings_manage_sns_accounts">Ajouter d\'autres comptes</string>
+    <string name="settings_manage_sns_accounts">"Ajouter d'autres comptes"</string>
     <string name="settings_message_success">Updated</string>
     <string name="settings_message_switch">Contact</string>
     <string name="settings_muc_group">Groupe</string>
@@ -3978,7 +3987,7 @@ Mi ID: %2$s
     <string name="settings_ppl_switch">Pengpeng chat</string>
     <string name="settings_pref_item_about">A propos</string>
     <string name="settings_pref_item_assistant">Paramètres additionnels</string>
-    <string name="settings_pref_item_background">Paramètres d\'arrière-plan</string>
+    <string name="settings_pref_item_background">"Paramètres d'arrière-plan"</string>
     <string name="settings_pref_item_clear_cache">Vider le cache</string>
     <string name="settings_pref_item_exit_confirm">Confirmer avant de quitter</string>
     <string name="settings_pref_item_feedback">Commentaires</string>
@@ -4133,7 +4142,7 @@ Mi ID: %2$s
     <string name="sixin_popup_char_limit">You have exceeded the maximum length.</string>
     <string name="sixin_popup_default_content">Hi, I just sent you a friend request, please click Agree above or in the name card.</string>
     <string name="sixin_popup_hint">Not more than 30 characters</string>
-    <string name="sixin_popup_title">Demande d\'ami</string>
+    <string name="sixin_popup_title">"Demande d'ami"</string>
     <string name="sixin_private_all">Exchanged friend request</string>
     <string name="sixin_private_limit">"Sorry, this user doesn't wish to receive any message."</string>
     <string name="sixin_remind">Message alert</string>
@@ -4272,7 +4281,7 @@ Mi ID: %2$s
     <string name="spread_secretry_click_to_check_status">Tap to see invitation status</string>
     <string name="spread_secretry_click_to_join_act">Tap to join >></string>
     <string name="spread_secretry_join_act">Invite 5 friends and get rewards! Touch to participate >></string>
-    <string name="spread_verify_web_url">http://m.miliao.com/active/telrate/list?uuid=%1$s et s=%2$s</string>
+    <string name="spread_verify_web_url">http://m.miliao.com/active/telrate/list?uuid=%1$s&amp;s=%2$s</string>
     <string name="spread_visit_web_to_check_status">Visit www.miliao.com to view your status</string>
     <string name="spread_you_can_also_send_N_sms_to_invite">Send %d invitations via SMS</string>
     <string name="spread_you_can_send_N_sms_to_invite">Send %d invitations for free via text</string>
@@ -4324,6 +4333,8 @@ Mi ID: %2$s
     <string name="subscribe_xmpp_message_body">"The version of Mi-Talk you're using doesn't support this type of message."</string>
     <string name="subscription_account">Abonnement</string>
     <string name="sunday">Sunday</string>
+    <string name="switch_off" />
+    <string name="switch_on" />
     <string name="symbain_v3">Symbian V3</string>
     <string name="symbain_v5">Symbian V5</string>
     <string name="sync_add_erro">Unable to proceed, please try again.</string>
@@ -4360,7 +4371,7 @@ Mi ID: %2$s
     <string name="sync_sina_weibo_token_expired">Sign in to your Weibo account</string>
     <string name="sync_sina_weibo_unbind">You need to bind a Sina Weibo account first</string>
     <string name="sync_subscribe_info">"To avoid losing info, sync subscriptions. It takes about 1 minute and can't be cancelled."</string>
-    <string name="sync_subscribe_title">Liste d\'abonnement</string>
+    <string name="sync_subscribe_title">"Liste d'abonnement"</string>
     <string name="sync_success">Synced</string>
     <string name="syncing">Syncing…</string>
     <string name="sys_language">Langue du système</string>
@@ -4436,9 +4447,9 @@ Mi ID: %2$s
     <string name="traffic_clear">Effacer toutes les données</string>
     <string name="traffic_image">Photos</string>
     <string name="traffic_month">Ce mois-ci</string>
-    <string name="traffic_summary">Les données ci-dessus montre l\'utilisation du GPRS/3G</string>
+    <string name="traffic_summary">"Les données ci-dessus montre l'utilisation du GPRS/3G"</string>
     <string name="traffic_text">Texte</string>
-    <string name="traffic_today">Aujourd\'hui</string>
+    <string name="traffic_today">"Aujourd'hui"</string>
     <string name="traffic_total">Total</string>
     <string name="traffic_type">Fichier</string>
     <string name="traffic_video">Vidéos</string>
@@ -4460,6 +4471,7 @@ Mi ID: %2$s
     <string name="turn_to_speaker">Speaker mode</string>
     <string name="turned_to_ear_phone">Speaker is off</string>
     <string name="turned_to_speaker">Speaker is on.</string>
+    <string name="type_to_compose_text_enter_to_send" />
     <string name="un_offen_comment">Has been inactive for 15 days</string>
     <string name="un_offen_groups">Archived groups</string>
     <string name="unarchiving">Moving…</string>
@@ -4715,6 +4727,7 @@ Note: verification code expires after 24hrs from the time it gets delivered."</s
     <string name="voice_input">Voice</string>
     <string name="voip_already_in_call_hint">End call?</string>
     <string name="voip_audio_entry">MiCall</string>
+    <string name="voip_call_title" />
     <string name="voip_failed_connect_media_server">Failed to connect to the server</string>
     <string name="voip_feedback_cancel">Annuler</string>
     <string name="voip_feedback_confirm">Submit</string>
@@ -4935,7 +4948,7 @@ Now, sit back and enjoy a life having Mi-Talk!"</string>
     <string name="who_are_you">Qui est-ce ?</string>
     <string name="whose_group_message">(Message de groupe)%1$s:%2$s</string>
     <string name="whose_message">Message</string>
-    <string name="wip_feature">Nous travaillons d\'arrache-pied</string>
+    <string name="wip_feature">"Nous travaillons d'arrache-pied"</string>
     <string name="within_1_hour">Il y a %d minutes</string>
     <string name="within_s_secs">Il y a 30 secondes</string>
     <string name="women">Femme</string>
@@ -4945,11 +4958,11 @@ Now, sit back and enjoy a life having Mi-Talk!"</string>
     <string name="wrong_password_alert">The password you entered is incorrect</string>
     <string name="wrong_password_for_miui">The password you entered is incorrect</string>
     <string name="wrong_pwd">Wrong password</string>
-    <string name="x_miliao_friends_from_renren">Found %1$d friends from renren. %2$d friends are not using Mi-Talk, Invite them to join you !</string>
+    <string name="x_miliao_friends_from_renren">Found %1$d friends from renren. %2$d friends are not using Mi-Talk, Invite them to join you!</string>
     <string name="xiami_from">|From:</string>
     <string name="xiami_next">Par</string>
     <string name="xiami_pre">A condition que</string>
-    <string name="xiaoice_dialog_content">Master, by adopting me, you can talk with me and add me to groups to help you in group chat !</string>
+    <string name="xiaoice_dialog_content">Master, by adopting me, you can talk with me and add me to groups to help you in group chat!</string>
     <string name="xiaoice_dialog_ok_btn">OK</string>
     <string name="xiaoice_dialog_title">Adopter Microsoft Ice</string>
     <string name="xiaoice_name">"%s 's Ice"</string>
@@ -4964,7 +4977,7 @@ Now, sit back and enjoy a life having Mi-Talk!"</string>
     <string name="yes">Yes</string>
     <string name="yesterday">Yesterday</string>
     <string name="yesterday_time">Yesterday %s</string>
-    <string name="you_can_invite_more_friends_by_free_sms">You may send free SMS messages to invite friends through Mi-Talk !</string>
+    <string name="you_can_invite_more_friends_by_free_sms">You may send free SMS messages to invite friends through Mi-Talk!</string>
     <string name="you_may_know">You might know (%d)</string>
     <string name="your_card">"%s's Mi ID card"</string>
     <string name="your_miid">Votre Mi-ID:</string>
@@ -4973,8 +4986,8 @@ Now, sit back and enjoy a life having Mi-Talk!"</string>
     <string name="zero_added_me_buddy_tips">"Haven't received any friend requests? Try"</string>
     <string name="zero_buddy_tips_find_friends">Invite more friends</string>
     <string name="zero_buddy_tips_invite_friends">Email and SMS</string>
-    <string name="zero_friend_tips">No friends? Check out these people</string>
-    <string name="zero_miliao_friends_from_fb">"It doesn't look like any of your friends on Facebook are using Mi-Talk"</string>
-    <string name="zero_miliao_friends_from_renren">"It doesn't look like any of your friends on Renren are using Mi-Talk"</string>
+    <string name="zero_friend_tips">No friends? Check out these people >></string>
+    <string name="zero_miliao_friends_from_fb">"It doesn't look like any of your friends on Facebook are using Mi-Talk."</string>
+    <string name="zero_miliao_friends_from_renren">"It doesn't look like any of your friends on Renren are using Mi-Talk."</string>
     <string name="ziliao">Profile</string>
 </resources>
