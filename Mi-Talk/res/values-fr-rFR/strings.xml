@@ -69,19 +69,19 @@
     <string name="action_button_scan">Scanner</string>
     <string name="action_button_send_msg">Nouveau message</string>
     <string name="action_button_vip_edit">Editer</string>
-    <string name="activiate_email_sent">"S\'il vous plait, regardez le mail de confirmation qu\'on vient de vous envoyer. 
+    <string name="activiate_email_sent">"S'il vous plait, regardez le mail de confirmation qu'on vient de vous envoyer. 
 
-S\'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et restaurer votre mot de passe après avoir confirmer vos informations mail."</string>
+S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et restaurer votre mot de passe après avoir confirmer vos informations mail."</string>
     <string name="add_a_pic">Ajouter une photo</string>
     <string name="add_avatar">Ajouter une photo</string>
     <string name="add_batch_friends">Ajouter des amis</string>
     <string name="add_contact_hint">Entrez votre demande</string>
-    <string name="add_contact_title">"Demande d\'ami"</string>
+    <string name="add_contact_title">"Demande d'ami"</string>
     <string name="add_contacts">Ajouter un contact</string>
     <string name="add_desc">Ajouter une description</string>
     <string name="add_desc_optional">Ajouter une description (facultatif)</string>
     <string name="add_disable">Désactivé</string>
-    <string name="add_email_succeeded">"Mis à jour ! Vous allez recevoir une notification d\'email prochainement."</string>
+    <string name="add_email_succeeded">"Mis à jour ! Vous allez recevoir une notification d'email prochainement."</string>
     <string name="add_enable">Activé</string>
     <string name="add_friend">Ajouter</string>
     <string name="add_friend_char_limit_tips">Ne pas dépasser 9 caractères</string>
@@ -131,7 +131,7 @@ S\'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et
     <string name="age">Âge %d</string>
     <string name="agree">D\'accord</string>
     <string name="agree_contact_licence">Fusionner avec les contacts du carnet d\'adresse</string>
-    <string name="agree_private_licence">"J\'ai lu et j\'accepte"</string>
+    <string name="agree_private_licence">"J'ai lu et j'accepte"</string>
     <string name="alert_dialog_known">OK</string>
     <string name="all_friends">Tout les amis</string>
     <string name="all_marked_readed">Marquer tout comme lu</string>
@@ -187,7 +187,7 @@ taille: %2$.2f Mo"</string>
     <string name="app_need_sdcard_to_install">Carte SD indisponible.  Vous avez besoin d\'une carte SD pour ajouter les extensions  MiWorld.</string>
     <string name="app_need_sdcard_to_remove">Carte SD indisponible</string>
     <string name="app_need_sdcard_to_use">Carte SD indisponible. Vous avez besoin d\'une carte SD pour lancer les extensions  MiWorld.</string>
-    <string name="app_need_to_install">"Vous n\'avez pas installé “%s. Vous pouvez le trouver dans le centre des extensions sous l\'onglet Moi."</string>
+    <string name="app_need_to_install">"Vous n'avez pas installé “%s. Vous pouvez le trouver dans le centre des extensions sous l'onglet Moi."</string>
     <string name="app_paused">En Pause</string>
     <string name="app_shortcut_created">Créer un raccourci</string>
     <string name="app_shortcut_error">Échec pour ajouter le raccourci, merci de réessayer.</string>
@@ -429,7 +429,7 @@ taille: %2$.2f Mo"</string>
     <string name="burn_mode_been_screenshot_tip">Le destinataire a pris une capture d\'écran de votre message</string>
     <string name="burn_mode_begin_screenshot_tip">Les captures d\'écran sont interdites</string>
     <string name="burn_mode_destroy">Détruit</string>
-    <string name="burn_mode_first_tip">"Ce message s\'autodétruira après que vous l\'ayez lu"</string>
+    <string name="burn_mode_first_tip">"Ce message s'autodétruira après que vous l'ayez lu"</string>
     <string name="burn_mode_image">[Destruction des images après lecture]</string>
     <string name="burn_mode_message">[Détruire après lecture]</string>
     <string name="burn_mode_not_send_gif_hint">"Actuellement, les snap message ne supporte pas les GIF"</string>
@@ -1543,7 +1543,7 @@ My%4$s:%5$d"</string>
     <string name="gift_rank_strengthen_lucky_des">You have higher odds to win in a lottery now%d</string>
     <string name="gift_rank_strengthen_lucky_title">Luck points:</string>
     <string name="gift_rank_strengthen_network_failed">Network failed, please try again later</string>
-    <string name="gift_rank_strengthen_none">Power-up failed, try harder suivant time</string>
+    <string name="gift_rank_strengthen_none">Power-up failed, try harder next time</string>
     <string name="gift_rank_strengthen_one_key">One click power-up</string>
     <string name="gift_rank_strengthen_sapphire_left">%d sapphires left</string>
     <string name="gift_rank_strengthen_wrong">Not enough sapphires, get more</string>
@@ -1620,7 +1620,7 @@ groups and subscribe etc."</string>
     <string name="group_create_error_no_network">Unable to find network, please check.</string>
     <string name="group_create_error_not_friend">"The person you've invited is not a friend of yours."</string>
     <string name="group_create_error_server_error">Server is not responding. Check your network connection and try again.</string>
-    <string name="group_create_error_unknown">An inconnu error occurred</string>
+    <string name="group_create_error_unknown">An unknown error occurred</string>
     <string name="group_create_group_tips">Anyone can discover and request to join public groups, while private groups are only visible to users who have been invited.</string>
     <string name="group_creating">Creating group chat…</string>
     <string name="group_des_dialog_tips">Who are ideal allowed to join this group?</string>
@@ -1824,7 +1824,7 @@ groups and subscribe etc."</string>
     <string name="guide_select_uni_from_list">Select school</string>
     <string name="guide_succed_add_n_fris">Successfully sent %d requests.</string>
     <string name="guider_begin_test">Test</string>
-    <string name="guider_next_test">Suivant test ></string>
+    <string name="guider_next_test">Test suivant ></string>
     <string name="guider_test_title">Test</string>
     <string name="guild_member">Membres du groupe</string>
     <string name="gvoip_launch_confirm">Are you sure to start a group call?</string>
@@ -4577,7 +4577,7 @@ Mi ID: %2$s
     <string name="user_guide_get_midian">Tap to collect MiCredits</string>
     <string name="user_guide_image_preview">Tap image for more options</string>
     <string name="user_guide_me">Choose a cover</string>
-    <string name="user_guide_nearby">Mark those interest you! Chat with them suivant time when they are around.</string>
+    <string name="user_guide_nearby">Mark those interest you! Chat with them next time when they are around.</string>
     <string name="user_guide_ppl_exchange">To find out who this person is, exchange pictures!</string>
     <string name="user_guide_recent_contact">Recent contacts will be displayed here</string>
     <string name="user_guide_recmd_bubble">Find your friends</string>
