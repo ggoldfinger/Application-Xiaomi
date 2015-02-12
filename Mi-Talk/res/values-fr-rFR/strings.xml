@@ -1072,7 +1072,7 @@ Vit à Guomao"</string>
     <string name="do_sth">pour...</string>
     <string name="do_sth_hint">Que faites-vous pour ?</string>
     <string name="doing_please_wait">Traitement en cours...</string>
-    <string name="domain_full">Vous ne pouvez ajouter que jusqu'à 5 intérêts</string>
+    <string name="domain_full">Vous ne pouvez ajouter que jusqu\'à 5 intérêts</string>
     <string name="domain_setting_tag">Étiquettes d\'intérêt (%d/3)</string>
     <string name="done">Sauvegarder</string>
     <string name="doublecard_select_phone">Choisissez le numéro de téléphone</string>
@@ -1251,7 +1251,7 @@ Vit à Guomao"</string>
     <string name="find_friend_act_shake">Remuer les mains</string>
     <string name="find_friends">Recherche</string>
     <string name="find_group_category">Catégorie</string>
-    <string name="find_group_interesting">Susceptible d'être intéressant</string>
+    <string name="find_group_interesting">Susceptible d\'être intéressant</string>
     <string name="find_group_not_exist">Ne trouve pas ce groupe</string>
     <string name="find_group_title">Groupes recommandés</string>
     <string name="find_more_friends">Inviter plus d\'amis</string>
@@ -1328,7 +1328,7 @@ Vit à Guomao"</string>
     <string name="friend_list_menu_item_voip">micall</string>
     <string name="friend_list_no_organization">Pas d\'école/informations sur l\'entreprise</string>
     <string name="friend_list_no_relation_msg">A partir d\'une source cachée</string>
-    <string name="friend_list_no_signature">Aucune mise à jour du statut aujourd'hui</string>
+    <string name="friend_list_no_signature">Aucune mise à jour du statut aujourd\'hui</string>
     <string name="friend_list_robot">Autres</string>
     <string name="friend_list_secretaries">Haide</string>
     <string name="friend_list_subscribe">S\inscrire</string>
@@ -1344,7 +1344,7 @@ Vit à Guomao"</string>
     <string name="friend_req_notif">%1$s demandes de connexion avec vous sur MiTalk</string>
     <string name="friend_request">Vérifier la demande</string>
     <string name="friend_request_multiple_operation">Batch sélectionné</string>
-    <string name="friend_request_notification_none">Aucune demande d'amis</string>
+    <string name="friend_request_notification_none">Aucune demande d\'amis</string>
     <string name="friend_validation">"Demande d'amis"</string>
     <string name="friend_validation_alert_batch_accept">Voulez-vous les accepter ?</string>
     <string name="friend_validation_alert_batch_ignore">Voulez-vous les ignorer ?</string>
@@ -1366,7 +1366,7 @@ Vit à Guomao"</string>
     <string name="game_center_list_download_failed">Réseau indisponible, veuillez réessayer plus tard</string>
     <string name="game_center_list_rank">N° %d</string>
     <string name="game_center_not_downloaded">Recommandé</string>
-    <string name="game_center_wait_more_tips">Restez à l'écoute pour des jeux plus excitants !</string>
+    <string name="game_center_wait_more_tips">Restez à l\'écoute pour des jeux plus excitants !</string>
     <string name="game_click_start_game">Démarrer</string>
     <string name="game_click_to_install">Installer</string>
     <string name="game_detail_detail_btn">Description du jeu</string>
@@ -1469,7 +1469,7 @@ Vit à Guomao"</string>
     <string name="gift_activity_status_reward">Obtenir les récompenses</string>
     <string name="gift_activity_status_signup">S\'inscrire maintenant</string>
     <string name="gift_buy_blue_gem">Acheter un gemme bleu</string>
-    <string name="gift_clockin">S'enregistrer</string>
+    <string name="gift_clockin">S\'enregistrer</string>
     <string name="gift_draw">Tirage au sort</string>
     <string name="gift_exchange_blue_gem_confirm">Confirmer</string>
     <string name="gift_exchange_blue_gem_exchange_success">Échanger les succès</string>
