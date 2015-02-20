@@ -2460,7 +2460,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_list_no_group_hint">Pas de groupes</string>
     <string name="muc_list_not_in_tips">Vous n\'êtes plus dans ce groupe. Souhaitez-vous le supprimer ?</string>
     <string name="muc_list_resend_mail">Renvoyer un email</string>
-    <string name="muc_list_verifing_hint">Ce groupe est toujours en cours d'examen</string>
+    <string name="muc_list_verifing_hint">Ce groupe est toujours en cours d\'examen</string>
     <string name="muc_list_verifing_hint_cancel">Annuler</string>
     <string name="muc_list_verify_failed_delete">Quitter</string>
     <string name="muc_list_verify_failed_edit_info">Éditer le profil</string>
@@ -2551,7 +2551,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_setting_member_icon_cnt">Photos du profil | %s total</string>
     <string name="muc_setting_member_invite">Inviter %s</string>
     <string name="muc_setting_member_is_full">Ce groupe est plein</string>
-    <string name="muc_setting_no_join_question">Vous n'avez pas encore rejoins ce groupe</string>
+    <string name="muc_setting_no_join_question">Vous n\'avez pas encore rejoins ce groupe</string>
     <string name="muc_setting_noannounce_tips">Vide</string>
     <string name="muc_setting_unactive_tips">Information: Ce groupe a des membres inactifs depuis plus de 7 jours. Cela engendre une diminution du niveau d\'activité des groupes.</string>
     <string name="muc_setting_unmember_category_key">Types de groupe</string>
@@ -2566,13 +2566,13 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_task_verify_dialog_tips">Seuls les utilisateurs vérifiés peuvent demander à rejoindre ce groupe.</string>
     <string name="muc_task_verify_open">Demande</string>
     <string name="muc_update_tips">Créer un groupe et vous connecter avec vos collègues</string>
-    <string name="muc_verify_add_new_domain">Ajouter plus d'options concernant l\'adresse mail d\'entreprise</string>
+    <string name="muc_verify_add_new_domain">Ajouter plus d\'options concernant l\'adresse mail d\'entreprise</string>
     <string name="muc_verify_close">Annuler la protection</string>
     <string name="muc_verify_close_tips">Nous n\'allons plus vérifier les informations des adresses mails des personnes après que la protection de confidentialité ait été annulée."</string>
     <string name="muc_verify_confirm_delete_domain">Supprimer ce compte mail ?</string>
     <string name="muc_verify_email_in_black">Veuillez vérifier via votre adresse mail d\'entreprise.</string>
     <string name="muc_verify_failed">Échec de certification</string>
-    <string name="muc_verify_protect_add_domains">Ajouter plus d'options concernant votre adresse mail</string>
+    <string name="muc_verify_protect_add_domains">Ajouter plus d\'options concernant votre adresse mail</string>
     <string name="muc_verify_protect_close_tips">Si vous choisissez de désactiver la Protection de confidentialité pour ce groupe, vous permettez à quiconque de se joindre sans adresse mail d\'entreprise vérifié. Êtes-vous sûr de vouloir la désactiver ?</string>
     <string name="muc_verify_protect_lv_head">Le compte d\'adresse mail doit être confirmé</string>
     <string name="muc_verify_protect_verifying">Nous avons envoyé un mail à %s. Suivre les instructions du mail afin de complêter le processus de vérification."</string>
@@ -2691,7 +2691,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="namecard_change_location">Ma localisation</string>
     <string name="namecard_change_middle_school">Lycée</string>
     <string name="namecard_change_nick">Nom</string>
-    <string name="namecard_change_notify_info_err">Veuillez nous fournir plus d'informations sur vous afin que nous puissions vous fusionner avec vos amis.</string>
+    <string name="namecard_change_notify_info_err">Veuillez nous fournir plus d\'informations sur vous afin que nous puissions vous fusionner avec vos amis.</string>
     <string name="namecard_change_remarks">Surnom de votre ami</string>
     <string name="namecard_change_school">Mon cursus scolaire</string>
     <string name="namecard_change_sex">Mon sexe</string>
@@ -2763,7 +2763,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="namecard_sex_unknown">Sexe</string>
     <string name="namecard_signature">État</string>
     <string name="namecard_sina_weibo">Sina Weibo</string>
-    <string name="namecard_title">%1$s's Profil</string>
+    <string name="namecard_title">%1$s\'s Profil</string>
     <string name="namecard_title_location">Localisation</string>
     <string name="namecard_university">Université</string>
     <string name="namecard_university_department_format">%1$s-%2$s%3$s</string>
@@ -2827,7 +2827,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="nearby_secr_thread_template">%1$s (%2$s) est à proximité et veut vous ajouter comme ami.</string>
     <string name="nearby_secretary_btn_add_friend">Ajouter</string>
     <string name="nearby_secretary_btn_ignore">Ignorer</string>
-    <string name="nearby_secretary_desc">Voici les mises à jour sur les nouveaux sujets locaux et les demandes d'amis envoyés par des personnes locales.</string>
+    <string name="nearby_secretary_desc">Voici les mises à jour sur les nouveaux sujets locaux et les demandes d\'amis envoyés par des personnes locales.</string>
     <string name="nearby_secretary_nick">Proche</string>
     <string name="nearby_setting">Mes tag</string>
     <string name="nearby_setting_desc">Partager votre position vous permet de voir les gens autour de vous. Vous pouvez arrêter à tout moment dans les paramètrages.</string>
@@ -2847,7 +2847,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="nearby_title">Proche</string>
     <string name="nearby_title_loading">Proche</string>
     <string name="nearby_toast_load_all_failed">Échec de chargement</string>
-    <string name="nearby_toast_load_boy_failed">Bizarre, il n'y a pas de gars ici !</string>
+    <string name="nearby_toast_load_boy_failed">Bizarre, il n\'y a pas de gars ici !</string>
     <string name="nearby_toast_load_failed">Impossible de se connecter au réseau</string>
     <string name="nearby_toast_load_girl_failed">Il n\'y a pas de filles ici !</string>
     <string name="nearby_topic">Sujets locaux</string>
@@ -2882,7 +2882,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="new_namecard_add_location">Ajouter un lieu</string>
     <string name="new_namecard_add_mood">Éditer votre état</string>
     <string name="new_namecard_add_more_company">Ajouter une sociéte</string>
-    <string name="new_namecard_add_more_domain">Ajouter d'autres intérêts</string>
+    <string name="new_namecard_add_more_domain">Ajouter d\'autres intérêts</string>
     <string name="new_namecard_add_more_email">Ajouter une adresse mail</string>
     <string name="new_namecard_add_more_phone">Ajouter un numéro de téléphone</string>
     <string name="new_namecard_add_more_school">Ajouter une école</string>
@@ -3277,10 +3277,10 @@ groupes et rejoignez-nous etc."</string>
     <string name="ppl_complete_info_up_fail">Échec</string>
     <string name="ppl_complete_info_up_success">Enregistrement chargé. Appuyez sur l\'icône en haut à gauche pour recommencer à enregistrer.</string>
     <string name="ppl_complete_info_women">Femme</string>
-    <string name="ppl_complete_record_online1"Je serais</string>
+    <string name="ppl_complete_record_online1">Je serais</string>
     <string name="ppl_complete_record_online2">J\'ai couru dans</string>
     <string name="ppl_complete_record_peng">Appuyer pour commencer</string>
-    <string name="ppl_complete_record_wenan_1">Y at-il quelqu'un là-bas ?</string>
+    <string name="ppl_complete_record_wenan_1">Y at-il quelqu\'un là-bas ?</string>
     <string name="ppl_complete_record_wenan_2">Rencontrer plus de personnes</string>
     <string name="ppl_complete_record_wenan_3">La vie est courte. Faites-vous beaucoup d\'amis.</string>
     <string name="ppl_complete_record_wenan_4">Il ya toujours plus de gens pour répondre</string>
@@ -3413,7 +3413,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="preview">Prévisualisation</string>
     <string name="preview_friend_mode">Mode Prévisualisation d\'ami</string>
     <string name="preview_stranger_mode">Vérifiez le mode étranger</string>
-    <string name="privacy_hint">Veuillez accepter la politique de confidentialité et conditions d'utilisation.</string>
+    <string name="privacy_hint">Veuillez accepter la politique de confidentialité et conditions d\'utilisation.</string>
     <string name="privacy_notice">Aucune</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_user_tips">Vos recherches et suggestions de paramètres seront mises à jour dans les 24 heures.</string>
@@ -3510,7 +3510,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="recommend_is_added">Ajouté</string>
     <string name="recommend_is_contact">Contact</string>
     <string name="recommend_is_subscribe">Souscris</string>
-    <string name="recommend_lbs_toggle_summary_off">Impossible d\'utiliser vos informations d'\'emplacement</string>
+    <string name="recommend_lbs_toggle_summary_off">Impossible d\'utiliser vos informations d\'emplacement</string>
     <string name="recommend_lbs_toggle_summary_on">Utiliser les informations de ma position</string>
     <string name="recommend_lbs_toggle_title">Proposer des personnes à proximité</string>
     <string name="recommend_real_avatar_tip_1">Facilitez vos amis à vous trouver en téléchargeant une image propre de vous</string>
@@ -3548,7 +3548,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="registering_new_account">Enregistrement, veuillez patienter</string>
     <string name="reinput_pwd_title">Entrer votre mot de passe</string>
     <string name="reject_friend_succeeded">Rejeter la demande d\'ami</string>
-    <string name="reject_multiple_friend_succeeded">Vous ignorez la demande d\'ami de %d's</string>
+    <string name="reject_multiple_friend_succeeded">Vous ignorez la demande d\'ami de %d\'s</string>
     <string name="reject_send">Ne pas envoyer</string>
     <string name="relation">Relation</string>
     <string name="relational_friend_cor">Collègues</string>
