@@ -3818,7 +3818,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="send_card">Contacts</string>
     <string name="send_card_tip">[Carte de visite]</string>
     <string name="send_contact_card_bubble_title">Contact du téléphone</string>
-    <string name="send_contact_card_not_support">Votre version actuelle de Mitalk ne supporte pas l'affichage de carte de visite complète.</string>
+    <string name="send_contact_card_not_support">Votre version actuelle de Mitalk ne supporte pas l\'affichage de carte de visite complète.</string>
     <string name="send_contact_card_not_support_email">Adresse mail: %1$s
 </string>
     <string name="send_contact_card_not_support_name">Nom: %1$s
@@ -3844,7 +3844,7 @@ Identifiant du groupe: %2$s
     <string name="send_report">Signaler</string>
     <string name="send_sms">SMS Envoyé</string>
     <string name="send_sms_failed">Échec d\'envoi.</string>
-    <string name="send_sms_msg">Pour finir l\'enregistrement, un SMS sera envoyé automatiquement via votre téléphone. Veuillez contactater votre fournisseur d'\accès afin de connaître le coût d\'un SMS.</string>
+    <string name="send_sms_msg">Pour finir l\'enregistrement, un SMS sera envoyé automatiquement via votre téléphone. Veuillez contactater votre fournisseur d\'accès afin de connaître le coût d\'un SMS.</string>
     <string name="send_sms_tips">Nous allons prochainement vous envoyer un sms pour confirmer votre numéro de téléphone.</string>
     <string name="send_sms_title">Conseils</string>
     <string name="send_sub_card_add_contact">Ajouter</string>
@@ -3881,7 +3881,7 @@ Identifiant Mi: %2$s
     <string name="service_muc_rank_failed_tips">Impossible d\'obtenir les associations dans lesquelles vos amis sont, veuillez vérifiez vos connexions ou réessayez plus tard</string>
     <string name="service_muc_rank_friend_count">%d amis</string>
     <string name="service_muc_rank_load_empty">Vide</string>
-    <string name="service_muc_rank_load_failed">Impossible d'obtenir Hang-out pour les amis</string>
+    <string name="service_muc_rank_load_failed">Impossible d\'obtenir Hang-out pour les amis</string>
     <string name="service_muc_square">Place de l\'association</string>
     <string name="service_nearby_muc">Proche</string>
     <string name="service_num_editor">Éditer les abonnements</string>
@@ -4979,5 +4979,5 @@ Now, sit back and enjoy a life having Mitalk!"</string>
     <string name="zero_friend_tips">No friends? Check out these people >></string>
     <string name="zero_miliao_friends_from_fb">"It doesn't look like any of your friends on Facebook are using Mitalk."</string>
     <string name="zero_miliao_friends_from_renren">"It doesn't look like any of your friends on Renren are using Mitalk."</string>
-    <string name="ziliao">Profile</string>
+    <string name="ziliao">Profil</string>
 </resources>
