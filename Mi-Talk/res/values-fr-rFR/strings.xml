@@ -4949,7 +4949,7 @@ Now, sit back and enjoy a life having Mitalk!"</string>
     <string name="wrong_password_for_miui">The Mot de passe you entered is incorrect</string>
     <string name="wrong_pwd">Wrong Mot de passe</string>
     <string name="x_miliao_friends_from_renren">Found %1$d friends from renren. %2$d friends are not using Mitalk, Invite them to join you!</string>
-    <string name="xiami_from">|From:</string>
+    <string name="xiami_from">|Pour:</string>
     <string name="xiami_next">Par</string>
     <string name="xiami_pre">A condition que</string>
     <string name="xiaoice_dialog_content">Master, by adopting me, you can talk with me and add me to groups to help you in group chat!</string>
@@ -4961,12 +4961,12 @@ Now, sit back and enjoy a life having Mitalk!"</string>
     <string name="xm_shop_friend">Shop with friends</string>
     <string name="xm_shop_friend_buy">%d friends purchased</string>
     <string name="xm_shop_mycart">Shopping cart</string>
-    <string name="year">Year</string>
+    <string name="year">Année</string>
     <string name="year_month">%2$d/%1$d</string>
     <string name="year_month_date">%1$d/%2$d/%3$d</string>
-    <string name="yes">Yes</string>
-    <string name="yesterday">Yesterday</string>
-    <string name="yesterday_time">Yesterday %s</string>
+    <string name="yes">Oui</string>
+    <string name="yesterday">Hier</string>
+    <string name="yesterday_time">Hier %s</string>
     <string name="you_can_invite_more_friends_by_free_sms">You may send free SMS messages to Inviter des amis through Mitalk!</string>
     <string name="you_may_know">You might know (%d)</string>
     <string name="your_card">"%s's Identifiant Mi card"</string>
