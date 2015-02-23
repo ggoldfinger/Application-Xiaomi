@@ -579,34 +579,34 @@
         <item>小冰领养页出错</item>
     </string-array>
     <string-array name="school_choices">
-        <item>University</item>
+        <item>Université</item>
         <item>Junior high</item>
         <item>High school</item>
     </string-array>
     <string-array name="select_archive">
-        <item>Add a friend</item>
-        <item>Add a union</item>
+        <item>Ajouter un ami</item>
+        <item>Ajouter un groupe</item>
     </string-array>
     <string-array name="send_card_types">
-        <item>Mobile contacts</item>
-        <item>Friends</item>
-        <item>Unions</item>
-        <item>Subscriptions</item>
+        <item>Contacts mobiles</item>
+        <item>Amis</item>
+        <item>Groupes</item>
+        <item>Abonnements</item>
     </string-array>
     <string-array name="send_photo_types">
         <item>Prendre une photo</item>
-        <item>CHoisir une photo</item>
+        <item>Choisir une photo</item>
         <item>Gribouillage</item>
         <item>Capture GIF</item>
     </string-array>
     <string-array name="send_photo_types_for_muc">
         <item>Prendre une photo</item>
-        <item>CHoisir une photo</item>
+        <item>Choisir une photo</item>
         <item>Gribouillage</item>
     </string-array>
     <string-array name="send_video_types">
         <item>Prendre une vidéo</item>
-        <item>CHoisir une vidéo</item>
+        <item>Choisir une vidéo</item>
     </string-array>
     <string-array name="send_voip_types">
         <item>Appel audio</item>
