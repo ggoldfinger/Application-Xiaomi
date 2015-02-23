@@ -404,9 +404,9 @@ taille: %2$.2f Mo"</string>
     <string name="buddy_message_search_account">Compte Mi:</string>
     <string name="buddy_message_search_buddy_title">Chercher contacts</string>
     <string name="buddy_message_search_message_title">Historique des messages en Local</string>
-    <string name="buddy_message_search_muc_account">Association ID:</string>
+    <string name="buddy_message_search_muc_account">groupe ID:</string>
     <string name="buddy_message_search_muc_member">Membre:</string>
-    <string name="buddy_message_search_muc_member_title">Rechercher Association/Groupe tchats</string>
+    <string name="buddy_message_search_muc_member_title">Rechercher groupe/Groupe tchats</string>
     <string name="buddy_message_search_mutil_message">%1$d enregistrements trouvés en relation avec“%2$s“</string>
     <string name="buddy_message_search_mutil_message_header">Enregistrements trouvés en relation avec“</string>
     <string name="buddy_message_search_mutil_message_tail">“</string>
@@ -509,7 +509,7 @@ taille: %2$.2f Mo"</string>
     <string name="check_upgrading">Recherche…</string>
     <string name="checking_verification_code">Analyse du code de vérification</string>
     <string name="choose_a_group">Mes groupes</string>
-    <string name="choose_a_union">Mes Associations</string>
+    <string name="choose_a_union">Mes groupes</string>
     <string name="choose_area_code">Pays/Région</string>
     <string name="choose_area_name">Pays/Région</string>
     <string name="choose_bind_phone_country">Choisissez Pays/Région</string>
@@ -535,7 +535,7 @@ taille: %2$.2f Mo"</string>
     <string name="chose_buddy_already_exist_private_mailbox">Déjà existant dans la boîte de réception privée</string>
     <string name="chose_muc_category">Intérêt</string>
     <string name="chose_muc_label">Ajouté un titre</string>
-    <string name="chose_muc_position">Choisissez une Association des localisations</string>
+    <string name="chose_muc_position">Choisissez une groupe des localisations</string>
     <string name="chose_one_buddy_start_private_mailbox">Choisissez une boîte de réception privée</string>
     <string name="chose_pic_quality_gaoqing">Haute qualité</string>
     <string name="chose_pic_quality_shengliu">Mode de sauvegarde des données</string>
@@ -768,10 +768,10 @@ Veuillez noter que vous ne serez plus en mesure de rechercher des amis et de vou
     <string name="connecting_to_sina_failed">Échec de connexion à Sina, veuillez vérifier votre connexion internet.</string>
     <string name="contact_bottom_common_add_friends">Ajouter des amis</string>
     <string name="contact_bottom_common_add_server_account">Ajouter un compte</string>
-    <string name="contact_bottom_common_add_union">Ajouter des Associations</string>
+    <string name="contact_bottom_common_add_union">Ajouter des groupes</string>
     <string name="contact_bottom_common_barcode">Scannez le code QR</string>
     <string name="contact_bottom_common_group">Groupe de discussion</string>
-    <string name="contact_bottom_common_muc">Créer une Association</string>
+    <string name="contact_bottom_common_muc">Créer une groupe</string>
     <string name="contact_bottom_common_post_music">Nouvelle chanson thème</string>
     <string name="contact_bottom_common_post_share">Nouvelle discussion</string>
     <string name="contact_bottom_common_post_vote">Nouveau sondage</string>
@@ -1040,7 +1040,7 @@ Vit à Guomao"</string>
     <string name="discovery_nearby_poi_load_empty">Rien trouvé</string>
     <string name="discovery_nearby_poi_load_failed">Impossible de charger les localisations</string>
     <string name="discovery_nearby_poi_search_empty">"Rien trouvé"</string>
-    <string name="discovery_rank_muc_load_all">Aucune Association de recommandée</string>
+    <string name="discovery_rank_muc_load_all">Aucune groupe de recommandée</string>
     <string name="discovery_recommend_conatct_done">"Recherche... nous vous informerons si nous trouvons quelqu'un"</string>
     <string name="discovery_recommend_distance_kilometer">%d km</string>
     <string name="discovery_recommend_distance_meter">%d m</string>
@@ -1054,7 +1054,7 @@ Vit à Guomao"</string>
     <string name="discovery_recommend_muc">Groupe</string>
     <string name="discovery_recommend_mutual_company">Collègues recommandés</string>
     <string name="discovery_recommend_mutual_friend">Partager des amis communs</string>
-    <string name="discovery_recommend_mutual_group">"Membres de l'Association recommandés"</string>
+    <string name="discovery_recommend_mutual_group">"Membres de l'groupe recommandés"</string>
     <string name="discovery_recommend_mutual_hometown">De la même ville</string>
     <string name="discovery_recommend_mutual_school">Anciens recommandés</string>
     <string name="discovery_recommend_nearby">Proche</string>
@@ -1700,10 +1700,10 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_setting_clearing">Effacement…</string>
     <string name="group_setting_confirm_exit_admin">Souhaitez-vous vous rétrograder du statut d\'administrateur ?</string>
     <string name="group_setting_confirm_exit_group">Quitter ce groupe ?</string>
-    <string name="group_setting_confirm_exit_union">Quitter cette Association？</string>
+    <string name="group_setting_confirm_exit_union">Quitter cette groupe？</string>
     <string name="group_setting_creaotr">Créateur</string>
     <string name="group_setting_creator">Créateur</string>
-    <string name="group_setting_delete_confirm">Dissoudre cette Association ?</string>
+    <string name="group_setting_delete_confirm">Dissoudre cette groupe ?</string>
     <string name="group_setting_description">Á propos</string>
     <string name="group_setting_description_optinal">(optionnel)</string>
     <string name="group_setting_destroy_group">"Dissoudre l'union"</string>
@@ -1712,7 +1712,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_setting_get_info_failed">Échec</string>
     <string name="group_setting_group_creator_key">Créateur</string>
     <string name="group_setting_group_name_cannot_empty">Entrez un nom de groupe</string>
-    <string name="group_setting_group_name_key">Nom de l\'Association</string>
+    <string name="group_setting_group_name_key">Nom de l\'groupe</string>
     <string name="group_setting_group_nick_key">Surnom</string>
     <string name="group_setting_head_createtime_info">Créé dans %s</string>
     <string name="group_setting_head_creator_info">Créateur %s</string>
@@ -1743,14 +1743,14 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_setting_request_to_join">Je souhaite vous rejoindre</string>
     <string name="group_setting_set_background">"Paramètres d'arrière-plan"</string>
     <string name="group_setting_set_msg_notiry">Notification de discussion</string>
-    <string name="group_setting_tag_key">"Tag de l'Association"</string>
+    <string name="group_setting_tag_key">"Tag de l'groupe"</string>
     <string name="group_setting_title">Profil et paramètres</string>
-    <string name="group_setting_transfer_condition">Changer administrateur de l\'Association</string>
+    <string name="group_setting_transfer_condition">Changer administrateur de l\'groupe</string>
     <string name="group_setting_transfer_condition_content">"1.Le nouvel administrateur doit être dans le groupe.
 2.Le nouvel administrateur doit être un ami Mi-Talk du propriétaire du groupe actuel."</string>
-    <string name="group_setting_transfer_dialog_content">Le transfert d\'Association vous privere de tous vos droits en tant que propriétaire du groupe. Cette opération est irréversible. Veuillez procéder avec prudence.</string>
+    <string name="group_setting_transfer_dialog_content">Le transfert d\'groupe vous privere de tous vos droits en tant que propriétaire du groupe. Cette opération est irréversible. Veuillez procéder avec prudence.</string>
     <string name="group_setting_transfer_dialog_content_private_gourp">Tous vos droits en tant que propriétaire du groupe seront également transférés et ce n\'est pas irréversible. Veuillez prêter attention avant le transfert.</string>
-    <string name="group_setting_transfer_group">Changer l\'administrateur de l\'Association</string>
+    <string name="group_setting_transfer_group">Changer l\'administrateur de l\'groupe</string>
     <string name="group_setting_transfer_success">Transféré</string>
     <string name="group_setting_transfer_wait">Transfert…</string>
     <string name="group_setting_unmember_friends">%1$s et %2$s des contacts sont également dans ce groupe.</string>
@@ -1990,8 +1990,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="join_domain_succeed_msg">Rejoindre les groupes d\'intérêt</string>
     <string name="join_muc_need_check">Demande à l\'administrateur</string>
     <string name="join_muc_title">Demande pour rejoindre ce groupe</string>
-    <string name="join_union_title">Demande pour rejoindre cette Association</string>
-    <string name="joined_groups">Associations</string>
+    <string name="join_union_title">Demande pour rejoindre cette groupe</string>
+    <string name="joined_groups">groupes</string>
     <string name="just_talk">Tchat</string>
     <string name="keep_on_import_contacts">Fait ! Vous pouvez envoyer des invitations maintenant.</string>
     <string name="kindly_reminder">Rappel</string>
@@ -2159,7 +2159,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="man">Homme</string>
     <string name="man_verify_tips">Actuellement en cours d\'examen</string>
     <string name="man_verify_title">En cours d\'examen</string>
-    <string name="manage_guild">Association administrateur</string>
+    <string name="manage_guild">groupe administrateur</string>
     <string name="management">Administrateur</string>
     <string name="map_go_there">Allez-y</string>
     <string name="map_my_position">Mon emplacement</string>
@@ -2282,8 +2282,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="miliao_job_first_vote_tip">Voter</string>
     <string name="miliao_job_sign">Petit rappel: Gagnez une récompense de 50 points par inscription. Allez-y et obtenez votre récompense !</string>
     <string name="miliao_job_sign_tip">S\'inscrire</string>
-    <string name="miliao_job_union">Petit rappel: Le prmier rattachement à une Association vous rapportera 100 points, dépêchez-vous de voir quels Associations sont intéressantes près de chez vous !</string>
-    <string name="miliao_job_union_tip">Rejoindre une Association</string>
+    <string name="miliao_job_union">Petit rappel: Le prmier rattachement à une groupe vous rapportera 100 points, dépêchez-vous de voir quels groupes sont intéressantes près de chez vous !</string>
+    <string name="miliao_job_union_tip">Rejoindre une groupe</string>
     <string name="miliao_job_vote">Petit rappel: Votez trois fois par jour et gagner 20 points. Dépêchez-vous et votez pour vos amis !</string>
     <string name="miliao_job_vote_tip">Voter</string>
     <string name="miliao_joke">Blagues Mi-Talk</string>
@@ -2301,7 +2301,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="miliao_sign_title">Inscrivez-vous pour la récompense</string>
     <string name="miliao_sina">Aide Sina Weibo </string>
     <string name="miliao_union_content">Découvrez quelles associations intéressantes sont à proximité</string>
-    <string name="miliao_union_title">Associations à proximité</string>
+    <string name="miliao_union_title">groupes à proximité</string>
     <string name="miliao_upgrade">Mise à jour Mi-Talk</string>
     <string name="miliao_upgrade_desc">Téléchargement du package d\'installation…</string>
     <string name="miliao_upgrade_progress">Téléchargement terminé pour %d%%.</string>
@@ -2486,7 +2486,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_msg_deleted_success">Message supprimé</string>
     <string name="muc_msg_receive_setting">Recevoir les messages</string>
     <string name="muc_my_group_list_header">Que j\'ai créé</string>
-    <string name="muc_name_can_not_digits_only">Le nom de l\'Association ne peut contenir que des chiffres</string>
+    <string name="muc_name_can_not_digits_only">Le nom de l\'groupe ne peut contenir que des chiffres</string>
     <string name="muc_name_valid_tip">Entrez un titre entre 2-20 caractères</string>
     <string name="muc_namecard_member_count">Membres: %d</string>
     <string name="muc_need_check_hint">Exiger une confirmation</string>
@@ -3477,7 +3477,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="recipient_title_new_conversation">Créer</string>
     <string name="recipient_title_new_sixin">Dites bonjour</string>
     <string name="recipient_title_select_friend">Sélectionnez des amis</string>
-    <string name="recipient_title_select_muc">Sélectionnez une Association</string>
+    <string name="recipient_title_select_muc">Sélectionnez une groupe</string>
     <string name="recipient_title_select_subcrib">Souscrire</string>
     <string name="recipients_select_all_friends">Contact</string>
     <string name="recipients_select_recent">Récent</string>
@@ -3722,7 +3722,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="save_image">Enregistrer</string>
     <string name="save_image_failed">Échec de l\'enregistrement, veuillez vous assurer que votre carte SD ait assez de place.</string>
     <string name="save_image_succeeded">Enregistré dans la galerie</string>
-    <string name="save_muc_barcode">Enregistrer le QR code de l\'Association sur votre téléphone</string>
+    <string name="save_muc_barcode">Enregistrer le QR code de l\'groupe sur votre téléphone</string>
     <string name="save_multimedia">Enregistrer</string>
     <string name="saving_image">Sauvegarde…</string>
     <string name="say_hello">Dites bonjour !</string>
@@ -3735,7 +3735,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="sb_create_topic_at_sp">"%1$s créé %3$s à %2$s"</string>
     <string name="scan_barcode">Scanner l\'identifiant Mi</string>
     <string name="scan_barcode_info">Placez et scanner un code barre d\'identifiant Mi à l\'intérieur du viseur.</string>
-    <string name="scan_barcode_join_muc">Scanner le QR code de l\'Association pour rejoindre</string>
+    <string name="scan_barcode_join_muc">Scanner le QR code de l\'groupe pour rejoindre</string>
     <string name="scan_barcode_to_add_service">Scanner le QR code</string>
     <string name="scan_my_barcode">Pour ajouter un ami, scanner le QR code</string>
     <string name="scan_namecard">Scanner</string>
@@ -4040,7 +4040,7 @@ Identifiant Mi: %2$s
     <string name="share_to_friend">Partager avec des friends</string>
     <string name="share_to_friends">Envoyer aux amis</string>
     <string name="share_to_miliao">Partager sur Mi-Talk</string>
-    <string name="share_to_union">Partager dans l\'Association</string>
+    <string name="share_to_union">Partager dans groupe</string>
     <string name="share_to_wall">Poster sur le Mur</string>
     <string name="share_to_weibo">Partager dans Weibo</string>
     <string name="share_to_weibo_tips">Partager dans Weibo et gagner un F-code</string>
@@ -4430,7 +4430,7 @@ Identifiant Mi: %2$s
     <string name="topic_tab_load_more">Charger plus %s</string>
     <string name="topic_tab_more">Plus></string>
     <string name="topic_tab_no_recommend_tips">Désolé, aucune recommandation</string>
-    <string name="total_muc_cnt">%d Associations totales</string>
+    <string name="total_muc_cnt">%d groupes totales</string>
     <string name="total_privategroup_cnt">%d Groupe de discussion d\'amis</string>
     <string name="traffic_audio">Audio</string>
     <string name="traffic_clear">Effacer toutes les données</string>
@@ -4474,7 +4474,7 @@ Identifiant Mi: %2$s
     <string name="unenable">Désactivé</string>
     <string name="unfollow">Ne plus suivre</string>
     <string name="unfollow_confirm">Êtes-vous sûr de ne plus vouloir suivre “%1$s” ?</string>
-    <string name="union_setting_delete_confirm">Dissoudre cette Association et démanteler tous les membres ? Faites attention ! Vous ne pouvez pas inverser cette action !</string>
+    <string name="union_setting_delete_confirm">Dissoudre cette groupe et démanteler tous les membres ? Faites attention ! Vous ne pouvez pas inverser cette action !</string>
     <string name="university">Université</string>
     <string name="university_empty_hits">Aucun résultat pour %s</string>
     <string name="unknowerror">Une erreur inconnue est survenue</string>
@@ -4757,7 +4757,7 @@ Information: Le code de vérification expire après 24 heures à partir du momen
     <string name="voip_video_entry">Facetime</string>
     <string name="vote_back">Retour</string>
     <string name="vote_detail_title">Détails</string>
-    <string name="vote_empty_hint">Pour démarrer un vote, vous avez besoin de rejoindre une Association/ami d\'un groupe de discusiion en premier lieu</string>
+    <string name="vote_empty_hint">Pour démarrer un vote, vous avez besoin de rejoindre une groupe/ami d\'un groupe de discusiion en premier lieu</string>
     <string name="vote_err_contains_forbidden">Votre vote contient des mots sensibles</string>
     <string name="vote_from">%ss vote</string>
     <string name="vote_may_be_deleted">Le vote à été supprimé</string>
