@@ -17,7 +17,7 @@
         <item quantity="one">%d membre</item>
     </plurals>
     <plurals name="blacklist_search_hints_plurals">
-        <item quantity="other">%d utilisateurs bloquée</item>
+        <item quantity="other">%d utilisateurs bloqués</item>
         <item quantity="one">%d utilisateur bloqué</item>
     </plurals>
     <plurals name="member_cnt_plurals">
@@ -25,7 +25,7 @@
         <item quantity="one">%1$d membre</item>
     </plurals>
     <plurals name="muc_member_number_plurals">
-        <item quantity="other">%d membre"</item>
+        <item quantity="other">%d membres"</item>
         <item quantity="one">%d membre</item>
     </plurals>
     <plurals name="wall_like_plurals">
@@ -33,9 +33,9 @@
         <item quantity="one">Aimé par %d autre</item>
     </plurals>
     <plurals name="create_muc_midian_tips_plurals">
-        <item quantity="other">"Il en coûte %1$s MiCrédits à créer un groupe.
+        <item quantity="other">"Il en coûte %1$s MiCrédits pour créer un groupe.
 Vous avez actuellement %2$s crédits."</item>
-        <item quantity="one">"Il en coûte %1$s MiCrédit à créer un groupe.
+        <item quantity="one">"Il en coûte %1$s MiCrédit pour créer un groupe.
 Vous avez actuellement %2$s crédit."</item>
     </plurals>
     <plurals name="invite_friends_count_plurals">
@@ -88,7 +88,7 @@ Vous avez actuellement %2$s crédit."</item>
     </plurals>
     <plurals name="year_ago_plurals">
         <item quantity="other">%d ans</item>
-        <item quantity="one">%d ans</item>
+        <item quantity="one">%d an</item>
     </plurals>
     <plurals name="register_count_down_for_verification_code_plurals">
         <item quantity="other">Renvoyer dans %1$s secondes</item>
