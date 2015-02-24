@@ -127,7 +127,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="address_book_my_friends">Mes contacts</string>
     <string name="address_manage">Adressé</string>
     <string name="address_with_distance">%1$dm %2$s</string>
-    <string name="after_sales_service">Aftersale</string>
+    <string name="after_sales_service">Service après_vente</string>
     <string name="age">Âge %d</string>
     <string name="agree">"D'accord"</string>
     <string name="agree_contact_licence">"Fusionner avec les contacts du carnet d'adresse"</string>
@@ -169,7 +169,7 @@ taille: %2$.2f Mo"</string>
     <string name="app_add_to_shortcut">"Créer un raccourcis vers l'accueil"</string>
     <string name="app_anzhuang">Installer</string>
     <string name="app_building">Une extension arrive bientôt !</string>
-    <string name="app_center">Centre des extensions</string>
+    <string name="app_center">Extensions</string>
     <string name="app_center_lottery_tips">Gagnez un smartphone Mi, F code, ou Mi-Crédits</string>
     <string name="app_center_miba_tips">Mi Ba</string>
     <string name="app_center_more">Plus</string>
@@ -188,7 +188,7 @@ taille: %2$.2f Mo"</string>
     <string name="app_need_sdcard_to_install">"Carte SD indisponible. Vous avez besoin d'une carte SD pour ajouter les extensions MiWorld."</string>
     <string name="app_need_sdcard_to_remove">Carte SD indisponible</string>
     <string name="app_need_sdcard_to_use">"Carte SD indisponible. Vous avez besoin d'une carte SD pour lancer les extensions MiWorld."</string>
-    <string name="app_need_to_install">"Vous n'avez pas installé “%s. Vous pouvez le trouver dans le centre des extensions sous l'onglet Moi."</string>
+    <string name="app_need_to_install">"Vous n'avez pas installé “%s. Vous pouvez le trouver dans les extensions sous l'onglet Moi."</string>
     <string name="app_paused">En Pause</string>
     <string name="app_shortcut_created">Créer un raccourci</string>
     <string name="app_shortcut_error">Échec pour ajouter le raccourci, merci de réessayer.</string>
@@ -472,7 +472,7 @@ taille: %2$.2f Mo"</string>
     <string name="channel_group_publisher">Posté par: %s</string>
     <string name="channel_new_post_count">"%d nouveaux messages aujourd'hui"</string>
     <string name="channel_owner">Propriétaire:%s</string>
-    <string name="channel_publish">Poster un message fou</string>
+    <string name="channel_publish">Poster un nouveau sondage</string>
     <string name="channel_publish_book_author">Auteur: %s</string>
     <string name="channel_publish_book_hint">Écrire quelque chose à propos du livre</string>
     <string name="channel_publish_image_hint">Dire quelque chose</string>
@@ -482,8 +482,8 @@ taille: %2$.2f Mo"</string>
     <string name="channel_publish_music_artist">%1$s | Du: %2$s thème de la chanson</string>
     <string name="channel_publish_music_hint">Ecrire quelque chose à propos de la chanson</string>
     <string name="channel_publish_text_hint">Entrer du texte</string>
-    <string name="channel_publish_title">Soyez fou</string>
-    <string name="channel_publish_vote_hint">Entrer votre vote</string>
+    <string name="channel_publish_title">Sondage</string>
+    <string name="channel_publish_vote_hint">Entrer ici votre sondage</string>
     <string name="channel_publish_vote_option1_hint">Option 1 (max 16 caractères)</string>
     <string name="channel_publish_vote_option2_hint">Option 2</string>
     <string name="channel_publish_vote_option3_hint">Options 3</string>
@@ -531,7 +531,7 @@ taille: %2$.2f Mo"</string>
     <string name="choose_service_account">Choisissez un service de comptes</string>
     <string name="choose_union">Choisissez des groupe</string>
     <string name="choose_unions">Choisissez un groupe</string>
-    <string name="choosertitle_sharevia">"Complêtez cette action pour l'utiliser"</string>
+    <string name="choosertitle_sharevia">"Complétez cette action pour l'utiliser"</string>
     <string name="chose_buddy_already_exist_private_mailbox">Déjà existant dans la boîte de réception privée</string>
     <string name="chose_muc_category">Intérêt</string>
     <string name="chose_muc_label">Ajouté un titre</string>
@@ -692,7 +692,7 @@ taille: %2$.2f Mo"</string>
     <string name="commpany">Durée</string>
     <string name="commpany_name">Société</string>
     <string name="community_bbs_rec">BBS</string>
-    <string name="community_bbs_shop">Centre commercial</string>
+    <string name="community_bbs_shop">Boutique</string>
     <string name="community_home">Important</string>
     <string name="comp_corp_info">Informations complète de la société</string>
     <string name="comp_profile_title">Informations de base</string>
@@ -871,7 +871,7 @@ Veuillez noter que vous ne serez plus en mesure de rechercher des amis et de vou
     <string name="create_muc_add_info_input_des_0">Créateur de contacts du groupe</string>
     <string name="create_muc_add_info_title">Profil du groupe</string>
     <string name="create_muc_add_info_tuijian">Sélectionnez un type</string>
-    <string name="create_muc_choose_poi_message">"Le lieu ne peut pas être modifié après que l'Union soit créée"</string>
+    <string name="create_muc_choose_poi_message">"Le lieu ne peut pas être modifié après que le groupe soit créé"</string>
     <string name="create_muc_chose_classmate_tips">Recommander seulement à ses collègues</string>
     <string name="create_muc_chose_colleage_tips">Recommander seulement à ses collègues</string>
     <string name="create_muc_chose_company">Sélectionnez une entreprise</string>
@@ -1011,7 +1011,7 @@ Vit à Guomao"</string>
     <string name="discovery_added">Ajouté</string>
     <string name="discovery_empty_tips">Pas encore %s</string>
     <string name="discovery_filter_age_format">%1$d-%2$d</string>
-    <string name="discovery_filter_age_format1">%1$d above</string>
+    <string name="discovery_filter_age_format1">%1$d au-dessus</string>
     <string name="discovery_filter_age_no_limit">Ne limitez pas</string>
     <string name="discovery_filter_age_title">"Différence d'âge"</string>
     <string name="discovery_filter_cancel">Annuler</string>
@@ -1054,7 +1054,7 @@ Vit à Guomao"</string>
     <string name="discovery_recommend_muc">Groupe</string>
     <string name="discovery_recommend_mutual_company">Collègues recommandés</string>
     <string name="discovery_recommend_mutual_friend">Partager des amis communs</string>
-    <string name="discovery_recommend_mutual_group">"Membres de l'groupe recommandés"</string>
+    <string name="discovery_recommend_mutual_group">"Membres du groupe recommandés"</string>
     <string name="discovery_recommend_mutual_hometown">De la même ville</string>
     <string name="discovery_recommend_mutual_school">Anciens recommandés</string>
     <string name="discovery_recommend_nearby">Proche</string>
@@ -1368,11 +1368,11 @@ Voir qui de vos contacts utiliÉchec déjà Mi-Talk"</string>
     <string name="from_topic">Sujet: %s</string>
     <string name="function_setting">Paramètres</string>
     <string name="gain">Obtenir</string>
-    <string name="game_center">Centre de Jeu</string>
+    <string name="game_center">Jeux</string>
     <string name="game_center_downloaded">Téléchargé（%d）</string>
     <string name="game_center_file_check_failed">Vérification du fichier échouée</string>
-    <string name="game_center_friend_count">%d amis jouent</string>
-    <string name="game_center_friend_playing_list">Amis jouent</string>
+    <string name="game_center_friend_count">%d amis qui jouent</string>
+    <string name="game_center_friend_playing_list">Amis qui jouent</string>
     <string name="game_center_list_download_failed">Réseau indisponible, veuillez réessayer plus tard</string>
     <string name="game_center_list_rank">N° %d</string>
     <string name="game_center_not_downloaded">Recommandé</string>
@@ -1387,7 +1387,7 @@ Voir qui de vos contacts utiliÉchec déjà Mi-Talk"</string>
     <string name="game_detail_rank_muc_buddy">Classement du membre du groupe</string>
     <string name="game_detail_rank_muc_from">Depuis:%s</string>
     <string name="game_detail_ranking_btn">Classement des amis</string>
-    <string name="game_detail_ranking_empty">Soyez le joueur numéro un de ce jeu</string>
+    <string name="game_detail_ranking_empty">Soyez le premier à joueur à jeu</string>
     <string name="game_detail_ranking_error">Impossible de récupérer les informations de classement, veuillez vérifier votre réseau et réessayez</string>
     <string name="game_detail_start_btn">Démarrer</string>
     <string name="game_detail_title">Détails</string>
@@ -1700,13 +1700,13 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_setting_clearing">Effacement…</string>
     <string name="group_setting_confirm_exit_admin">Souhaitez-vous vous rétrograder du statut d\'administrateur ?</string>
     <string name="group_setting_confirm_exit_group">Quitter ce groupe ?</string>
-    <string name="group_setting_confirm_exit_union">Quitter cette groupe？</string>
+    <string name="group_setting_confirm_exit_union">Quitter ce groupe ？</string>
     <string name="group_setting_creaotr">Créateur</string>
     <string name="group_setting_creator">Créateur</string>
     <string name="group_setting_delete_confirm">Dissoudre cette groupe ?</string>
     <string name="group_setting_description">Á propos</string>
     <string name="group_setting_description_optinal">(optionnel)</string>
-    <string name="group_setting_destroy_group">"Dissoudre l'union"</string>
+    <string name="group_setting_destroy_group">Dissoudre le groupe</string>
     <string name="group_setting_every_one_canadd">"Les membres du groupe peuvent ajouter d'autres membres"</string>
     <string name="group_setting_exit">Quitter</string>
     <string name="group_setting_get_info_failed">Échec</string>
@@ -1717,7 +1717,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_setting_head_createtime_info">Créé dans %s</string>
     <string name="group_setting_head_creator_info">Créateur %s</string>
     <string name="group_setting_head_group_description">Á propos de ce groupe %s</string>
-    <string name="group_setting_head_group_id">Identifiant de l\'union:</string>
+    <string name="group_setting_head_group_id">Identifiant du groupe:</string>
     <string name="group_setting_isrecommend">Groupes recommandés</string>
     <string name="group_setting_join">Rejoindre ce groupe</string>
     <string name="group_setting_join_level">Entrerdans le groupe et mettre à jour</string>
@@ -1762,14 +1762,14 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_sms_status">État de livraison</string>
     <string name="group_upgrade_failure">Échec de la mise à jour, veuiller vérifier votre réseau ou réessayez plus tard</string>
     <string name="group_upgrade_ok_button">Continuer ?</string>
-    <string name="group_upgrade_set_avatar">"Image de l'union"</string>
+    <string name="group_upgrade_set_avatar">Image du groupe</string>
     <string name="group_upgrade_set_poi">Localisation</string>
-    <string name="group_upgrade_set_tag">"Tags de l'union tags"</string>
+    <string name="group_upgrade_set_tag">Tags du groupe</string>
     <string name="group_upgrade_success">Mis à jour</string>
-    <string name="group_upgrade_text">"Complêter vos informations et mettre à jour l'union"</string>
-    <string name="group_upgrade_to_union_content">"La mise à jour l'union n'est pas irreversible. Un numéro d'union sera généré et sera consultable par tous."</string>
-    <string name="group_upgrade_to_union_tips">"Un numéro d'union sera généré et sera consultable par tous."</string>
-    <string name="group_upgrade_to_uniun">"Mis à jour de l'union"</string>
+    <string name="group_upgrade_text">"Compléter vos informations et mettre à jour le groupe</string>
+    <string name="group_upgrade_to_union_content">La mise à jour du groupe n\'est pas irreversible. Un numéro de groupe sera généré et sera consultable par tous.</string>
+    <string name="group_upgrade_to_union_tips">Un numéro de groupe sera généré et sera consultable par tous.</string>
+    <string name="group_upgrade_to_uniun">Mis à jour du groupe</string>
     <string name="group_upgrade_unset">Non paramétré</string>
     <string name="group_upgrading">Mise à jour…</string>
     <string name="group_upload_picture_failed">Impossible de télécharger des photos, veuillez vérifiez vos connexions ou réessayez plus tard</string>
@@ -1990,7 +1990,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="join_domain_succeed_msg">Rejoindre les groupes d\'intérêt</string>
     <string name="join_muc_need_check">Demande à l\'administrateur</string>
     <string name="join_muc_title">Demande pour rejoindre ce groupe</string>
-    <string name="join_union_title">Demande pour rejoindre cette groupe</string>
+    <string name="join_union_title">Demande pour rejoindre ce groupe</string>
     <string name="joined_groups">groupes</string>
     <string name="just_talk">Tchat</string>
     <string name="keep_on_import_contacts">Fait ! Vous pouvez envoyer des invitations maintenant.</string>
@@ -2279,13 +2279,13 @@ groupes et rejoignez-nous etc."</string>
     <string name="miliao_job_broadcast">Petit rappel: La première publication vous rapporte 40 points, dépêchez-vous de partager quelque chose avec vos amis!</string>
     <string name="miliao_job_broadcast_tip">Publier</string>
     <string name="miliao_job_first_vote">Petit rappel: La première participation à un vote vous rapporte 50 points, Dépêchez-vous et votez !</string>
-    <string name="miliao_job_first_vote_tip">Voter</string>
+    <string name="miliao_job_first_vote_tip">Votes</string>
     <string name="miliao_job_sign">Petit rappel: Gagnez une récompense de 50 points par inscription. Allez-y et obtenez votre récompense !</string>
     <string name="miliao_job_sign_tip">S\'inscrire</string>
-    <string name="miliao_job_union">Petit rappel: Le prmier rattachement à une groupe vous rapportera 100 points, dépêchez-vous de voir quels groupes sont intéressantes près de chez vous !</string>
-    <string name="miliao_job_union_tip">Rejoindre une groupe</string>
+    <string name="miliao_job_union">Petit rappel: Le premier rattachement à un groupe vous rapportera 100 points, dépêchez-vous de voir quels groupes sont intéressantes près de chez vous !</string>
+    <string name="miliao_job_union_tip">Rejoindre un groupe</string>
     <string name="miliao_job_vote">Petit rappel: Votez trois fois par jour et gagner 20 points. Dépêchez-vous et votez pour vos amis !</string>
-    <string name="miliao_job_vote_tip">Voter</string>
+    <string name="miliao_job_vote_tip">Votes</string>
     <string name="miliao_joke">Blagues Mi-Talk</string>
     <string name="miliao_login">Se connecter</string>
     <string name="miliao_login_needs_notification">Lier vos mobiles pour permettre à d\'autres applications de se connecter à votre compte Mi !</string>
@@ -2300,7 +2300,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="miliao_sign_content">Gagnez en vous inscrivant une récompense de 50 points et plus !</string>
     <string name="miliao_sign_title">Inscrivez-vous pour la récompense</string>
     <string name="miliao_sina">Aide Sina Weibo </string>
-    <string name="miliao_union_content">Découvrez quelles associations intéressantes sont à proximité</string>
+    <string name="miliao_union_content">Découvrez quels groupes sont intéressants à proximité</string>
     <string name="miliao_union_title">groupes à proximité</string>
     <string name="miliao_upgrade">Mise à jour Mi-Talk</string>
     <string name="miliao_upgrade_desc">Téléchargement du package d\'installation…</string>
@@ -2376,7 +2376,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_cancel_like_failed">Échec d\'annulation</string>
     <string name="muc_cancel_verify">Annuler</string>
     <string name="muc_card">Profil du groupe</string>
-    <string name="muc_card_vote">Voter</string>
+    <string name="muc_card_vote">Votes</string>
     <string name="muc_category_title">Catégorie</string>
     <string name="muc_chose_org_error">Sélectionnez une option</string>
     <string name="muc_compose_add_member">Ajouté un membre</string>
@@ -3206,7 +3206,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="play_count_format_wan">%.1f</string>
     <string name="play_count_format_yi">%.1f</string>
     <string name="play_error">Erreur</string>
-    <string name="play_game_get_first">Venez et devenez numéro 1</string>
+    <string name="play_game_get_first">Venez et devenez le numéro 1</string>
     <string name="playing_music_name">Jouez maintenant:%s</string>
     <string name="please_choose_a_pumpkin">Choisissez votre petit gâteau !</string>
     <string name="please_choose_date_default">Année de démarrage</string>
@@ -3878,11 +3878,11 @@ Identifiant Mi: %2$s
     <string name="service_mall">Boutique Mi</string>
     <string name="service_muc_category">Sujet</string>
     <string name="service_muc_rank">Populaire</string>
-    <string name="service_muc_rank_failed_tips">Impossible d\'obtenir les associations dans lesquelles vos amis sont, veuillez vérifiez vos connexions ou réessayez plus tard</string>
+    <string name="service_muc_rank_failed_tips">Impossible d\'obtenir les groupess dans lesquels vos amis sont, veuillez vérifiez vos connexions ou réessayez plus tard</string>
     <string name="service_muc_rank_friend_count">%d amis</string>
     <string name="service_muc_rank_load_empty">Vide</string>
     <string name="service_muc_rank_load_failed">Impossible d\'obtenir Hang-out pour les amis</string>
-    <string name="service_muc_square">Place de l\'association</string>
+    <string name="service_muc_square">Place du groupe</string>
     <string name="service_nearby_muc">Proche</string>
     <string name="service_num_editor">Éditer les abonnements</string>
     <string name="service_personal">Personnel</string>
@@ -3924,7 +3924,7 @@ Identifiant Mi: %2$s
     <string name="setting_pwd_failed">Impossible de mettre à jour les paramètres Mot de passe</string>
     <string name="setting_pwd_succeed">Mot de passe changé</string>
     <string name="setting_sync_friend">Synchroniser la liste d\'amis</string>
-    <string name="setting_sync_muc">Synchroniser le groupe de tchat d\'amis ou la liste d\'association</string>
+    <string name="setting_sync_muc">Synchroniser le groupe de tchat d\'amis ou la liste de groupes</string>
     <string name="setting_sync_subscribe">Synchroniser la liste des abonnements</string>
     <string name="setting_sysn_list">Synchroniser la  liste de contacts</string>
     <string name="setting_title_about">Á propos</string>
@@ -4040,7 +4040,7 @@ Identifiant Mi: %2$s
     <string name="share_to_friend">Partager avec des friends</string>
     <string name="share_to_friends">Envoyer aux amis</string>
     <string name="share_to_miliao">Partager sur Mi-Talk</string>
-    <string name="share_to_union">Partager dans groupe</string>
+    <string name="share_to_union">Partager dans avec le groupe</string>
     <string name="share_to_wall">Poster sur le Mur</string>
     <string name="share_to_weibo">Partager dans Weibo</string>
     <string name="share_to_weibo_tips">Partager dans Weibo et gagner un F-code</string>
@@ -4347,8 +4347,8 @@ Identifiant Mi: %2$s
 %1$s messages n\'ont pas été synchronisés, environ %2$s"</string>
     <string name="sync_history_status_no_network">Impossible de se connecter au réseau
 %1$s n\'ont pas été synchronisés, environ %2$s</string>
-    <string name="sync_muc_info">Pour éviter de perdre des informations, synchronisations de discussions de groupe et associations. Cela prendra environ 1 minute et ne peut être annulée.</string>
-    <string name="sync_muc_title">Groupe d\'amis ou de la liste d\'association</string>
+    <string name="sync_muc_info">Pour éviter de perdre des informations, synchronisations de discussions du groupe. Cela prendra environ 1 minute et ne peut être annulée.</string>
+    <string name="sync_muc_title">Groupe d\'amis ou de la liste de groupes</string>
     <string name="sync_renren">Synchroniser les messages du cercle de Mi-Talk vers Renren</string>
     <string name="sync_renren_cancel">Annuler</string>
     <string name="sync_sina_weibo">Synchroniser les messages du cercle de Mi-Talk vers Sina Weibo</string>
@@ -4474,7 +4474,7 @@ Identifiant Mi: %2$s
     <string name="unenable">Désactivé</string>
     <string name="unfollow">Ne plus suivre</string>
     <string name="unfollow_confirm">Êtes-vous sûr de ne plus vouloir suivre “%1$s” ?</string>
-    <string name="union_setting_delete_confirm">Dissoudre cette groupe et démanteler tous les membres ? Faites attention ! Vous ne pouvez pas inverser cette action !</string>
+    <string name="union_setting_delete_confirm">Dissoudre ce groupe et démanteler tous les membres ? Faites attention ! Vous ne pouvez pas inverser cette action !</string>
     <string name="university">Université</string>
     <string name="university_empty_hits">Aucun résultat pour %s</string>
     <string name="unknowerror">Une erreur inconnue est survenue</string>
