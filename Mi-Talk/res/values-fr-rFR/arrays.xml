@@ -19,34 +19,34 @@
         <item>Article complet</item>
     </string-array>
     <string-array name="channel_edit_menu">
-        <item>Editer nom</item>
-        <item>supprimer canal</item>
+        <item>Éditer nom</item>
+        <item>Supprimer canal</item>
     </string-array>
     <string-array name="chose_chunjie">
-        <item>春节2</item>
-        <item>春节3</item>
-        <item>春节4</item>
+        <item>Année 2</item>
+        <item>Année 3</item>
+        <item>Année 4</item>
     </string-array>
     <string-array name="chose_festival">
-        <item>春节</item>
-        <item>情人节</item>
-        <item>元宵节</item>
+        <item>Nouvel An chinois</item>
+        <item>Saint Valentin</item>
+        <item>Fête des Lanternes</item>
     </string-array>
     <string-array name="chose_group_kind_content">
         <item>Ce groupe sera recommandé à vos collègues</item>
         <item>Ce groupe sera recommandé à vos camarades de classe</item>
-        <item>Ce groupe sera recommandé aux personnes ont même intérêt</item>
-        <item>"Nous n'allons pas recommander ce groupe à ne importe qui"</item>
+        <item>Ce groupe sera recommandé aux personnes qui ont le même intérêt</item>
+        <item>"Nous n'allons pas recommander ce groupe à n'e 'importe qui"</item>
     </string-array>
     <string-array name="chose_group_kind_title">
         <item>Lieu de travail</item>
-        <item>Ecole</item>
-        <item>Publique</item>
-        <item>Privée</item>
+        <item>École</item>
+        <item>Public</item>
+        <item>Privé</item>
     </string-array>
     <string-array name="chose_pic_quality">
         <item>Haute qualité</item>
-        <item>Les données en mode économiser</item>
+        <item>Les données en mode économier</item>
     </string-array>
     <string-array name="constellations">
         <item>Bélier</item>
@@ -66,52 +66,52 @@
         <item>Ajouter plusieurs contacts</item>
     </string-array>
     <string-array name="context_anim_1">
-        <item>新年快乐</item>
-        <item>春节快乐</item>
-        <item>恭喜发财</item>
-        <item>新春快乐</item>
-        <item>阖家欢乐</item>
-        <item>吉祥如意</item>
-        <item>万事如意</item>
-        <item>心想事成</item>
-        <item>元旦快乐</item>
-        <item>happy new year</item>
+        <item>Bonne Année</item>
+        <item>Bonne Année</item>
+        <item>Kung Hei Fat Choy</item>
+        <item>Bonne Année</item>
+        <item>Amusement Familial</item>
+        <item>Bonne chance</item>
+        <item>Bonne chance</item>
+        <item>Tous nos voeux</item>
+        <item>Bonne Année</item>
+        <item>Bonne Année</item>
     </string-array>
     <string-array name="context_anim_10">
-        <item>吃药</item>
-        <item>放弃治疗</item>
-        <item>药不能停</item>
+        <item>traitement</item>
+        <item>abandonner le traitement</item>
+        <item>Le traitement ne peut pas être arrêter</item>
     </string-array>
     <string-array name="context_anim_11">
-        <item>天气不错</item>
-        <item>天气晴朗</item>
-        <item>好天气</item>
-        <item>今天心情不错</item>
-        <item>风和日丽</item>
-        <item>心情大好</item>
+        <item>intempéries</item>
+        <item>il fait clair</item>
+        <item>beau temps</item>
+        <item>Bonne chaleur aujourd\'hui</item>
+        <item>ensoleillé</item>
+        <item>chaleur</item>
     </string-array>
     <string-array name="context_anim_12">
-        <item>节日快乐</item>
-        <item>元宵节快乐</item>
-        <item>植树节快乐</item>
-        <item>愚人节快乐</item>
-        <item>端午节快乐</item>
-        <item>中秋快乐</item>
-        <item>中秋节快乐</item>
+        <item>Joyeuses Fêtes</item>
+        <item>Heureuses Lanternes</item>
+        <item>Bonne Journée de l\'arbre</item>
+        <item>Bonnes Fêtes d\'avril</item>
+        <item>Bonnes Fêtes des Bâteaux Dragons</item>
+        <item>Bonnes Fêtes d\'Automne</item>
+        <item>Bonnes Fêtes d\'Automne</item>
     </string-array>
     <string-array name="context_anim_2">
-        <item>生日快乐</item>
-        <item>生快</item>
-        <item>happy birthday</item>
+        <item>Joyeux Anniversaire</item>
+        <item>Bon rétablissement</item>
+        <item>Joyeux Anniversaire</item>
     </string-array>
     <string-array name="context_anim_3">
-        <item>一生一世</item>
-        <item>爱你</item>
+        <item>Pour la vie</item>
+        <item>vous aime</item>
         <item>1314</item>
-        <item>love you</item>
+        <item>vous aime</item>
     </string-array>
     <string-array name="context_anim_4">
-        <item>情人节快乐</item>
+        <item>Bonne Saint-Valentin</item>
         <item>七夕快乐</item>
         <item>妇女节快乐</item>
         <item>三八妇女节</item>
