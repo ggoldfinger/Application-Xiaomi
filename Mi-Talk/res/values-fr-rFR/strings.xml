@@ -1478,7 +1478,7 @@ Voir qui de vos contacts utiliÉchec déjà Mi-Talk"</string>
     <string name="gift_activity_status_progress">Rejoindre</string>
     <string name="gift_activity_status_reward">Obtenir les récompenses</string>
     <string name="gift_activity_status_signup">"S'inscrire maintenant"</string>
-    <string name="gift_buy_blue_gem">Acheter un gemme bleu</string>
+    <string name="gift_buy_blue_gem">Acheter un gemme bleue</string>
     <string name="gift_clockin">"S'enregistrer"</string>
     <string name="gift_draw">Tirage au sort</string>
     <string name="gift_exchange_blue_gem_confirm">Confirmer</string>
@@ -1503,7 +1503,7 @@ Mon%4$s:%5$d</string>
     <string name="gift_game_title_2">Chasseur</string>
     <string name="gift_game_title_3">Princesse</string>
     <string name="gift_game_title_none">Bientôt disponible</string>
-    <string name="gift_gem_mall">Boutique des Gemmes Bleues</string>
+    <string name="gift_gem_mall">Gemmes Bleues</string>
     <string name="gift_gold">Or: %s</string>
     <string name="gift_item_upgrade_btn">Améliorer</string>
     <string name="gift_item_upgrade_buy_cost">Acheter %s</string>
@@ -1538,7 +1538,7 @@ Mon%4$s:%5$d</string>
     <string name="gift_rank_lucky">Classement par chance</string>
     <string name="gift_rank_point">Classement par points</string>
     <string name="gift_rank_strengthen">Power up</string>
-    <string name="gift_rank_strengthen_gem_red">Power-up échoué mais obtenir %d plus de gemmes rouge</string>
+    <string name="gift_rank_strengthen_gem_red">Power-up échoué mais obtenir %d plus de gemmes rouges</string>
     <string name="gift_rank_strengthen_lucky">Luck up</string>
     <string name="gift_rank_strengthen_lucky_bei">%d times</string>
     <string name="gift_rank_strengthen_lucky_des">"Vous avez de plus grandes chances de gagner à la loterie aujourd'hui%d"</string>
@@ -1557,8 +1557,8 @@ Mon%4$s:%5$d</string>
     <string name="gift_upgrade">Equipement</string>
     <string name="gift_user_info">Profile</string>
     <string name="gift_user_info_charisma">Charisme: %d</string>
-    <string name="gift_user_info_gem_blue">Gemmes bleu: %d</string>
-    <string name="gift_user_info_gem_red">Gemmes rouge: %d</string>
+    <string name="gift_user_info_gem_blue">Gemmes bleues: %d</string>
+    <string name="gift_user_info_gem_red">Gemmes rouges: %d</string>
     <string name="gift_user_info_ingot">Lingot:%d</string>
     <string name="gift_user_info_lucky">Points de chance: %d</string>
     <string name="gift_user_info_lv_info">NV%d</string>
@@ -1577,7 +1577,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="gold_buying">Traitement...</string>
     <string name="gold_mall_discount">Réduction</string>
     <string name="gold_mall_free">Gratuit</string>
-    <string name="gold_mall_gem_counts">Gemme bleu</string>
+    <string name="gold_mall_gem_counts">Gemme bleue</string>
     <string name="gold_mall_hot">hot</string>
     <string name="gold_mall_mibi">%s RMB</string>
     <string name="gold_mall_new">nouveau</string>
