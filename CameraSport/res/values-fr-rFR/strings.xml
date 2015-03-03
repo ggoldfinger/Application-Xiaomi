@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Caméra</string>
+    <string name="app_name">"Yi-Caméra
+Sport"</string>
     <string name="weibo_oauth_regiseter">Autorisation</string>
     <string name="website">http://www.mob.com</string>
     <string name="weibo_upload_content">partager une image</string>
@@ -250,7 +251,7 @@
     <string name="piv_complete">Capture terminée !</string>
     <string name="stop_record_first">Veuille arrêter l\'enregistrement.</string>
     <string name="can_not_piv">La capture ne peut se faire que pendant l\'enregistrement.</string>
-    <string name="can_not_piv_in_current_resolution"La résolution actuelle ne répond pas aux exigences.</string>
+    <string name="can_not_piv_in_current_resolution">La résolution actuelle ne répond pas aux exigences.</string>
     <string name="in_caputring_not_surppor_change">Capture...</string>
     <string name="in_quick_recording">Capture...</string>
     <string name="in_timer_capturing">Capture...</string>
@@ -279,7 +280,7 @@
     <string name="disconnect_from_camera">Êtes-vous sûr de vouloir vous déconnecter de la caméra?</string>
     <string name="factory_reset_message">Êtes-vous sûr de vouloir restaurer les paramètres d\'usine?</string>
     <string name="restore_factory_success">Veuillez activer le WiFi pour le connecter après les trois bips.</string>
-    <string name="set_camera_clock_message">Voulez-vous d'ajuster l\'heure avec l\'horloge de votre téléphone ?</string>
+    <string name="set_camera_clock_message">Voulez-vous d\'ajuster l\'heure avec l\'horloge de votre téléphone ?</string>
     <string name="set_camera_clock_title">Heure de la caméra</string>
     <string name="factory_reset_title">Réglages d\'usine</string>
     <string name="title_sdcard">Carte SD</string>
@@ -332,7 +333,7 @@
     <string name="new_video">Nouvelle vidéo</string>
     <string name="video_filter">Filtre</string>
     <string name="video_musicbg">Musique</string>
-    <string name="app_upgrade_title">Trouver une mise à jour de l'application</string>
+    <string name="app_upgrade_title">Trouver une mise à jour de l\'application</string>
     <string name="app_upgrade_button">Téléchargement</string>
     <string name="app_download_title">Téléchargement de l\'application...</string>
     <string name="firmware_upgrade_title">Trouver mise à jour du pilote</string>
