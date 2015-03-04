@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">"Yi-Caméra
-Sport"</string>
+    <string name="app_name">"Yi-Caméra"</string>
     <string name="weibo_oauth_regiseter">Autorisation</string>
     <string name="website">http://www.mob.com</string>
     <string name="weibo_upload_content">partager une image</string>
@@ -397,7 +396,7 @@ Sport"</string>
     <string name="prompt_video_download_message">Le téléchargement va bientôt commencer, confirmez que vous voulez continuer ?</string>
     <string name="setting_start_download">Démarrage...</string>
     <string name="setting_user_guide">Guide de l\'utilisateur</string>
-    <string name="setting_common_problem">Questions &amp; Réponses</string>
+    <string name="setting_common_problem">Questions et Réponses</string>
     <string name="setting_feedback">Commentaire</string>
     <string name="setting_about">Á propost</string>
     <string name="my_content">Photos et vidéos locales</string>
@@ -464,7 +463,7 @@ Sport"</string>
     <string name="insert_sd_card_first">Nous n\'avons pu trouver de carte SD, veuillez en insérer une.</string>
     <string name="save">Sauvegarder</string>
     <string name="file_already_downloaded">Téléchargement du fichier terminé.</string>
-    <string name="file_is_downloading">Téléchargement d'un fichier terminée....</string>
+    <string name="file_is_downloading">Téléchargement d\'un fichier terminée....</string>
     <string name="delete_success">Suppression terminée !</string>
     <string name="delete_failed">Impossible de supprimer.</string>
     <string name="sd_card_space">Carte SD disponible</string>
@@ -494,7 +493,7 @@ Sport"</string>
     <string name="initialize_filelist">Initialisation…</string>
     <string name="in_timer">Prendre une photo dans: </string>
     <string name="battery_lower_than_50_percent">Batterie est inférieure à 50%, veuillez la recharger</string>
-    <string name="abnormal_sw_file"Fichier incorrect, veuillez le télécharger à nouveau</string>
+    <string name="abnormal_sw_file">Fichier incorrect, veuillez le télécharger à nouveau</string>
     <string name="exit_cancle_download">Effacer les fichiers téléchargés, voulez-vous continuer ?</string>
     <string name="unsurported_sw_version">La version actuelle ne prend pas en charge la synchronisation de la caméra pour prendre des photos, veuillez mettre à jour votre pilote</string>
     <string name="share_failed">Partage échoué</string>
