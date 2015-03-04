@@ -95,7 +95,7 @@
     <string name="air_purifier_common_location_timeout">Délai de positionnement dépassé</string>
     <string name="air_purifier">Purificateur d\'air MI</string>
     <string name="air_purifier_filter">Filtre</string>
-    <string name="air_purifier_air_quality">Qualité de l'air</string>
+    <string name="air_purifier_air_quality">Qualité de l\'air</string>
     <string name="air_purifier_controll">Contrôle de l\'appareil</string>
     <string name="air_purifier_filter_tip">État du Filtre %s</string>
     <string name="air_purifier_air_gran">Particules totales</string>
@@ -125,7 +125,7 @@
     <string name="air_purifier_filter_level_0">Excellent</string>
     <string name="air_purifier_filter_level_1">Bon</string>
     <string name="air_purifier_filter_level_2">Modéré</string>
-    <string name="air_purifier_act_det_desc">Vous pouvez suivre en temps réel la qualité de l\'air de la maison fermée, vous aurez une augmentation d\'environ 5 cents par jour de la consommation d'électricité, vous pourrez également entendre un très léger bruit du moteur,voulez-vous l\'activer ?</string>
+    <string name="air_purifier_act_det_desc">Vous pouvez suivre en temps réel la qualité de l\'air de la maison fermée, vous aurez une augmentation d\'environ 5 cents par jour de la consommation d\'électricité, vous pourrez également entendre un très léger bruit du moteur,voulez-vous l\'activer ?</string>
     <string name="air_purifier_act_det_yes">Oui</string>
     <string name="air_purifier_act_det_no">Non</string>
     <string name="air_purifier_act_det_processing">Traitement en cours...</string>
