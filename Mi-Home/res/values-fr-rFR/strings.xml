@@ -133,7 +133,7 @@
     <string name="air_purifier_act_det_fail">Échec de l\'activation</string>
     <string name="air_purifier_filter_desc">Explication:
 Signlaisation du remplacement de la cartouche, à chaque démarrage l\'indication de remplacement du filtre vous sera indiqué par le voyant rouge pendant 30 secondes.
-Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de réinitialisation à l'arrière du corps de filtre, vous entendrez un bip après réussi à le réinitialiser.</string>
+Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de réinitialisation à l\'arrière du corps de filtre, vous entendrez un bip après réussi à le réinitialiser.</string>
     <string name="air_purifier_filter_reset">Réinitialiser le filtre</string>
     <string name="air_purifier_filter_reset_tip">Assurez-vous que le filtre a été remplacé par un nouveau, sinon retirer le filtre et remettez-le</string>
     <string name="air_purifier_filter_reset_tip_2">Ne pas remplacer le filtre et le réinitialiser se traduira par un échec de détection</string>
@@ -188,11 +188,11 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_setting_time_open_close">Interrupteur minuterie</string>
     <string name="air_purifier_setting_time_open_close_open">Ouvert</string>
     <string name="air_purifier_setting_time_open_close_close">Fermé</string>
-    <string name="air_purifier_setting_home">Entrée&amp;Maison(Laboratoire)</string>
+    <string name="air_purifier_setting_home">Entrée / Maison(Laboratoire)</string>
     <string name="air_purifier_setting_home_desc">Arrêt automatique pour l\'entrée et la maison en puissance automatique</string>
     <string name="air_purifier_setting_act_det">Surveillance en temps réel de l\'arrêt</string>
     <string name="air_purifier_setting_act_det_desc">Chaque jour, environ cinq cents de consommation d\'électricité</string>
-    <string name="air_purifier_setting_aqi_link">Relevage de la qualité de l'air</string>
+    <string name="air_purifier_setting_aqi_link">Relevage de la qualité de l\'air</string>
     <string name="air_purifier_setting_aqi_link_desc">Démarrer automatiquement lorsque l\'air ambiant est faible, et plus si l\'arrêt automatique est activé</string>
     <string name="air_purifier_setting_child_lock">Vérouillage enfant</string>
     <string name="air_purifier_setting_child_lock_desc">Échec du mode de vérouillage</string>
@@ -223,7 +223,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_timing_add">Ajouter une date</string>
     <string name="air_purifier_set_success">Réglage réussi</string>
     <string name="air_purifier_set_fail">Échec du règlage</string>
-    <string name="air_purifier_v2">Mi Purificateur d'\air 2</string>
+    <string name="air_purifier_v2">Mi Purificateur d\'air 2</string>
     <string name="air_purifier_v2_filter">Filtre</string>
     <string name="air_purifier_v2_air_quality">Qualité de l\'air</string>
     <string name="air_purifier_v2_controll">Contrôle de l\'appareil</string>
@@ -263,7 +263,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v2_act_det_fail">Échec de l\'activation</string>
     <string name="air_purifier_v2_filter_desc">Explication:
 Signlaisation du remplacement de la cartouche, à chaque démarrage l\'indication de remplacement du filtre vous sera indiqué par le voyant rouge pendant 30 secondes.
-Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de réinitialisation à l'arrière du corps de filtre, vous entendrez un bip après réussi à le réinitialiser.</string>
+Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de réinitialisation à l\'arrière du corps de filtre, vous entendrez un bip après réussi à le réinitialiser.</string>
     <string name="air_purifier_v2_filter_reset">Réinitialiser le filtre</string>
     <string name="air_purifier_v2_filter_reset_tip">Assurez-vous que le filtre a été remplacé par un nouveau, sinon retirer le filtre et remettez-le</string>
     <string name="air_purifier_v2_filter_reset_tip_2">Ne pas remplacer le filtre et le réinitialiser se traduira par un échec de détection</string>
