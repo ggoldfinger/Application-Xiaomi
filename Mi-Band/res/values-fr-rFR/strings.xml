@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi-Fit</string>
-    <string name="tag_action_tips">在%s的过程中，请确保手环和手机保持在5米的范围内，并且中间不要隔墙，以确保标注成功。</string>
-    <string name="tag_doing_label">%s中…</string>
+    <string name="tag_action_tips">"Marquage effectué à %s. Pour effectuer le marquage du bracelet, s'assurer que le bracelet et le téléphone sont distants de moins de 5 mètres sans obstacles entre eux."</string>
+    <string name="tag_doing_label">Effectué à %s…</string>
     <string name="tag_connection">Connexion</string>
     <string name="tag_waiting">Patienter………</string>
     <string name="tag_connection_f">Échec de la connexion, cliquez sur Réessayer</string>
     <string name="tag_connection_f1">Le Mi-Fit doit être près du téléphone</string>
-    <string name="tag_error_notice">"手环与app连接断开，标注失败，请确保手环
-与app在5米以内，且不隔墙,再次开始标注"</string>
+    <string name="tag_error_notice">"Bracelet déconnecté de l'application. S'assurer que le bracelet se trouve 
+à moins de 5 mètres sans obstacles du téléphone avant d'essayer à nouveau."</string>
     <string name="data_not_supported">--</string>
     <string name="picker_menu_done">Terminé</string>
     <string name="pull_to_refresh_pull_label">Tirer pour actualiser les données</string>
@@ -180,10 +180,11 @@ Cela correspond à 12000 pas de marche."</string>
     <string name="login_failed_check_sys_time">"Échec de la connexion, vérifier le réglage de l'heure de votre téléphone et activer la synchronisation horaire du réseau."</string>
     <string name="everyday">Tous les jours</string>
     <string name="mon_fri">Du lundi au vendredi</string>
-    <string name="mon_sat">Du lundi au dimanche</string>
+    <string name="mon_sat">Du lundi au samedi</string>
     <string name="device_not_found_not_knocked">"Relancer la recherche après avoir tapoté sur le Mi-Fit une fois qu'il clignote."</string>
     <string name="statistic">Statistiques</string>
-    <string name="mili_weight_unbind_info">解除绑定后，手机将无法连接到体重称，此时手机可以绑定其他体重称</string>
+    <string name="mili_weight_unbind_info">"Après désappairage, le téléphone ne pourra plus se connecter à la balance. 
+Il sera alors possible de l'appairer à une autre balance."</string>
     <string name="mili_unbind_question_content">Une fois le Mi-Fit désappairé de votre téléphone, vous pouvez en appairer un autre.</string>
     <string name="mili_unbind_question_content_1" />
     <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Fit et de le réinitialiser avec les paramètres d'usine. 
@@ -594,7 +595,8 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="weight_unit_metric">Métrique (kg, kg)</string>
     <string name="weight_unit_british">anglais（livre）</string>
     <string name="weight_unit_shijin">Jin (1 kg = 500 g)</string>
-    <string name="weight_unit_text_info">你已经绑定了体重称，重量单位将以体重称的设置为准，打开体重称反面的电池盖可以调整重量单位</string>
+    <string name="weight_unit_text_info">"Vous avez modifié l'unité de masse utilisée par la balance. Pour revenir à l'unité par défaut, 
+ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau l'unité de masse."</string>
     <string name="bind_devices">Périphériques appairés</string>
     <string name="bind_mi_band">Mi-Fit appairée</string>
     <string name="bind_mi_weight">Mi-Balance appairée</string>
@@ -740,7 +742,8 @@ saved %2$s gallons of gas"</string>
     <string name="connect_to_retrive">Pas d\'internet</string>
     <string name="week_total_distance_miles">"Semaine totale
 (km)"</string>
-    <string name="found_weight_scale_title">已发现体重秤, 请确认秤的显示的数值和下方数值一样, 即可确认绑定</string>
+    <string name="found_weight_scale_title">"Balance trouvée. S'assurer que les chiffres indiqués sur la balance et 
+ceux affichés dans l'application correspondent pour confirmer l'appairage."</string>
     <string name="confirm_pair">Confirmer la liaison</string>
     <string name="signal_strong">Strong</string>
     <string name="signal_weak">Faible</string>
