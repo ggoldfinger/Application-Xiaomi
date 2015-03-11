@@ -352,7 +352,6 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v2_timing_title">Interrupteur minuterie</string>
     <string name="air_purifier_v2_timing_add">Ajouter une date</string>
     <string name="air_purifier_v2_set_success">Réglage réussi</string>
-    <string name="air_purifier_set_fail">Échec du règlage</string>
     <string name="air_purifier_v3">Mi Purificateur d\'air 2</string>
     <string name="air_purifier_v3_filter">Filtre</string>
     <string name="air_purifier_v3_air_quality">Qualité de l\'air</string>
@@ -482,7 +481,6 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v3_timing_title">Interrupteur minuterie</string>
     <string name="air_purifier_v3_timing_add">Ajouter une date</string>
     <string name="air_purifier_v3_set_success">Réglage réussi</string>
-    <string name="air_purifier_set_fail">Échec du règlage</string>
     <string name="sans_serif">sans-serif</string>
     <string name="week_day_0">0</string>
     <string name="week_day_1">1</string>
@@ -544,7 +542,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_settings_save_sd_card">Carte SD</string>
     <string name="camera_settings_save_route">Mi-Routeur</string>
     <string name="camera_settings_save_sd_card_des">Possibilité de stocker de la vidéo Haute Définition et de la lire en temps réel</string>
-    <string name="camera_settings_save_route_des">Possibilité de stocker pendant jusqu'à 30 jours de vidéo</string>
+    <string name="camera_settings_save_route_des">Possibilité de stocker pendant jusqu\'à 30 jours de vidéo</string>
     <string name="camera_settings_save_space_not_enough">Le routeur n\'a pas assez de stockage disponible</string>
     <string name="camera_settings_check_update">Vérifier les mises à jour</string>
     <string name="camera_settings_check_update_new">Mise à jour du pilote (nouveau)</string>
@@ -581,7 +579,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_need_update_rom_for_use">"Veuillez mettre à jour le pilote avant d'utiliser cette fonction, sinon son bon fonctionnement ne sera pas garanti"</string>
     <string name="camera_alarm_set_error">Impossible de régler l\'alarme de la caméra</string>
     <string name="camera_alarm_set_sucess">Réglage de l\'alarme de la caméra effectué</string>
-    <string name="camera_alarm_set_error_alert">Impossible d'enregistrer les réglages de la caméra, voulez-vous quitter le paramétrage ?</string>
+    <string name="camera_alarm_set_error_alert">Impossible d\'enregistrer les réglages de la caméra, voulez-vous quitter le paramétrage ?</string>
     <string name="camera_save_setting">Enregistrement des paramètres...</string>
     <string name="camera_save_setting_success">Paramètres enregistrés</string>
     <string name="camera_video_quality_auto">Auto</string>
@@ -641,7 +639,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_error_device">Erreur de la caméra, veuillez redémarrer et essayer à nouveau</string>
     <string name="select_camera">Sélectionnez Smart View de la caméra</string>
     <string name="get_mi_router_info">Obtention des informations de configuration de la caméra...</string>
-    <string name="get_mi_router_info_error">Perte des réglages de l'appareil</string>
+    <string name="get_mi_router_info_error">Perte des réglages de l\'appareil</string>
     <string name="get_camera_backup_error_router_info">Le routeur n\'a pu obtenir les informations de la caméra</string>
     <string name="get_camera_backup_error_router_info_name">Le routeur n\'a pu obtenir le nom de la caméra</string>
     <string name="get_camera_backup_error_router_info_service_token">Défaillance de l\'accès à la caméra par le routeur</string>
