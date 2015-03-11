@@ -5,7 +5,7 @@
     <string name="tag_doing_label">Effectué à %s…</string>
     <string name="tag_connection">Connexion</string>
     <string name="tag_waiting">Patienter………</string>
-    <string name="tag_connection_f">Échec de la connexion, cliquez sur Réessayer</string>
+    <string name="tag_connection_f">Échec de la connexion, appuyer sur Réessayer</string>
     <string name="tag_connection_f1">Le Mi-Fit doit être près du téléphone</string>
     <string name="tag_error_notice">"Bracelet déconnecté de l'application. S'assurer que le bracelet se trouve 
 à moins de 5 mètres sans obstacles du téléphone avant d'essayer à nouveau."</string>
@@ -598,7 +598,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="weight_unit_text_info">"Vous avez modifié l'unité de masse utilisée par la balance. Pour revenir à l'unité par défaut, 
 ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau l'unité de masse."</string>
     <string name="bind_devices">Périphériques appairés</string>
-    <string name="bind_mi_band">Mi-Fit appairée</string>
+    <string name="bind_mi_band">Mi-Fit appairé</string>
     <string name="bind_mi_weight">Mi-Balance appairée</string>
     <string name="bind_mi_band_about"><Data>&lt;a href=http://www.mi.com>Voir Mi-Fit Site&lt;/a></Data></string>
     <string name="bind_mi_weight_about"><Data>&lt;a href=http://www.mi.com>Voir Mi-Balance Site&lt;/a></Data></string>
