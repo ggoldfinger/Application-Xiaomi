@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">XiaoYi-Caméra</string>
+    <string name="app_name">XiaoYi-Cam</string>
     <string name="cancel">Annuler</string>
     <string name="share_to">Partager avec</string>
     <string name="share">Partager</string>
@@ -407,7 +407,7 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="camera_wifi_config_message_read_wifi_list_finished">Lecture de données réussie, configurer la caméra en utilisant le WiFi</string>
     <string name="camera_wifi_config_message_cant_connect_to_camera">Une erreur est survenue ! vérifiez que la caméra est allumée et essayez à nouveau !</string>
     <string name="camera_wifi_config_message_cancel_config">Configuration de la caméra échouée, veuillez essayer à nouveau</string>
-    <string name="camera_not_found_wifi">Caméra non trouvée via WiFi:XXX，veuillez brancher l\'alimentation pour redémarrer l'appareil！</string>
+    <string name="camera_not_found_wifi">Caméra non trouvée via WiFi:XXX，veuillez brancher l\'alimentation pour redémarrer l\'appareil ！</string>
     <string name="camera_wifi_config_message_failed_config">Configuration du WiFi échouée ，veuillez vérifier les points suivants après avoir branché l\'appareil：
 1. Fonction DHCP activée；
 2. Mot de passe wifi correct；
@@ -533,7 +533,7 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="checknet_error_connect_xiaomi_error">Connexion au serveur de Xiaomi échouée</string>
     <string name="checknet_error_all_stream_blocking">Jouer un flux primaire et secondaire peut produire un blocage.</string>
     <string name="checknet_error_main_stream_blocking">Jouer un flux principal peut produire un blocage.</string>
-    <string name="checknet_error_deputy_stream_blocking"Jouer un flux mineur peut produire un blocage.</string>
+    <string name="checknet_error_deputy_stream_blocking">Jouer un flux mineur peut produire un blocage.</string>
     <string name="checknet_error_go_to_faq">Souhaitez-vous ouvrir le FAQ pour trouver une solution?</string>
     <string name="checknet_error_internet_connect_error">Désolé, erreur de connexion internet externe !</string>
     <string name="checknet_error_internet_response_result_ok">Réussi</string>
