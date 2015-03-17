@@ -515,6 +515,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_settings_space_save_size_desc">Espace de stockage libre pour le Mi-Routeur:</string>
     <string name="camera_settings_copybacking_desc">Sauvegarde…</string>
     <string name="camera_settings_copybacking">Sauvegardez maintenant</string>
+    <string name="camera_settings_copybacking_luanch_success">立即备份启动成功</string>
+    <string name="camera_settings_copybacking_luanch_failed">立即备份启动失败</string>
     <string name="camera_settings_last_copyback_time">Dernière heure de sauvegarde:</string>
     <string name="camera_settings_router_not_support_copyback">Le routeur ne prend pas en charge la sauvegarde</string>
     <string name="camera_settings_camera_not_support_copyback">Détection de votre caméra: Il n\'y a pas de carte SD, vous ne pouvez pas utiliser cette fonction, insérer une carte SD</string>
@@ -693,6 +695,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="passcode_verify">Vérifier le mot de passe</string>
     <string name="passcode_set_success">Définition du mot de passe réussie</string>
     <string name="passcode_disable_verify_msg">Veuillez saisir votre mot de passe</string>
+    <string name="developer_remote_debug">云端测试地址</string>
     <string name="gateway_title">Passerelle multifonction</string>
     <string name="gateway_switch_name">Passerelle Wifi</string>
     <string name="gateway_magnet_name">Capteur de porte</string>
@@ -734,6 +737,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_doorbell_light">Passerelle d\'éclairage multifonction </string>
     <string name="gateway_bind_no_set">Aucun réglage</string>
     <string name="gateway_bodysensor_pass">Certaines personnes sont passées</string>
+    <string name="gateway_bodysensor_no_motion">5分钟内无人经过</string>
     <string name="gateway_phone_push_alarm">Envoyer les messages d\'alarme vers le téléphone</string>
     <string name="gateway_doorbell_alarm">Sonnette d\'alarme</string>
     <string name="gateway_bodysensor_pass_device">Mise en place des capteurs de mouvements</string>
@@ -774,6 +778,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_switchsensor_setting">Paramètres</string>
     <string name="gateway_door_bell_setting">Paramètres de la sonnette</string>
     <string name="gateway_alarm_setting">Paramètres de l\'alarme</string>
+    <string name="gateway_switch_sensor_click_alarm">智能按键报警</string>
     <string name="gateway_voice">Voix</string>
     <string name="gateway_voice_broadcast">Diffusion de la voix</string>
     <string name="gateway_welcome_setting">Paramètres de diffusion de la voix</string>
@@ -792,6 +797,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_set_music_success">Sélection de la musique réussie</string>
     <string name="gateway_set_music_failed">Sélection de la musique échoué</string>
     <string name="gateway_log_bodysensor_motion">Certaines personnes passent par</string>
+    <string name="gateway_log_bodysensor_no_motion">5分钟内无人经过</string>
     <string name="gateway_log_magnetsensor_open">Ouvrir les  portes et fenêtres</string>
     <string name="gateway_log_magnetsensor_close">Fermer les  portes et fenêtres</string>
     <string name="gateway_log_switchsensor_click">Une fois</string>
@@ -942,6 +948,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
 Donc, je ne peux ni apprendre, ni communiquer avec
 Si votre climatiseur ne correspond pas
 Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
+    <string name="irv2_controller_touch_hint">"上下左右滑动操作
+点击为确认"</string>
     <string name="irv2_go_matching">Fusionner</string>
     <string name="irv2_report">Commentaire</string>
     <string name="irv2_report_title">Commentaires</string>
@@ -964,6 +972,8 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="irv2_toast_report_ok">Merci pour vos commentaires!</string>
     <string name="irv2_toast_study_mi">Télécommande Mi fusion parfaite, pas besoin de l\'apprendre !</string>
     <string name="irv2_tech_support_statement">Fournir un appui technique par Yaokan</string>
+    <string name="irv2_import_from_irv2_prompt">从小米红外控制器导入遥控器数据？</string>
+    <string name="irv2_import_from_miir_prompt">从手机红外控制器导入遥控器数据？</string>
     <string name="intelligent_plug">Prise intelligente Mi</string>
     <string name="intelligent_220v_plug">Prise 220V</string>
     <string name="intelligent_usb_plug">Prise USB</string>
@@ -1117,7 +1127,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="login_forget_password">Mot de passe oublié</string>
     <string name="login_passport_login_waiting">Connexion…</string>
     <string name="login_passport_logouting">Déconnexion…</string>
-    <string name="login_passport_input_fail">Le nom d'utilisateur ou le mot de passe entré est incorrect</string>
+    <string name="login_passport_input_fail">Le nom d\'utilisateur ou le mot de passe entré est incorrect</string>
     <string name="login_verify_code_fail">Le code de vérification que vous avez entré est incorrect</string>
     <string name="login_passport_login_fail">Vous ne pouvez pas vous connecter à votre compte Mi</string>
     <string name="login_time_out">Délai de connexion dépassé. Attendez une minute ou deux et essayez à nouveau.</string>
@@ -1166,7 +1176,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="smarthome_device_common_tv">TV</string>
     <string name="smarthome_device_common_smarttv">Smart TVs</string>
     <string name="smarthome_device_common_aircon">Climatiseurs</string>
-    <string name="smarthome_device_set_camera_bg">Définissez un fond d'\écran pour la caméra</string>
+    <string name="smarthome_device_set_camera_bg">Définissez un fond d\'écran pour la caméra</string>
     <string name="smarthome_device_add_to_launcher">Ajouter un raccourci sur le lanceur</string>
     <string name="smarthome_device_delete_launcher">Supprimer le raccourci</string>
     <string name="smarthome_device_rename">Renommer le périphérique</string>
@@ -1370,7 +1380,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="now_upgrade">Mettre à jour maintenant</string>
     <string name="upgrade_has_update_title">Mise à jour disponible</string>
     <string name="upgrade_has_update">Mises à jour</string>
-    <string name="upgrade_check_fail">Impossible d'obtenir temporairement des informations concernant la version</string>
+    <string name="upgrade_check_fail">Impossible d\'obtenir temporairement des informations concernant la version</string>
     <string name="upgrading_error">Mise à jour échouée, veuillez vérifier la connexion réseau et réessayer</string>
     <string name="rom_upgrade_title">Mise à jour</string>
     <string name="rom_upgrade_check">Vérifier les mises à jour</string>
@@ -1778,6 +1788,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="about_hight_light">亮点介绍</string>
     <string name="about_check_update">Vérifier les mises à jour</string>
     <string name="about_smarthome_bbs">Forums Mi-Home</string>
+    <string name="about_developer">Options pour les développeurs</string>
     <string name="about_faq_content">"Vérifier connexion Wi-Fi est stable
  1.Connectez les périphériques intelligents au Wi-Fi est correcte
  2.Vitesses de réseau lentes
@@ -1940,6 +1951,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="kuailian_sub_main_title_4">为了设备安全,请在30秒内点击开关键完成连接</string>
     <string name="kuailian_success">Connexion réussie</string>
     <string name="kuailian_failed">Veuillez réinitialiser le périphérique et réessayer</string>
+    
     <string name="kuailian_failed_result">Échec de la connexion, %s</string>
     <string name="kuailian_finish_now">Arrêter</string>
     <string name="kuailian_check_reset">Réinitialiser</string>
@@ -2193,4 +2205,19 @@ RO反渗透滤芯"</string>
     <string name="um_string_buy_time_05">Jour</string>
     <string name="um_string_buy_time_06">Suivant</string>
     <string name="um_string_layout_q_title">Les causes possibles de TDS anormale</string>
+    <string name="yeelight_color_preset0">白色</string>
+    <string name="yeelight_color_preset1">浪漫</string>
+    <string name="yeelight_color_preset2">黄色</string>
+    <string name="yeelight_color_preset3">迷情</string>
+    <string name="yeelight_hint_enter_color_name">请输入自定义名称</string>
+    <string name="yeelight_btn_save">保存</string>
+    <string name="yeelight_bright_value">亮度：</string>
+    <string name="yeelight_color_value">色值：</string>
+    <string name="yeelight_color_desc0">白色：代表纯洁，象征着圣洁优雅。无比的高洁、明亮，在森罗万象中有其高远的意境。白色寓意着公正、纯洁、端庄、正直、少壮、超脱凡尘与世俗的情感。</string>
+    <string name="yeelight_color_desc1">浪漫：粉红色：粉红色代表可爱浪漫、富有幻想色彩。小女生比较会沉静在自己营造童话王国内幻想着自己的王子、自己的爱情、自己的美好的一切。</string>
+    <string name="yeelight_color_desc2">黄色：黄色给人一种心平静的感觉， 让人眼睛清澈明亮； 黄色还给人一种对美好生活的向往。黄色的灿烂、辉煌，有着太阳般的光辉，象征着照亮黑暗的智慧之光。</string>
+    <string name="yeelight_color_desc3">迷情：紫色：代表一种强烈的感情，喜欢紫色的人的性格优雅而高尚，具有丰富的感受性，细腻而敏感，审美趣味高雅，对此自我也很明白。</string>
+    <string name="yeelight_btn_txt_back">返回</string>
+    <string name="yeelight_btn_txt_del">删除</string>
+    <string name="yeelight_btn_txt_ok">确定</string>
 </resources>
