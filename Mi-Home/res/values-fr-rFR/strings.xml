@@ -1869,7 +1869,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="log_day_outhome_normal">Vous partez à l\'heure de chez vous</string>
     <string name="log_day_outhome_late">Vous partez tard de chez vous</string>
     <string name="log_day_atoffice_early">Vous partez travailler tôt</string>
-    <string name="log_day_atoffice_normal">Vous partez à l'\heure pour travailler</string>
+    <string name="log_day_atoffice_normal">Vous partez à l\'heure pour travailler</string>
     <string name="log_day_atoffice_late">Vous partez travailler tard</string>
     <string name="log_day_outoffice_early">Vous rentrez tôt du travail</string>
     <string name="log_day_outoffice_normal">Vous rentrez à l\'heure du travail</string>
@@ -1902,7 +1902,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="router_plug">Extensions</string>
     <string name="router_downloading">Téléchargements en cours</string>
     <string name="router_downloaded">Téléchargements terminés</string>
-    <string name="not_found_router_app">L\'application pour le routeur Mi n'\est pas installée</string>
+    <string name="not_found_router_app">L\'application pour le routeur Mi n\'est pas installée</string>
     <string name="router_network_speed">Vitesse de connexion</string>
     <string name="router_disk_info">"Disponible : "</string>
     <string name="router_plug_info">Installées : %1$d</string>
@@ -2040,7 +2040,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="night_light">Éclairage nocturne</string>
     <string name="night_light_on_text">Allumage automatique de l\'éclairage à la tombée de la nuit</string>
     <string name="pass_light_on_text">Activer l\'éclairage nocturne lors de la détection d\'une personne</string>
-    <string name="pass_light_desc">Détection des capteurs de mouvements lorsqu'une personne s\'approche des lumières</string>
+    <string name="pass_light_desc">Détection des capteurs de mouvements lorsqu\'une personne s\'approche des lumières</string>
     <string name="night_light_desc">Détection automatique des capteurs d\'éclairage lors de l\'apparition de l\'obscurité</string>
     <string name="no_location_log">Aucun historique</string>
     <string name="login_to_use_location_log">Veuillez vous connecter en utilisant le journal de bord</string>
@@ -2140,7 +2140,7 @@ Filtre de carbone</string>
     <string name="umstringcounttwo">Ce mois selon votre consommation</string>
     <string name="umstringcountthree">Quantité de recyclage de l\'eau dense</string>
     <string name="umstringcountfour">Ne perdez plus une goutte d\'eau
-Toute l'eau concentrée dans le recyclage vous sera destinée</string>
+Toute l\'eau concentrée dans le recyclage vous sera destinée</string>
     <string name="umstringcountdetail">Détails annuel de l\'eau </string>
     <string name="umstringtuCount">Tableau annuel de la courbe de l\'eau</string>
     <string name="umstringroDec">Dépend finalement de la vie du filtre d\'eau et de la qualité de l\'eau du robinet</string>
@@ -2180,7 +2180,7 @@ Toute l'eau concentrée dans le recyclage vous sera destinée</string>
     <string name="umstringerror5">Filtre anormale</string>
     <string name="umstringerror6">Erreur de communication WiFi</string>
     <string name="umstringerror7">Erreur de communication RFID</string>
-    <string name="umstringerror8">Erreur de communication du robinet d'eau avec l\'hôte</string>
+    <string name="umstringerror8">Erreur de communication du robinet d\'eau avec l\'hôte</string>
     <string name="umstringerror9">Erreur de communication de périphérique de stockage</string>
     <string name="umstringerror10">Anomalies</string>
     <string name="umstringerror11">TDS anormale</string>
