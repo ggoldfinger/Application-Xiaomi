@@ -86,7 +86,7 @@
     <string name="air_purifier_common_outdoor_detail_source">Sources de données:</string>
     <string name="air_purifier_common_outdoor_detail_source_pub">Libérer</string>
     <string name="air_purifier_common_outdoor_detail_ok">Savoir</string>
-	<string name="air_purifier_common_outdoor_detail_empty">暂无数据</string>
+	<string name="air_purifier_common_outdoor_detail_empty">Aucune donnée</string>
     <string name="air_purifier_common_location_unavailable">Impossible de localiser l\'emplacement</string>
     <string name="air_purifier_common_location_gps_fail">Positionnement GPS échoué, veuillez vérifier votre réseau ou réessayer en plein air</string>
     <string name="air_purifier_common_location_network_fail">Échec de localisation via le réseau</string>
@@ -133,7 +133,6 @@
     <string name="air_purifier_act_det_success">Activation ok，vous pouvez désactiver cette fonctionnalité dans les paramètres</string>
     <string name="air_purifier_act_det_fail">Échec de l\'activation</string>
     <string name="air_purifier_filter_desc">Explication:
-
 Signlaisation du remplacement de la cartouche, à chaque démarrage l\'indication de remplacement du filtre vous sera indiqué par le voyant rouge pendant 30 secondes.
 Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de réinitialisation à l\'arrière du corps de filtre, vous entendrez un bip après réussi à le réinitialiser.</string>
     <string name="air_purifier_filter_reset">Réinitialiser le filtre</string>
@@ -264,7 +263,6 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v2_act_det_success">Activation ok，vous pouvez désactiver cette fonctionnalité dans les paramètres</string>
     <string name="air_purifier_v2_act_det_fail">Échec de l\'activation</string>
     <string name="air_purifier_v2_filter_desc">Explication:
-
 Signlaisation du remplacement de la cartouche, à chaque démarrage l\'indication de remplacement du filtre vous sera indiqué par le voyant rouge pendant 30 secondes.
 Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de réinitialisation à l\'arrière du corps de filtre, vous entendrez un bip après réussi à le réinitialiser.</string>
     <string name="air_purifier_v2_filter_reset">Réinitialiser le filtre</string>
@@ -355,7 +353,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v2_timing_title">Interrupteur minuterie</string>
     <string name="air_purifier_v2_timing_add">Ajouter une date</string>
     <string name="air_purifier_v2_set_success">Réglage réussi</string>
-	<string name="air_purifier_v2_set_fail">设置失败</string>
+    <string name="air_purifier_v2_set_fail">Échec du réglage</string>
     <string name="air_purifier_v3">Mi Purificateur d\'air 2</string>
     <string name="air_purifier_v3_filter">Filtre</string>
     <string name="air_purifier_v3_air_quality">Qualité de l\'air</string>
@@ -395,7 +393,6 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v3_act_det_success">Activation ok，vous pouvez désactiver cette fonctionnalité dans les paramètres</string>
     <string name="air_purifier_v3_act_det_fail">Échec de l\'activation</string>
     <string name="air_purifier_v3_filter_desc">Explication:
-
 Signlaisation du remplacement de la cartouche, à chaque démarrage l\'indication de remplacement du filtre vous sera indiqué par le voyant rouge pendant 30 secondes.
 Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de réinitialisation à l\'arrière du corps de filtre, vous entendrez un bip après réussi à le réinitialiser.</string>
     <string name="air_purifier_v3_filter_reset">Réinitialiser le filtre</string>
@@ -486,7 +483,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v3_timing_title">Interrupteur minuterie</string>
     <string name="air_purifier_v3_timing_add">Ajouter une date</string>
     <string name="air_purifier_v3_set_success">Réglage réussi</string>
-	<string name="air_purifier_v3_set_fail">设置失败</string>
+	<string name="air_purifier_v3_set_fail">Échec du réglage</string>
     <string name="sans_serif">sans-serif</string>
     <string name="week_day_0">0</string>
     <string name="week_day_1">1</string>
@@ -521,8 +518,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_settings_space_save_size_desc">Espace de stockage libre pour le Mi-Routeur:</string>
     <string name="camera_settings_copybacking_desc">Sauvegarde…</string>
     <string name="camera_settings_copybacking">Sauvegardez maintenant</string>
-    <string name="camera_settings_copybacking_luanch_success">立即备份启动成功</string>
-    <string name="camera_settings_copybacking_luanch_failed">立即备份启动失败</string>
+    <string name="camera_settings_copybacking_luanch_success">Sauvegarder maintenant si démarrage réussi</string>
+    <string name="camera_settings_copybacking_luanch_failed">Sauvegarder maintenant si démarrage échoué</string>
     <string name="camera_settings_last_copyback_time">Dernière heure de sauvegarde:</string>
     <string name="camera_settings_router_not_support_copyback">Le routeur ne prend pas en charge la sauvegarde</string>
     <string name="camera_settings_camera_not_support_copyback">Détection de votre caméra: Il n\'y a pas de carte SD, vous ne pouvez pas utiliser cette fonction, insérer une carte SD</string>
@@ -701,8 +698,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="passcode_verify">Vérifier le mot de passe</string>
     <string name="passcode_set_success">Définition du mot de passe réussie</string>
     <string name="passcode_disable_verify_msg">Veuillez saisir votre mot de passe</string>
-    <string name="developer_remote_debug">云端测试地址</string>
-    <string name="gateway_main_title">智能家庭套装</string>
+    <string name="developer_remote_debug">Test de la couverture du domicile</string>
+    <string name="gateway_main_title">Maison Intelligente</string>
     <string name="gateway_title">Passerelle multifonction</string>
     <string name="gateway_switch_name">Passerelle Wifi</string>
     <string name="gateway_magnet_name">Capteur de porte</string>
@@ -715,7 +712,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_guard_setting">Créez une alerte</string>
     <string name="gateway_night_lamp_setting">Paramètres de l\'éclairage nocturne</string>
     <string name="gateway_night_bright_setting">Paramètres de la luminosité nocturne</string>
-    <string name="gateway_light_time_setting">彩灯定时</string>
+    <string name="gateway_light_time_setting">Paramètres des lampes stroboscopiques</string>
     <string name="gateway_system_setting">Paramètres système</string>
     <string name="gateway_system_brightness_setting">Système d\'éclairage</string>
     <string name="gateway_system_color_setting">Couleur système</string>
@@ -723,8 +720,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_music_title">Musique</string>
     <string name="gateway_doorbell_music">Musique de la sonnette</string>
     <string name="gateway_alarm_music">Alarme sonore</string>
-    <string name="gateway_alarm_detail">%s被触发</string>
-    <string name="gateway_alarm_title">触发警报</string>
+    <string name="gateway_alarm_detail">%sdéclenchées</string>
+    <string name="gateway_alarm_title">Alarme</string>
     <string name="gateway_volume_title">Volume</string>
     <string name="gateway_doorbell_volume_title">Volume de la sonnette</string>
     <string name="gateway_alarm_volume_title">Volume d\'alarme</string>
@@ -748,7 +745,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_doorbell_light">Passerelle d\'éclairage multifonction </string>
     <string name="gateway_bind_no_set">Aucun réglage</string>
     <string name="gateway_bodysensor_pass">Certaines personnes sont passées</string>
-    <string name="gateway_bodysensor_no_motion">5分钟内无人经过</string>
+    <string name="gateway_bodysensor_no_motion">Aucune détection</string>
     <string name="gateway_phone_push_alarm">Envoyer les messages d\'alarme vers le téléphone</string>
     <string name="gateway_doorbell_alarm">Sonnette d\'alarme</string>
     <string name="gateway_bodysensor_pass_device">Mise en place des capteurs de mouvements</string>
@@ -789,7 +786,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_switchsensor_setting">Paramètres</string>
     <string name="gateway_door_bell_setting">Paramètres de la sonnette</string>
     <string name="gateway_alarm_setting">Paramètres de l\'alarme</string>
-    <string name="gateway_switch_sensor_click_alarm">智能按键报警</string>
+    <string name="gateway_switch_sensor_click_alarm">Bouton d\'alarme intelligent</string>
     <string name="gateway_voice">Voix</string>
     <string name="gateway_voice_broadcast">Diffusion de la voix</string>
     <string name="gateway_welcome_setting">Paramètres de diffusion de la voix</string>
@@ -808,7 +805,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_set_music_success">Sélection de la musique réussie</string>
     <string name="gateway_set_music_failed">Sélection de la musique échoué</string>
     <string name="gateway_log_bodysensor_motion">Certaines personnes passent par</string>
-    <string name="gateway_log_bodysensor_no_motion">5分钟内无人经过</string>
+    <string name="gateway_log_bodysensor_no_motion">Aucune détection</string>
     <string name="gateway_log_magnetsensor_open">Ouvrir les  portes et fenêtres</string>
     <string name="gateway_log_magnetsensor_close">Fermer les  portes et fenêtres</string>
     <string name="gateway_log_switchsensor_click">Une fois</string>
@@ -841,11 +838,11 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_add_scene">Ajouter une scène</string>
     <string name="gateway_remove_scene">Supprimer une scène</string>
     <string name="gateway_scene_num">%1$d a été ajouté</string>
-    <string name="gateway_battery_low_waring">电量低，请更换电池</string>
-    <string name="gateway_battery_low_title">电池信息</string>
-    <string name="gateway_battery_model">型号:纽扣电池CR2032</string>
-    <string name="gateway_battery_change">换电池教程</string>
-    <string name="gateway_battery_confirm">知道了</string>
+    <string name="gateway_battery_low_waring">Batterie faible, remplacez la pile</string>
+    <string name="gateway_battery_low_title">Informations de la batterie</string>
+    <string name="gateway_battery_model">Modèle: pile bouton CR2032</string>
+    <string name="gateway_battery_change">Remplacez la batterie</string>
+    <string name="gateway_battery_confirm">Confirmer</string>
     <string name="irv2_device_name">Contrôleur infrarouge Mi</string>
     <string name="irv2_matching_controller">Télécommande de correspondance</string>
     <string name="irv2_study_controller">Apprendre à distance</string>
@@ -883,22 +880,22 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="irv2_matching_hint_text_prefix">Assurez-vous du centre de contrôle à distance</string>
     <string name="irv2_matching_hint_text_subfix">Aucune obstruction entre les deux!</string>
     <string name="irv2_ok_text">OK</string>
-    <string name="irv2_matching_hint_air_conditioner_on">点击下方按钮，空调打开了吗？</string>
-    <string name="irv2_matching_hint_air_conditioner_ar16">点击下方按钮，空调降温了吗？</string>
-    <string name="irv2_matching_hint_air_conditioner_off">点击下方按钮，空调关闭了吗？</string>
-    <string name="irv2_matching_hint_tv_vol_add">"请先打开电视
-点击下方按钮，音量有增加吗？"</string>
-    <string name="irv2_matching_hint_tv_ch_add">"请先将电视信号调为AV/TV
-点击下方按钮，频道有变化吗？"</string>
-    <string name="irv2_matching_hint_box_ok">点击下方按钮，OK了吗？</string>
-    <string name="irv2_matching_hint_dvd_play">"请先打开DVD放入碟片
-点击下方按钮，有开始播放吗？"</string>
-    <string name="irv2_matching_hint_dvd_pause">点击下方按钮，有暂停播放吗？</string>
-    <string name="irv2_matching_hint_dvd_stop">点击下方按钮，有停止播放吗？</string>
-    <string name="irv2_matching_total_hint_prefix">第</string>
-    <string name="irv2_matching_total_hint_postfix">套方案</string>
-    <string name="irv2_response_negative">没有</string>
-    <string name="irv2_response_positive">是的</string>
+    <string name="irv2_matching_hint_air_conditioner_on">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle allumée ?</string>
+    <string name="irv2_matching_hint_air_conditioner_ar16">Appuyez sur le bouton ci-dessous, la climatisation envoie-t-elle de l\'air froid ?</string>
+    <string name="irv2_matching_hint_air_conditioner_off">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle éteinte ?</string>
+    <string name="irv2_matching_hint_tv_vol_add">Allumez la télévision
+Appuyez sur le bouton ci-dessous, avez-vous remarqué une augmentation du volume ?</string>
+    <string name="irv2_matching_hint_tv_ch_add">Veuillez ajuster le signal TV pour AV/TV
+Appuyez sur le bouton ci-dessous, changer de canal ?</string>
+    <string name="irv2_matching_hint_box_ok">Appuyez sur le bouton ci-dessous, OK ?</string>
+    <string name="irv2_matching_hint_dvd_play">Insérez le DVD dans le lecteur
+Appuyez sur le bouton ci-dessous, souhaitez-vous commencer la lecture ?</string>
+    <string name="irv2_matching_hint_dvd_pause">Appuyez sur le bouton ci-dessous, souhaitez-vous mettre en pause ?</string>
+    <string name="irv2_matching_hint_dvd_stop">Appuyez sur le bouton ci-dessous, souhaitez-vous arrêter la lecture ?</string>
+    <string name="irv2_matching_total_hint_prefix">Article</string>
+    <string name="irv2_matching_total_hint_postfix">Ensembles de programmes</string>
+    <string name="irv2_response_negative">Non</string>
+    <string name="irv2_response_positive">Oui</string>
     <string name="irv2_matching_success">OK</string>
     <string name="irv2_matching_fail">Désolé！</string>
     <string name="irv2_matching_success_hint_prefix">Ajout réussi</string>
@@ -974,8 +971,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
 Donc, je ne peux ni apprendre, ni communiquer avec
 Si votre climatiseur ne correspond pas
 Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
-    <string name="irv2_controller_touch_hint">"上下左右滑动操作
-点击为确认"</string>
+    <string name="irv2_controller_touch_hint">Faites glisser de haut en bas
+Appuyez pour confirmer</string>
     <string name="irv2_go_matching">Fusionner</string>
     <string name="irv2_report">Commentaire</string>
     <string name="irv2_report_title">Commentaires</string>
@@ -998,9 +995,9 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="irv2_toast_report_ok">Merci pour vos commentaires!</string>
     <string name="irv2_toast_study_mi">Télécommande Mi fusion parfaite, pas besoin de l\'apprendre !</string>
     <string name="irv2_tech_support_statement">Fournir un appui technique par Yaokan</string>
-    <string name="irv2_import_from_irv2_prompt">从小米红外控制器导入遥控器数据？</string>
-    <string name="irv2_import_from_miir_prompt">从手机红外控制器导入遥控器数据？</string>
-    <string name="irv2_select_brand_master">主流品牌</string>
+    <string name="irv2_import_from_irv2_prompt">Importer les données à partir de la télécommande Mi infrarouge ?</string>
+    <string name="irv2_import_from_miir_prompt">Importer les données à partir de la télécommande Mi infrarouge ?</string>
+    <string name="irv2_select_brand_master">Marque Grand Public</string>
     <string name="intelligent_plug">Prise intelligente Mi</string>
     <string name="intelligent_220v_plug">Prise 220V</string>
     <string name="intelligent_usb_plug">Prise USB</string>
@@ -1431,9 +1428,9 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="other_feedback">Autre</string>
     <string name="proposal_feedback">Évaluation de produit</string>
     <string name="send_log">Envoyez les journaux</string>
-    <string name="feedback_contact_tips">常用联系方式（可选）</string>
-    <string name="feedback_contact_header">联系方式：</string>
-    <string name="feedback_content_header">反馈内容：</string>
+    <string name="feedback_contact_tips">Informations du contact (facultatif)</string>
+    <string name="feedback_contact_header">Contact:</string>
+    <string name="feedback_content_header">Contenu:</string>
     <string name="content_description">Description du problème (en anglais ou chinois)</string>
     <string name="commit">Envoyer</string>
     <string name="feedbacking">Envoyez vos commentaires</string>
@@ -1758,7 +1755,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="serach_no_device_red">Voyant rouge, le périphérique est démarré, veuillez patienter un instant</string>
     <string name="serach_no_device_blue">Voyant bleu, le périphérique est déjà utilisé, le remettre à zéro (voir Notice)</string>
     <string name="camera_serach_no_device_red">Voyant rouge de la caméra (système en cours de démarrage), impossible de le connecter, veuillez patienter</string>
-    <string name="camera_serach_no_device_blue">>Voyant jaune clignotant,le périphérique est en cours d\'utilisation.</string>
+    <string name="camera_serach_no_device_blue">Voyant jaune clignotant, le périphérique est en cours d\'utilisation.</string>
     <string name="plug_serach_no_device_red">Veuillez attendre le voyant rouge avant de le connecter</string>
     <string name="plug_serach_no_device_blue">Voyant bleu de la prise allumé, le périphérique est déjà utilisé, veuillez le réinitialiser</string>
     <string name="air_serach_no_device_green_1">Voyant vert clignotant, en attente d\'une connexion</string>
@@ -1813,7 +1810,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="device_more_activity_reset">Réinitialiser</string>
     <string name="device_more_activity_setting">Paramètres</string>
     <string name="developing_desc">Construction…</string>
-    <string name="about_faq">F.A.Q.</string>
+    <string name="about_faq">FAQ</string>
     <string name="about_test">Passez à l\'environnement de test</string>
     <string name="about_normal">Passez à l\'environnement normal</string>
     <string name="about_hight_light">Forte luminosité</string>
@@ -1821,15 +1818,15 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="about_smarthome_bbs">Forums Mi-Home</string>
     <string name="about_developer">Options pour les développeurs</string>
     <string name="about_faq_content">"Vérifier si la connexion WiFi est stable
- 1.Véfiez si la connexion des périphériques intelligents au WiFi est correcte
- 2.Vitesses de réseau lentes
+ 1.Vérifiez si la connexion des périphériques intelligents au WiFi est correcte
+ 2.Vitesse de réseau lente
  3.Ne supporte pas le cryptage WEP et EAP
  4.Le routeur n'est pas connecté à des réseaux externes
  5.Le réseau WiFi public ne peut pas se connecter
  6.Le réseau 5G WiFi ne peut pas se connecter
 "</string>
     <string name="air_error_page_text">Après vous êtes connecté au réseau, appuyez sur le bouton mode et l\'interrupteur de la lumière simultanément pendant 5 secondes, pour entendre le Bip, et vérifiez que votre WLAN fonctionne correctement sinon le réinitialiser</string>
-    <string name="about_faq_link">(Afficher la F.A.Q.)</string>
+    <string name="about_faq_link">(Afficher la FAQ)</string>
     <string name="shop_click_refresh">Actualiser</string>
     <string name="share_no_user">Aucun périphérique partagé</string>
     <string name="share_no_device">Aucun périphérique partagé</string>
@@ -2036,11 +2033,11 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="lock_intell_title">Périphériques</string>
     <string name="lock_ir_title">Télécommandes</string>
     <string name="not_setting_home_position">Vous n\'avez pas défini l\'emplacement de la maison, souhaitez-vous le faire maintenant ?</string>
-    <string name="mitv_login_account_captchacode">请输入验证码</string>
-    <string name="mitv_login_account_captchacode_error_get">获取验证码失败</string>
-    <string name="mitv_login_account_vericode">请输入小米动态令牌</string>
-    <string name="mitv_login_account_captchacode_error">输入验证码错误</string>
-    <string name="family">Inviter…</string>
+    <string name="mitv_login_account_captchacode">Veuillez entrer le code de vérification</string>
+    <string name="mitv_login_account_captchacode_error_get">Obtention du code échouée</string>
+    <string name="mitv_login_account_vericode">Veuillez entrer le jeton Mi dynamique</string>
+    <string name="mitv_login_account_captchacode_error">Code entré erroné</string>
+    <string name="family">Inviter/string>
     <string name="add_family_member">Ajouter un membre de la famille</string>
     <string name="add_other_family">Ajouter plus de membres de la famille</string>
     <string name="relation_to_me">En relation avec moi</string>
@@ -2133,7 +2130,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="lock_empty_message_need_add">Périphériques pour la maison intelligente ajoutés</string>
     <string name="lock_empty_title_need_login">Vous n\'êtes pas connecté</string>
     <string name="lock_empty_message_need_login">Appuyez ici pour vous identifier</string>
-    <string name="lock_empty_message_refreshing">正在刷新…</string>
+    <string name="lock_empty_message_refreshing">Mise à jour…</string>
     <string name="yeelight_tips_forusage">Le voltage va de 100v à 240v, veuillez à ne pas l\'utiliser pas sur les lampes avec variateur</string>
     <string name="open_device_account_erro">Le compte actuel est incompatible avec la maison intelligente, veuillez changer de compte</string>
     <string name="open_device_not_found_erro">Le périphérique n\'a pas été trouvé, veuillez actualiser la liste</string>
@@ -2146,7 +2143,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="mitv_style">Style de commutateur</string>
     <string name="mitv_style_white">Blanc</string>
     <string name="mitv_style_black">Noir</string>
-    <string name="weak_device_signal">wlan信号较弱</string>
+    <string name="weak_device_signal">Le signal WLAN est faible</string>
     <string name="umtitle">Purificateur d\'eau</string>
     <string name="umimg">mg</string>
     <string name="umdig">1</string>
@@ -2247,7 +2244,7 @@ Toute l\'eau concentrée dans le recyclage vous sera destinée</string>
     <string name="yeelight_color_preset2">Jaune</string>
     <string name="yeelight_color_preset3">Violet</string>
     <string name="yeelight_hint_enter_color_name">Veuillez entrer un nom personnalisé</string>
-    <string name="yeelight_toast_name_too_long">名称不能多于4个中文字符</string>
+    <string name="yeelight_toast_name_too_long">Le nom ne peut contenir plus de quatre caractères</string>
     <string name="yeelight_btn_save">Enregistrer</string>
     <string name="yeelight_bright_value">Luminosité：</string>
     <string name="yeelight_color_value">Valeurs de couleur：</string>
