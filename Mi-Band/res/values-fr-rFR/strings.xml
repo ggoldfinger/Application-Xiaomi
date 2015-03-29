@@ -2,12 +2,12 @@
 <resources>
     <string name="pull_to_refresh_pull_label">Tirer pour actualiser les données</string>
     <string name="pull_to_refresh_release_label">Arrêter le téléchargement</string>
-    <string name="pull_to_refresh_refreshing_label">Téléchargement en cours…</string>
+    <string name="pull_to_refresh_refreshing_label">Téléchargement en cours...</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Télécharger plus</string>
-    <string name="pull_to_refresh_from_bottom_release_label">Tirer pour rafraîchir</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">Tirer pour rafraîchir</string>
+    <string name="pull_to_refresh_from_bottom_release_label">Tirer pour actualiser</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">Tirer pour actualiser</string>
     <string name="app_name">Mi-Fit</string>
-    <string name="share_uninstall_client">Cette application n\'a pas été installé</string>
+    <string name="share_uninstall_client">"L'application n'est pas installée, partage impossible."</string>
     <string name="share_weibo_label">Weibo</string>
     <string name="share_pengyouquan_label">Moments</string>
     <string name="share_weixin_label">WeChat</string>
@@ -17,21 +17,21 @@
     <string name="share_line_label">Line</string>
     <string name="share_facebook_label">Facebook</string>
     <string name="action_exit">Quitter</string>
-    <string name="share_to_miliao_target_feeds">Cercle</string>
+    <string name="share_to_miliao_target_feeds">Cercles</string>
     <string name="share_to_miliao_target_friends">Amis</string>
     <string name="share_to_miliao_target_union">Entraînez-vous entre amis</string>
     <string name="share_miliao_path_selector">Partager avec</string>
-    <string name="ok">Ok</string>
+    <string name="ok">OK</string>
     <string name="cancel">Annuler</string>
     <string name="action_loading">Chargement</string>
     <string name="picker_menu_done">Terminé</string>
-    <string name="scan_label">Le code à deux dimensions dans la boîte, vous pouvez balayer automatiquement</string>
+    <string name="scan_label">Vous pouvez vous connecter automatiquement en scannant le QR Code.</string>
     <string name="tag_action_tips">"Marquage effectué à %s. Pour effectuer le marquage du bracelet, s'assurer que le bracelet et le téléphone sont distants de moins de 5 mètres sans obstacles entre eux."</string>
-    <string name="tag_doing_label">Effectué à %s…</string>
+    <string name="tag_doing_label">Effectué à %s...</string>
     <string name="tag_connection">Connexion</string>
-    <string name="tag_waiting">Patienter………</string>
-    <string name="tag_connection_f">Échec de la connexion, appuyer sur Réessayer</string>
-    <string name="tag_connection_f1">Le Mi-Fit doit être près du téléphone</string>
+    <string name="tag_waiting">Patienter...</string>
+    <string name="tag_connection_f">Échec de la connexion, appuyer sur Recommencer.</string>
+    <string name="tag_connection_f1">Le Mi-Fit doit être à proximité du téléphone</string>
     <string name="tag_error_notice">"Bracelet déconnecté de l'application. S'assurer que le bracelet se trouve 
 à moins de 5 mètres sans obstacles du téléphone avant d'essayer à nouveau."</string>
     <string name="data_not_supported">--</string>
@@ -40,7 +40,7 @@
     <string name="logining">Connexion...</string>
     <string name="welcome">Bonjour</string>
     <string name="login_failed">"Échec de la connexion, essayer à nouveau."</string>
-    <string name="failed_enable_bt">Activer Bluetooth</string>
+    <string name="failed_enable_bt">Activer le Bluetooth</string>
     <string name="search_bracelet">Recherche</string>
     <string name="connect_bracelet_now">Connexion...</string>
     <string name="firmware_upgrade">Mise à jour du firmware</string>
@@ -80,7 +80,7 @@ Accord : %2$s"</string>
     <string name="statistic_total">Total</string>
     <string name="statistic_day_average">Moy. par jour</string>
     <string name="statistic_detail">Détails</string>
-    <string name="day_active_detail">Détails quotidiens</string>
+    <string name="day_active_detail">Détails journaliers</string>
     <string name="alarm">Alarme</string>
     <string name="unlock_screen">"Déverrouillage de l'écran"</string>
     <string name="about">À propos</string>
@@ -94,7 +94,7 @@ Accord : %2$s"</string>
     <string name="unit_min">" min "</string>
     <string name="unit_min_short">" m "</string>
     <string name="unit_sec_short">" s "</string>
-    <string name="unit_mile">" km "</string>
+    <string name="unit_mile">" mi "</string>
     <string name="upgrade_tip">Notification de mise à jour</string>
     <string name="hot_des">Énergie</string>
     <string name="noti_bracelet_low_battery_title">Batterie faible</string>
@@ -111,10 +111,10 @@ Accord : %2$s"</string>
     <string name="bind_bracelet_ok">Mi-Fit appairé.</string>
     <string name="device_not_response">"Pourquoi n'y a-t-il pas de témoin lumineux sur mon Mi-Fit ?"</string>
     <string name="action_local_ota">Mise à jour sur la carte SD</string>
-    <string name="bracelet_not_found_title">Mi-Fit introuvable</string>
-    <string name="bracelet_not_found_info">Assurez-vous que la batterie de votre Mi-Fit est chargé</string>
+    <string name="bracelet_not_found_title">Mi-Fit non trouvé</string>
+    <string name="bracelet_not_found_info">Vérifier que la batterie du Mi-Fit est suffisamment chargée.</string>
     <string name="get_help">"Besoin d'aide"</string>
-    <string name="system_not_support_title">Non compatible</string>
+    <string name="system_not_support_title">Version du système non compatible</string>
     <string name="system_not_support_info">"Pour utiliser Mi-Fit, vous devez mettre à jour la version d'Android de votre téléphone. 
 Seules les versions 4.4 ou ultérieures d'Android sont compatibles avec Mi-Fit."</string>
     <string name="system_low_title">Veuillez mettre à jour votre système.</string>
@@ -125,22 +125,22 @@ Seules les versions 4.4 ou ultérieures d'Android sont compatibles avec Mi-Fit."
     <string name="male">Homme</string>
     <string name="female">Femme</string>
     <string name="unit_metric">Système métrique</string>
-    <string name="unit_british">Système anglais</string>
-    <string name="unit_metric_detail">Système métrique (mètre, kilomètre)</string>
-    <string name="unit_british_detail">Système anglais (pied, pouce)</string>
-    <string name="cm">cm</string>
-    <string name="metre">m</string>
-    <string name="unit_inch">Pouce</string>
-    <string name="unit_foot">Pied</string>
+    <string name="unit_british">Système impérial</string>
+    <string name="unit_metric_detail">Système métrique (mètres, kilomètres)</string>
+    <string name="unit_british_detail">Système impérial (pieds, miles)</string>
+    <string name="cm">" cm"</string>
+    <string name="metre">" m"</string>
+    <string name="unit_inch">" po"</string>
+    <string name="unit_foot">" pi"</string>
     <string name="share">Partager</string>
     <string name="person_info_finished_info">Le Mi-Fit a été correctement configuré.</string>
-    <string name="kg">kg</string>
+    <string name="kg"> kg</string>
     <string name="new_friend_cancel">Refuser</string>
     <string name="new_friend_accept">Accepter</string>
     <string name="search_devices_title">Recherche du Mi-Fit</string>
     <string name="share_blog_cancel">Annuler</string>
-    <string name="share_blog_title">Publier des mises à jour</string>
-    <string name="share_blog_share">Publier</string>
+    <string name="share_blog_title">Partager vos informations</string>
+    <string name="share_blog_share">Partager</string>
     <string name="share_blog_message_hint">Dire quelque chose...</string>
     <string name="share_blog_other">Partager sur</string>
     <string name="share_blog_weixin">WeChat</string>
@@ -149,8 +149,8 @@ Seules les versions 4.4 ou ultérieures d'Android sont compatibles avec Mi-Fit."
     <string name="share_blog_qq">QQ</string>
     <string name="share_blog_weibo">Weibo</string>
     <string name="distance">Distance</string>
-    <string name="odo">Total km</string>
-    <string name="odo_british">Total km</string>
+    <string name="odo">Km parcourus</string>
+    <string name="odo_british">Miles parcourus</string>
     <string name="daily_sporty">Pas par jour</string>
     <string name="km">km</string>
     <string name="cal">cal</string>
@@ -181,29 +181,34 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="mili_unbind_question">"Votre téléphone n'aura plus accès aux données du Mi-Fit une fois le désappairage effectué."</string>
     <string name="weight_unbind_question">Après désappairage, le téléphone ne donnera plus les valeurs de pesée.</string>
     <string name="share_to_title">Mi-Fit</string>
-    <string name="share_to_content">Partagez votre vie avec le Mi-Fit.</string>
+    <string name="share_to_content">Partagez votre vie avec Mi-Fit.</string>
     <string name="share_goal_tips_succ">"Vous avez de grands projets ? 
 Faites vos premiers pas."</string>
-    <string name="share_goal_tips_fail">Pas si loin de votre objectif, il faut juste travailler un peu plus dur.</string>
-    <string name="person_info_goal_info">"D'après plusieurs études, il est recommandé d'effectuer un minimum de 40 minutes d'exercice chaque jour.
+    <string name="share_goal_tips_fail">Pas si loin de votre objectif, encore un petit effort.</string>
+    <string name="person_info_goal_info">"D'après plusieurs études, il est recommandé d'effectuer 
+un minimum de 40 minutes d'exercice chaque jour.
 Cela correspond à 8000 pas de marche."</string>
-    <string name="person_info_goal_info_young">"D'après plusieurs études, il est recommandé d'effectuer un minimum de 60 minutes d'exercice chaque jour.
+    <string name="person_info_goal_info_young">"D'après plusieurs études, il est recommandé d'effectuer 
+un minimum de 60 minutes d'exercice chaque jour.
 Cela correspond à 12000 pas de marche."</string>
     <string name="set_person_goal">"Définir l'objectif"</string>
     <string name="feedback">Commentaires</string>
     <string name="smart_wake_up">Réveil intelligent</string>
-    <string name="smart_wake_up_info">"Me réveiller 30 minutes avant l'heure définie"</string>
+    <string name="smart_wake_up_info">"Commencer à me réveiller 30 minutes avant l'heure définie"</string>
     <string name="alarm_cycle">Répéter</string>
-    <string name="login_failed_check_sys_time">"Échec de la connexion, vérifier le réglage de l'heure de votre téléphone et activer la synchronisation horaire du réseau."</string>
+    <string name="login_failed_check_sys_time">"Échec de la connexion, vérifier le réglage de l'heure de votre 
+téléphone et activer la synchronisation horaire du réseau."</string>
     <string name="everyday">Tous les jours</string>
     <string name="mon_fri">Du lundi au vendredi</string>
     <string name="mon_sat">Du lundi au samedi</string>
-    <string name="device_not_found_not_knocked">"Relancer la recherche après avoir tapoté sur le Mi-Fit une fois qu'il clignote."</string>
+    <string name="device_not_found_not_knocked">"Relancer la recherche après avoir tapoté sur le Mi-Fit lorsqu'il clignote."</string>
     <string name="statistic">Statistiques</string>
-    <string name="mili_weight_unbind_info">"Après désappairage, le téléphone ne pourra plus se connecter à la balance. Il sera alors possible de l'appairer à une autre balance"</string>
+    <string name="mili_weight_unbind_info">"Après désappairage, le téléphone ne pourra plus se connecter à la balance. 
+Il sera alors possible de l'appairer à une autre balance."</string>
     <string name="mili_unbind_question_content">Une fois le Mi-Fit désappairé de votre téléphone, vous pouvez en appairer un autre.</string>
-    <string name="mili_unbind_question_content_1">La fonction de déverrouillage de l\'écran ne est pas valide après le jumelage</string>
-    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Fit et de le réinitialiser avec les paramètres d'usine. 
+    <string name="mili_unbind_question_content_1">La fonction de déverrouillage de l\'écran ne fonctionnera pas après l'\appairage.</string>
+    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Fit 
+et de le réinitialiser avec les paramètres d'usine. 
 Êtes-vous sûr de vouloir continuer ?"</string>
     <string name="mili_exit_login_info">"Vous êtes sur le point de vous déconnecter de votre compte Mi. 
 Voulez-vous continuer ?"</string>
@@ -214,8 +219,8 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="modify_nickname">Modifier le nom</string>
     <string name="personal_info">Profil</string>
     <string name="confirm">Confirmer</string>
-    <string name="stat_step_daily">Pas quotidien</string>
-    <string name="stat_step_distance_daily">Distance quotidienne</string>
+    <string name="stat_step_daily">Pas journaliers</string>
+    <string name="stat_step_distance_daily">Distance journalière</string>
     <string name="stat_step_calorie_daily">Cal. brûlées ce jour</string>
     <string name="stat_step_piece">Pas</string>
     <string name="stat_step_distance_piece">Distance</string>
@@ -226,15 +231,15 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_step_run_calorie">Brûlées en courant</string>
     <string name="stat_step_walk_duration">Marché</string>
     <string name="stat_step_run_duration">Couru</string>
-    <string name="stat_step_average">Moy. pas quotidiens</string>
+    <string name="stat_step_average">Moy. pas journaliers</string>
     <string name="stat_step_distance_average">Distance moy.</string>
-    <string name="stat_step_calorie_average">Conso. quotidienne</string>
-    <string name="stat_step_walk_distance_average">Moy. distance marché</string>
-    <string name="stat_step_run_distance_average">Moy. distance couru</string>
+    <string name="stat_step_calorie_average">Dépense journalière</string>
+    <string name="stat_step_walk_distance_average">Moy. distance marchée</string>
+    <string name="stat_step_run_distance_average">Moy. distance courue</string>
     <string name="stat_step_walk_duration_average">Moy. marché</string>
     <string name="stat_step_run_duration_average">Moy. couru</string>
-    <string name="stat_step_walk_calories_average">Moy. brûlées</string>
-    <string name="stat_step_run_calories_average">Moy. brûlées</string>
+    <string name="stat_step_walk_calories_average">Dépense moyenne</string>
+    <string name="stat_step_run_calories_average">Dépense moyenne</string>
     <string name="stat_step_total">Total de pas</string>
     <string name="stat_step_distance_total">Distance totale</string>
     <string name="stat_step_calorie_total">Total de cal. brûlées</string>
@@ -261,8 +266,8 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="modify_height">Taille</string>
     <string name="modify_weight">Poids</string>
     <string name="modify_gender">Sexe</string>
-    <string name="day">Jours</string>
-    <string name="day_ri">Japon</string>
+    <string name="day">jours</string>
+    <string name="day_ri">Ri</string>
     <string name="one_min">Il y a 1 min.</string>
     <string name="before_min">Il y a %s min.</string>
     <string name="today">"Aujourd'hui"</string>
@@ -273,8 +278,8 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="help">Aide</string>
     <string name="unlock_screen_invalid_helper">Impossible de déverrouiller votre téléphone avec le Mi-Fit ?</string>
     <string name="help_title_0">Votre téléphone est-il à proximité du Mi-Fit ?</string>
-    <string name="help_info_0">Vérifiez que votre téléphone prend en charge Bluetooth 4.0 ou une version ultérieure. Vous pouvez trouver cette information dans les spécifications de votre téléphone.</string>
-    <string name="help_title_1">"Le système d'exploitation de votre téléphone répond-il à la configuration minimale exigée ?"</string>
+    <string name="help_info_0">Vérifier que votre téléphone prend en charge Bluetooth 4.0 ou une version ultérieure. Vous pouvez trouver cette information dans les spécifications de votre téléphone.</string>
+    <string name="help_title_1">"Le système d'exploitation de votre téléphone répond-il à la configuration minimale requise ?"</string>
     <string name="help_info_1">Seuls Android 4.4 ou une version ultérieure prennent en charge le Mi-Fit.</string>
     <string name="help_title_2">Votre Mi-Fit est-il complètement chargé ?</string>
     <string name="help_info_2">Assurez-vous de charger correctement votre Mi-Fit. Vous devriez voir les LEDs clignoter en vert durant la charge.</string>
@@ -282,7 +287,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="help_info_3">"Si votre Mi-Fit est déjà appairé avec un téléphone ou qu'il n'est pas à proximité de votre téléphone, désactiver le Bluetooth de l'ancien téléphone et relancer la recherche avec le nouveau téléphone à appairer."</string>
     <string name="help_title_4">Essayez de redémarrer votre téléphone.</string>
     <string name="help_info_4">Ouvrir Mi-Fit après le redémarrage de votre téléphone.</string>
-    <string name="get_image_file_fail">"Impossible de charger l'image"</string>
+    <string name="get_image_file_fail">"Chargement de l'image impossible"</string>
     <string name="select_image">Modifier avatar</string>
     <string name="select_from_camera">Appareil photo</string>
     <string name="select_from_local">Choisir dans la Galerie</string>
@@ -299,21 +304,21 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="new_version_available">Nouvelle version disponible</string>
     <string name="downloading_apk">Mi-Fit</string>
     <string name="upgrade">Mise à jour</string>
-    <string name="download_failed">"Téléchargement du fichier APK impossible."</string>
+    <string name="download_failed">Téléchargement du fichier APK impossible.</string>
     <string name="start_download">Téléchargement en tâche de fond...</string>
-    <string name="apk_download_ok">"Téléchargement de l'app Mi-Fit terminée."</string>
+    <string name="apk_download_ok">"Téléchargement de l'application Mi-Fit terminée."</string>
     <string name="bracelet_login_info_2">"Connectez-vous si vous êtes d'accord avec la 
 "</string>
     <string name="please_input_gender">Sélectionner un genre</string>
     <string name="input_precise_person_info">"Merci de renseigner vos informations personnelles. Ces détails permettront d'obtenir des mesures plus précises."</string>
-    <string name="input_precise_user_info">S\'il vous plaît entrer des informations personnelles précises afin d\'analyser avec précision les données de santé</string>
+    <string name="input_precise_user_info">La précision des renseignements fournis permet une meilleure analyse des données de santé.</string>
     <string name="check_upgrade">Vérifier les mises à jour</string>
     <string name="visit_micom">Visiter le site officiel</string>
-    <string name="join_improvement_plan_detial">Aider à améliorer Mi-Fit en envoyant des données d\'utilisation pour Huami Inc.</string>
+    <string name="join_improvement_plan_detial">Aider à améliorer Mi-Fit en envoyant des données d\'utilisation à Huami Inc.</string>
     <string name="apk_uptodate">"Vous utilisez actuellement la dernière version de l'application."</string>
     <string name="local_app_failed">Récupération des informations de la version installée impossible.</string>
-    <string name="checking_new_apk">Recherche de nouvelles mises à jour...</string>
-    <string name="please_knock_bracelet">Tapoter sur le Mi-Fit à appairer</string>
+    <string name="checking_new_apk">Recherche de nouvelles versions...</string>
+    <string name="please_knock_bracelet">Tapoter sur le Mi-Fit à appairer.</string>
     <string name="dynamic_title_sleep">Dernière nuit</string>
     <string name="dynamic_title_step">"Aujourd'hui"</string>
     <string name="dynamic_title_weight">Poids</string>
@@ -330,10 +335,9 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="dynamic_detail_step_title_today">"Aujourd'hui"</string>
     <string name="dynamic_sleep_deep">Sommeil profond</string>
     <string name="dynamic_sleep_shallow">Sommeil léger</string>
-    <string name="dynamic_sleep_active">Temps réveillé</string>
+    <string name="dynamic_sleep_active">Temps éveillé</string>
     <string name="dynamic_sleep_active_start">Prêt à dormir</string>
-    <string name="dynamic_sleep_active_end">"Prêt à 
-se lever"</string>
+    <string name="dynamic_sleep_active_end">Prêt à se lever</string>
     <string name="dynamic_tip_unweared">Non porté</string>
     <string name="dynamic_tip_sleep_unsynced">Non mis à jour</string>
     <string name="dynamic_tip_step_unsynced">Non mis à jour</string>
@@ -350,7 +354,7 @@ se lever"</string>
     <string name="action_pop_person_info">Mon Profil</string>
     <string name="action_pop_unlock_screen">"Déverrouillage de l'écran"</string>
     <string name="action_pop_weixin_enter">Ajouter WeChat</string>
-    <string name="bind_qq">Ajouter QQ</string>
+    <string name="bind_qq">Lier avec un compte QQ</string>
     <string name="bind_qq_health">Synchroniser avec QQ Health Center</string>
     <string name="start_weixin">Ouvrir WeChat</string>
     <string name="start_weixin_not_installed">Démarrer WeChat (non installé)</string>
@@ -371,7 +375,7 @@ se lever"</string>
     <string name="red">Rouge</string>
     <string name="green">Vert</string>
     <string name="orange">Orange</string>
-    <string name="fw_upgrade_now">Mise à jour du firmware ...</string>
+    <string name="fw_upgrade_now">Mise à jour du firmware...</string>
     <string name="please_input_birthday">Date de naissance</string>
     <string name="please_input_age">Age</string>
     <string name="your_height">Taille</string>
@@ -397,32 +401,34 @@ se lever"</string>
     <string name="device_list">Mi-Fit à proximité</string>
     <string name="unbinding">Désappairage...</string>
     <string name="share_sleep_title">Nuit dernière</string>
-    <string name="share_sleep_title_average">Sommeil moy.</string>
+    <string name="share_sleep_title_average">Sommeil moyen</string>
     <string name="share_sleep_title_daily">Sommeil</string>
     <string name="share_step_goal_succ_title_today">Objectif du jour atteint !</string>
     <string name="share_step_goal_succ_title">Objectif atteint</string>
     <string name="share_step_goal_failed_title_today">"Aujourd'hui"</string>
     <string name="share_step_goal_failed_title">Total</string>
-    <string name="share_step_description">"%1$s marchés, %2$s calories brulées
+    <string name="share_step_description">"%1$s marchés, %2$s calories brulées.
 "</string>
     <string name="share_step_description_run">"%1$s marchés, %2$s courus. 
 %3$s calories brûlées.
 "</string>
     <string name="share_step_description_weekly">"%1$s%2$s, 
-%3$s calories brûlées. Le précédent record quotidien était de %4$s, avec %5$s pas marchés."</string>
-    <string name="share_step_description_weekly_run">"%1$s marchés, %2$s courus. %3$s
-Le précédent record quotidien, établi le %4$s, était de %5$s pas."</string>
+%3$s calories brûlées. Le record journalier était de %4$s, avec %5$s pas marchés."</string>
+    <string name="share_step_description_weekly_run">"%1$s marchés, %2$s courus. 
+%3$s
+Le record journalier, établi %4$s, était de %5$s pas."</string>
     <string name="share_play_ground_format">"Soit l'équivalent de %1$s tours de piste."</string>
     <string name="share_step_description_monthly">"%1$s%2$s, 
 %3$s calories brûlées, vous avez ainsi économisé %4$s gallon(s) d'essence.
-Ce mois-ci, le record quotidien, établi le %5$s, était de %6$s pas."</string>
-    <string name="share_step_description_monthly_run">"%1$s marchés, %2$s courus.
- %3$s, vous avez ainsi économisé %4$s gallon(s) d'essence.
-Ce mois-ci, le record quotidien, établi le %5$s, était de %6$s pas."</string>
+Ce mois-ci, le record journalier, établi le %5$s, était de %6$s pas."</string>
+    <string name="share_step_description_monthly_run">"%1$s marchés, %2$s courus. 
+%3$s. 
+Vous avez ainsi économisé %4$s gallon(s) d'essence.
+Ce mois-ci, le record journalier, établi le %5$s, était de %6$s pas."</string>
     <string name="marathon_format_0">"Cela représente environ %1$s marathon(s)"</string>
     <string name="marathon_format_1">"C'est plus de %1$s marathon(s)"</string>
-    <string name="half_marathon_format_0">"Cela représente environ %1$s demi-marathon(s)"</string>
-    <string name="half_marathon_format_1">"C'est plus d'un demi-marathon(s)"</string>
+    <string name="half_marathon_format_0">"Cela représente environ %1$s semi-marathon(s)"</string>
+    <string name="half_marathon_format_1">"C'est plus d'un semi-marathon(s)"</string>
     <string name="share_continue_goal_format">"Marche totale de %1$s, %2$s pas par jour. 
 %3$s 
 %4$s"</string>
@@ -431,34 +437,34 @@ Ce mois-ci, le record quotidien, établi le %5$s, était de %6$s pas."</string>
     <string name="share_sleep_description">"En phase de sommeil profond pendant %1$s h et %2$s min, 
 En phase de sommeil léger pendant %3$s h et %4$s min.
 Endormissement à %5$s. Réveil à %6$s."</string>
-    <string name="share_sleep_description_average">"En moyenne %1$s h %2$s min en phase de sommeil profond et %3$s h %4$s min en phase de sommeil léger. 
-En moyenne, vous vous êtes couché(e) aux alentours de %5$s, et réveillé(e) aux alentours de %6$s."</string>
+    <string name="share_sleep_description_average">"En moyenne %1$s h %2$s min de sommeil profond et %3$s h %4$s min de sommeil léger. 
+En moyenne, vous vous êtes couché(e) aux alentours de %5$s, et vous êtes réveillé(e) aux alentours de %6$s."</string>
     <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="battery_charge_full">Batterie chargée</string>
     <string name="battery_low_info">Batterie du Mi-Fit faible</string>
     <string name="battery_charging">En charge...</string>
-    <string name="finding_bracelet">Recherche du Mi-Fit ...</string>
+    <string name="finding_bracelet">Recherche du Mi-Fit...</string>
     <string name="unlock_screen_set_password_tips_set">"Définir le mot de passe de verrouillage de l'écran"</string>
     <string name="unlock_screen_set_password_tips_has_set">"Le mot de passe de verrouillage de l'écran a été correctement configuré."</string>
     <string name="unlock_screen_set_password">Étape 1 : Définir votre mot de passe.</string>
     <string name="unlock_screen_set_use_bracelet_tips">Confirmer le mot de passe.</string>
-    <string name="unlock_screen_set_use_bracelet">Étape 2: Configurer le déverrouillage de votre téléphone avec le Mi-Fit.</string>
+    <string name="unlock_screen_set_use_bracelet">Étape 2 : Configurer le déverrouillage de votre téléphone avec le Mi-Fit.</string>
     <string name="unlock_screen_set_success">Le déverrouillage du téléphone avec le Mi-Fit a été correctement configuré.</string>
-    <string name="unlock_screen_modify_unlock_v5">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres > Sécurité > Sécurité de l\'écran</string>
-    <string name="unlock_screen_modify_unlock_v6">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres > Ecran de verrouillage > Déverrouiller avec le dispositif Bluetooth</string>
-    <string name="unlock_for_smartlock_tip">Utilisez le Mi-Fit pour débloquer l\'application en cours d\'exécution en arrière-plan</string>
-    <string name="unlock_for_smartlock_tip_step1">Étape 1 : Aller à dans <b>Paramètres système</b> - <b> Sécurité</b>.</string>
+    <string name="unlock_screen_modify_unlock_v5">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres > Sécurité > Sécurité de l\'écran.</string>
+    <string name="unlock_screen_modify_unlock_v6">Vous pouvez désactiver cette fonctionnalité à tout moment dans Paramètres > Ecran de verrouillage > Déverrouiller avec le dispositif Bluetooth.</string>
+    <string name="unlock_for_smartlock_tip">Configurer Mi-Fit pour déverrouiller votre téléphone</string>
+    <string name="unlock_for_smartlock_tip_step1">Étape 1 : Aller dans <b>Paramètres système</b> > <b> Sécurité</b>.</string>
     <string name="unlock_for_smartlock_tip_step2">Étape 2 : Définir le mode de <b>Verrouillage de l\'écran</b> avec un schéma, un code PIN ou mot de passe.</string>
-    <string name="unlock_for_smartlock_tip_step3">Étape 3 : Appuyer sur <b>Smart Lock</b> puis sur <b>Appareils fiable</b> puis sélectionner le Mi-Fit.</string>
+    <string name="unlock_for_smartlock_tip_step3">Étape 3 : Appuyer sur <b>Smart Lock</b> puis sur <b>Appareils fiables</b> puis sélectionner le Mi-Fit.</string>
     <string name="unlock_for_smartlock_pair_start_tip">Appairage en cours, merci de patienter...</string>
-    <string name="unlock_for_smartlock_pair_success_tip">Appairage effectué, Smart Lock disponible</string>
+    <string name="unlock_for_smartlock_pair_success_tip">Appairage effectué, Smart Lock disponible.</string>
     <string name="unlock_for_smartlock_pair_fail_tip">Échec de l\'appairage, merci de patienter...</string>
     <string name="unlock_for_smartlock_start_setting">Démarrer</string>
     <string name="bind_weixin_title">Synchroniser pour partager vos performances et les comparer à celles de vos amis.</string>
     <string name="bind_qq_health_title">Ajouter un compte QQ</string>
     <string name="step1">Étape 1 : </string>
     <string name="step2">Étape 2 : </string>
-    <string name="bind_weixin_tips_1">"Appuyer sur Générer QR Code, cela génèrera un QR Code et l'enregistrera dans la galerie."</string>
+    <string name="bind_weixin_tips_1">"Appuyer sur Générer un QR Code, cela génèrera un QR Code et l'enregistrera dans la galerie."</string>
     <string name="bind_weixin_tips_2">Appuyer sur Ouvrir WeChat, entrer dans Scan QR Code et cliquer sur Album pour sélectionner le QR Code enregistré.</string>
     <string name="bind_weixin_now">Génération du QR code...</string>
     <string name="bind_weixin_failed">Échec. Veuillez réessayer.</string>
@@ -468,17 +474,17 @@ En moyenne, vous vous êtes couché(e) aux alentours de %5$s, et réveillé(e) a
     <string name="incoming_call_notify_tips">"M'avertir si je rate un appel après %s secondes"</string>
     <string name="share_step_walk">" "</string>
     <string name="one_week">Au cours de cette semaine, </string>
-    <string name="walked">Marché </string>
+    <string name="walked">Marche de </string>
     <string name="come_from_xiaomi_bracelet">À partir du Mi-Fit</string>
     <string name="unlock_screen_invalid">Que puis-je faire si je ne suis pas en mesure de déverrouiller mon téléphone ?</string>
-    <string name="unlock_screen_help_title0">Le Mi-Fit est-il suffisamment près de votre téléphone ?</string>
+    <string name="unlock_screen_help_title0">Le Mi-Fit est-il suffisamment proche de votre téléphone ?</string>
     <string name="unlock_screen_help_title1">Essayer de redémarrer le Bluetooth.</string>
     <string name="unlock_screen_help_title2">Essayer de réinitialiser le déverrouillage.</string>
     <string name="unlock_screen_help_title3">Redémarrer le téléphone, relancer Mi-Fit et essayer à nouveau.</string>
     <string name="unlock_screen_help_info3">Après le redémarrage de votre téléphone, relancer Mi-Fit puis essayer d\'utiliser votre Mi-Fit pour le déverrouiller.</string>
-    <string name="unlock_screen_help_info0">"Pour une question de sécurité, le déverrouillage ne s'opère que lorsque le Mi-Fit est suffisamment près du téléphone."</string>
+    <string name="unlock_screen_help_info0">"Pour une question de sécurité, le déverrouillage ne s'opère que lorsque le Mi-Fit est suffisamment proche du téléphone."</string>
     <string name="unlock_screen_help_info1">Si votre téléphone est toujours verrouillé, vous pouvez essayer de redémarrer le Bluetooth pour résoudre le problème.</string>
-    <string name="unlock_screen_help_info2">"Si vous ne parvenez pas à redémarrer le Bluetooth, veuillez-vous rendre dans Paramètres Système > Sécurité pour désappairer le Mi-Fit. Ensuite, rendez-vous dans l'application Mi-Fit pour réinitialiser le déverrouillage de l'écran."</string>
+    <string name="unlock_screen_help_info2">"Si vous ne parvenez pas à redémarrer le Bluetooth, veuillez-vous rendre dans Paramètres Système > Sécurité pour désappairer le Mi-Fit. Ensuite, rendez vous dans l'application Mi-Fit pour réinitialiser le déverrouillage de l'écran."</string>
     <string name="instruction_title">Mieux utiliser son Mi-Fit</string>
     <string name="instruction_tip_1">"Jetez un coup d'oeil à votre progression"</string>
     <string name="instruction_tip_2_1">"Moins d'1/3 de votre objectif"</string>
@@ -486,7 +492,7 @@ En moyenne, vous vous êtes couché(e) aux alentours de %5$s, et réveillé(e) a
     <string name="instruction_tip_2_3">Plus de 2/3 de votre objectif</string>
     <string name="instruction_tip_2_4">Bravo ! Vous avez atteint votre objectif de la journée.</string>
     <string name="instruction_tip_2_5">Vous avez dépassé votre objectif.</string>
-    <string name="instruction_tip_3">"Merci de recharger le Mi-Fit."</string>
+    <string name="instruction_tip_3">"Merci de recharger votre Mi-Fit."</string>
     <string name="new_record_born">Bravo ! Vous avez établi un nouveau record.</string>
     <string name="new_record_format_str">"%1$s pas, %2$s calories brûlées.
 Chaque nouveau record n'est qu'une étape.
@@ -494,20 +500,20 @@ Il faut garder le rythme."</string>
     <string name="continue_reach_goal">"Continuez d'atteindre vos objectifs."</string>
     <string name="continue_tips_format">"Votre record serait d'atteindre votre objectif durant %1$s jours consécutifs."</string>
     <string name="gram">" g "</string>
-    <string name="sync_to_server">Synchro des données sur le cloud en cours...</string>
+    <string name="sync_to_server">Synchronisation des données sur le cloud en cours...</string>
     <string name="unlock_screen_miui_version_low">"Votre version de MIUI n'est pas prise en charge par Mi-Fit. Veuillez mettre à jour votre version."</string>
     <string name="setting_feedback_send">Envoyer</string>
     <string name="setting_feedback_hint">Nous aimons vos commentaires.</string>
     <string name="setting_feedback_address">Comment pouvons-nous vous joindre ?</string>
     <string name="bluetooth">Bluetooth :</string>
     <string name="setting_about_fw">Version firmware :</string>
-    <string name="setting_about_app">"Version App : 
+    <string name="setting_about_app">"Version de l'application : 
 Traduction par Fays, Boleofr et PifGadget"</string>
     <string name="stop">Fin</string>
     <string name="start">Début</string>
     <string name="no_wear_bracelet">"Vous n'avez pas porté votre Mi-Fit la nuit dernière."</string>
     <string name="no_steps">Pas de relevé de pas aujourd\'hui</string>
-    <string name="no_wear_user_modified">Ajouter manuellement les données de mon sommeil</string>
+    <string name="no_wear_user_modified">Données de sommeil ajoutées manuellement</string>
     <string name="dynamic_pull_connect_failed">Échec de la connexion. Tirer pour réessayer.</string>
     <string name="dynamic_pull_connect_failed_hint">Vérifier que votre Mi-Fit est assez chargé.</string>
     <string name="dynamic_pull_not_sync_today">"Non synchro aujourd'hui"</string>
@@ -518,7 +524,7 @@ Traduction par Fays, Boleofr et PifGadget"</string>
     <string name="dynamic_pull_syncing_progress">Synchronisé (%s %%)</string>
     <string name="dynamic_pull_release_to_sync">Relâcher pour synchroniser</string>
     <string name="dynamic_pull_pull_to_sync">Tirer pour synchroniser</string>
-    <string name="ull_to_refresh_pull_label">Tirer pour rafraîchir</string>
+    <string name="ull_to_refresh_pull_label">Tirer pour actualiser</string>
     <string name="dynamic_pull_sync_error">Synchronisation impossible. Tirer pour actualiser.</string>
     <string name="bind_weixin_qrcode_name">QR code du Mi-Fit</string>
     <string name="mili_exit_login_info_unbind">Êtes-vous sur de vouloir quitter ? Le Mi-Fit sera déconnecté de votre téléphone.</string>
@@ -526,15 +532,16 @@ Traduction par Fays, Boleofr et PifGadget"</string>
     <string name="mili_exit_login_info_continue_tip">Êtes-vous sûr de vouloir continuer ?</string>
     <string name="mili_exit_login_info_exiting">Déconnexion...</string>
     <string name="back">Retour</string>
-    <string name="enable_debug_log">Mode de débogage activé ！</string>
-    <string name="disable_debug_log">Mode de débogage désactivé ！</string>
+    <string name="enable_debug_log">Mode de débogage activé !</string>
+    <string name="disable_debug_log">Mode de débogage désactivé !</string>
     <string name="fw_upgrade">Mise à jour du firmware</string>
-    <string name="fw_upgrade_tips">Assurez-vous que votre Mi-Fit reste à proximité de votre téléphone pendant la mise à jour.</string>
+    <string name="fw_upgrade_tips">"S'assurer que le Mi-Fit reste à proximité de 
+votre téléphone pendant la mise à jour."</string>
     <string name="fw_upgrade_progress">%s %% effectués</string>
     <string name="runed">Couru</string>
     <string name="share_to_miliao_path">Partager avec</string>
     <string name="no_network_connection">Déconnecté du réseau</string>
-    <string name="no_network_connection_retry">Cliquer pour vous reconnecter.</string>
+    <string name="no_network_connection_retry">Appuyer pour vous reconnecter.</string>
     <string name="gen_qr_code">Générer un QR code</string>
     <string name="bin_weixin_device_not_connect">Mi-Fit non connecté</string>
     <string name="share_to_content_sleep">Mes infos sur mon sommeil</string>
@@ -555,7 +562,7 @@ Vous devez être connecté à Internet."</string>
     <string name="bind_weixin_new_tips">"Appuyer sur Synchroniser avec WeChat pour commencer, 
 puis appuyer sur Suivant pour effectuer la synchronisation."</string>
     <string name="bind_weixin_new_now">Synchronisation avec WeChat. Patienter...</string>
-    <string name="bind_weixin_new_disable_tips">"Après avoir synchronisé votre compte WeChat, suivez l'utilisateur Mi-Fit WeChat Service. Vous pourrez alors consulter vos informations (nombre de pas et sommeil) directement dans WeChat. Vous pourrez ainsi comparer vos performances avec celles de vos amis."</string>
+    <string name="bind_weixin_new_disable_tips">"Après avoir synchronisé votre compte WeChat, suivez l'utilisateur Mi Band WeChat Service. Vous pourrez alors consulter vos informations (nombre de pas et sommeil) directement dans WeChat. Vous pourrez ainsi comparer vos performances avec celles de vos amis."</string>
     <string name="weather_aqi">"Indice de qualité de l'air : %s"</string>
     <string name="weather_description_rain">Pluie,</string>
     <string name="weather_description_rain_snow">Pluie verglaçante,</string>
@@ -570,9 +577,9 @@ puis appuyer sur Suivant pour effectuer la synchronisation."</string>
     <string name="fw_low_battery_tips">La charge de la batterie du Mi-Fit doit être supérieure à 10 % pour pouvoir effectuer la mise à jour.</string>
     <string name="fw_low_battery_view_help">Aide</string>
     <string name="in">En </string>
-    <string name="main_ui_share_tips">"Activité pendant %1$s%2$s aujourd'hui 
+    <string name="main_ui_share_tips">"Activité pendant %1$s%2$s aujourd'hui. 
 %3$s"</string>
-    <string name="ran">Couru </string>
+    <string name="ran">Vous avez couru </string>
     <string name="main_ui_sleep_share_tips">"Sommeil léger %1$s%2$s 
 Couché à %3$s, réveillé à %4$s"</string>
     <string name="awake_format">, réveillé %1$s fois.</string>
@@ -590,8 +597,8 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="notify_status_motor_shut_down">"Mi-Fit est en cours d'arrêt..."</string>
     <string name="notify_status_motor_auth_success">Mi-Fit fonctionnel...</string>
     <string name="notify_status_motor_test">Analyse...</string>
-    <string name="vibrate_notify">Afficher les notifications</string>
-    <string name="vibrate_notify_tips">Afficher des notifications en plus des vibrations.</string>
+    <string name="vibrate_notify">Affichage des notifications</string>
+    <string name="vibrate_notify_tips">Afficher les notifications en plus des vibrations.</string>
     <string name="body">Cou</string>
     <string name="wrong_system_time">"L'horloge n'est pas à l'heure. Cela affecte le Mi-Fit."</string>
     <string name="restart_bluetooth_tips">"Merci de redémarrer le Bluetooth."</string>
@@ -609,31 +616,31 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="weight_dynamic_visitor_title">%1$s poids %2$s %3$s</string>
     <string name="weight_dynamic_detail">%1$s</string>
     <string name="weight_guest">Invité</string>
-    <string name="set_length_unit">Régler les unités de longueur</string>
-    <string name="set_weight_unit">Régler les unités poids</string>
-    <string name="weight_unit_metric">Kilos (kg)</string>
-    <string name="weight_unit_british">Livres (lb)</string>
-    <string name="weight_unit_shijin">Jin (1 kg = 500 g)</string>
-    <string name="weight_unit_text_info">"Vous avez modifié l'unité de masse utilisée par la balance. Pour revenir à l'unité par défaut, 
-ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau l'unité de masse."</string>
+    <string name="set_length_unit">Réglage de l\'unité de longueur</string>
+    <string name="set_weight_unit">Réglage de l\'unité de pesée</string>
+    <string name="weight_unit_metric">Kilogramme (kg)</string>
+    <string name="weight_unit_british">Livre （lb）</string>
+    <string name="weight_unit_shijin">Jin (1 jin = 500 g)</string>
+    <string name="weight_unit_text_info">"Vous avez modifié l'unité de pesée utilisée par la balance. Pour revenir à l'unité par défaut, 
+ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau l'unité de pesée."</string>
     <string name="bind_devices">Périphériques appairés</string>
-    <string name="bind_mi_band">Mi-Fit appairé</string>
-    <string name="bind_mi_weight">Mi-Balance appairée</string>
-    <string name="bind_mi_band_about"><Data>&lt;a href=http://www.mi.com>Voir Mi-Fit Site&lt;/a></Data></string>
-    <string name="bind_mi_weight_about"><Data>&lt;a href=http://www.mi.com>Voir Mi-Balance Site&lt;/a></Data></string>
+    <string name="bind_mi_band">Appairer un Mi-Fit</string>
+    <string name="bind_mi_weight">Appairer une Mi-Balance</string>
+    <string name="bind_mi_band_about"><Data>&lt;a href=http://www.mi.com>Visiter le site du Mi-Fit&lt;/a></Data></string>
+    <string name="bind_mi_weight_about"><Data>&lt;a href=http://www.mi.com>Visiter le site de la Mi-Balance&lt;/a></Data></string>
     <string name="bind_mi_weight_howto">Mi-Balance</string>
-    <string name="agree_ux">Programme de l\'expérience utilisateur</string>
-    <string name="search_weight_scale">Recherche du poids</string>
+	<string name="agree_ux">Conditions d\'utilisation</string>
+    <string name="search_weight_scale">Recherche de la balance</string>
     <string name="search_weight_scale_info">"Merci de rester à proximité de la balance"</string>
     <string name="weight_device_list">Mi-Balance à proximité</string>
     <string name="set_unit">Unités</string>
-    <string name="weight_unbinded">Dissocier la balance</string>
+    <string name="weight_unbinded">Balance désappairée</string>
     <string name="weight_scale">Mi-Balance</string>
     <string name="band">Mi-Fit</string>
-    <string name="bind_weight_scale">Associer la balance</string>
-    <string name="unbind_weight_scale">Délier Balance ?</string>
-    <string name="weight_fw_upgrade_tips">Mises à jour pour garder le téléphone informé du poids corporel</string>
-    <string name="weight_fw_upgrade_title">Mise à niveau du micrologiciel Balance</string>
+    <string name="bind_weight_scale">Appairer la balance</string>
+    <string name="unbind_weight_scale">Désappairer la balance ?</string>
+    <string name="weight_fw_upgrade_tips">Les mises à jour de firmware permettent de continuer à maintenir votre téléphone informé de votre poids.</string>
+    <string name="weight_fw_upgrade_title">Mise à jour du firmware de la balance</string>
     <string name="weight_not_found_title">Balance introuvable</string>
     <string name="weight_not_found_info">"Merci de rester à proximité de la balance."</string>
     <string name="about_mi_band">Utilisez Mi-Fit pour suivre vos performances sportives et vos paramètres de sommeil.</string>
@@ -642,8 +649,8 @@ ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau
     <string name="find_weight_scale_info">Merci de monter sur la balance à appairer...</string>
     <string name="bind_weight_fail">Échec de l\'appairage</string>
     <string name="device_not_found">Périphérique introuvable</string>
-    <string name="connecting">Connexion…</string>
-    <string name="multi_weight_devices_info">S\'il vous plaît réactiver le bluetooth et essayez à nouveau</string>
+    <string name="connecting">Connexion...</string>
+    <string name="multi_weight_devices_info">Réactiver le Bluetooth et essayer à nouveau.</string>
     <string name="look_weight_device_list">Afficher la liste des balances à proximité</string>
     <string name="family_member">Famille</string>
     <string name="user_staron_me">Abonnements</string>
@@ -651,40 +658,40 @@ ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau
     <string name="baby_weight">Bébé</string>
     <string name="visitor_weight">Poids</string>
     <string name="name">Nom</string>
-    <string name="input_family_member_name">Saisir le nom</string>
-    <string name="input_person_name">Vous ne avez pas un surnom</string>
+    <string name="input_family_member_name">Entrer le prénom</string>
+    <string name="input_person_name">Vous n\'avez pas entré de prénom</string>
     <string name="goal_weight">Objectif</string>
     <string name="delete">Supprimer</string>
     <string name="weight_bmi_tips">IMC %1$s %2$s</string>
     <string name="weight_report_suggest">Recommandation : </string>
-    <string name="weight_report_user_info_header">%1$s rapport sur la mesure</string>
+    <string name="weight_report_user_info_header">Pesée de %1$s</string>
     <string name="weight_help_title_0">Votre balance est-elle trop loin ?</string>
-    <string name="weight_help_info_0">Assurez-vous que la balance est proche de votre appareil tout au long du processus d\'appairage.</string>
-    <string name="weight_help_title_1">"Vérifiez la batterie de la Balance"</string>
-    <string name="weight_help_info_1">"Assurez-vous que la Balance est chargée et ne manque pas de puissance."</string>
-    <string name="weight_help_title_2">Redémarrer Bluetooth</string>
-    <string name="weight_help_info_2">Redémarrer le Bluetooth en l\'éteignant puis en l\'allumant de nouveau dans les paramètres.</string>
-    <string name="weight_help_title_3">La Balance est-elle jumelée avec un autre appareil ?</string>
-    <string name="weight_help_info_3">"Assurez-vous que votre Mi-Balance n\'est pas déjà jumelée avec un autre appareil à proximité."</string>
-    <string name="weight_not_response">Mi-Balance ne répond pas</string>
-    <string name="bind_weight_ok">Balance OK</string>
-    <string name="weight_history_dynamic_title">Synchronisation réussie %1$s données historiques de poids</string>
-    <string name="weight_history_dynamic_detail">Synchronisation de %1$s sur %2$s données</string>
+    <string name="weight_help_info_0">Assurez-vous que la balance est à proximité de votre téléphone tout au long du processus d\'appairage.</string>
+    <string name="weight_help_title_1">"Vérifier la batterie de la balance"</string>
+    <string name="weight_help_info_1">"S'assurer que la batterie de la balance est chargée et ne manque pas de puissance."</string>
+    <string name="weight_help_title_2">Redémarrer le Bluetooth</string>
+    <string name="weight_help_info_2">Redémarrer le Bluetooth en le désactivant puis en l\'activant à nouveau dans les paramètres.</string>
+    <string name="weight_help_title_3">La balance est-elle appairée avec un autre appareil ?</string>
+    <string name="weight_help_info_3">"S'assurer que la balance n'est pas déjà appairée à un autre appareil à proximité."</string>
+    <string name="weight_not_response">La Mi-Balance ne répond pas</string>
+    <string name="bind_weight_ok">Appairage de la balance effectué.</string>
+    <string name="weight_history_dynamic_title">Synchronisation de %1$s données d\'historique de poids réussie.</string>
+    <string name="weight_history_dynamic_detail">Synchronisation de %1$s données sur %2$s</string>
     <string name="weight_history_dynamic_detail_oneday">Données synchronisées %1$s</string>
     <string name="health_link">HealthLink</string>
     <string name="title_health_link_service">Health Care Service</string>
     <string name="health_care_date_limit">Période de service : année gratuite</string>
     <string name="health_care_country_limit">Région : Chine continentale</string>
-    <string name="service_call_notice">"L'accès au service est disponible 24 h sur 24 par téléphone."</string>
+    <string name="service_call_notice">"Le service est accessible par téléphone 24 h sur 24."</string>
     <string name="notice_for_users">Utilisateur de Mi-Fit exclusivement</string>
     <string name="health_provider_desc">Services de santé</string>
     <string name="connected_broadcast">Protocole de diffusion BLE</string>
-    <string name="connected_broadcast_tips">Permet au Mi-Fit d\'être détecté par d\'autres périphériques de même type.</string>
-    <string name="connected_broadcast_disconnect_tips">Connecter le bracelet, puis réglez</string>
+    <string name="connected_broadcast_tips">Permet au Mi-Fit d\'être détecté par d\'autres périphériques Bluetooth Low Energy.</string>
+    <string name="connected_broadcast_disconnect_tips">Connecter le bracelet, puis effectuer le paramètrage.</string>
     <string name="donot_have_band">Avez-vous un Mi-Fit ?</string>
     <string name="sensor_hub_tip">"Podomètre du téléphone affiché par coprocesseur interne du téléphone
  Données de mouvement (Capteur Hub)
- Ces données sont utilisées seulement à titre de référence, non enregistrées dans Mi-Cloud</string>
+ Ces données sont utilisées seulement à titre de référence, non enregistrées dans Mi-Cloud.</string>
     <string name="incomingcall_info_1">Cette notification à besoin que l\'app fonctionne en arrière-plan</string>
     <string name="incomingcall_info_2">"Verrouiller l'application Mi-Fit et 
 ajouter à la liste blanche du gestionnaire 3ème partie si elle existe."</string>
@@ -694,13 +701,13 @@ ajouter à la liste blanche du gestionnaire 3ème partie si elle existe."</strin
     <string name="title_activity_mark">MarkData</string>
     <string name="title_activity_tag_data">Tag Activité de données</string>
     <string name="weight_weighting_now">Mesures</string>
-    <string name="weight_edit">Editer</string>
-    <string name="weight_edit_delete">Supprimer l\'enregistrement de poids</string>
-    <string name="weight_edit_move">Déplacez fiche de poids</string>
-    <string name="weight_delete_confirm_title">Confirmer pour supprimer</string>
-    <string name="weight_delete_confirm_msg">fiche de poids %s ?</string>
+    <string name="weight_edit">Modifier</string>
+    <string name="weight_edit_delete">Supprimer l\'enregistrement de pesée</string>
+    <string name="weight_edit_move">Déplacer l\'enregistrement de pesée</string>
+    <string name="weight_delete_confirm_title">Confirmer la suppression</string>
+    <string name="weight_delete_confirm_msg">Supprimer l\'enregistrement %s ?</string>
     <string name="title_activity_tag_history">Tag Historique Activité</string>
-    <string name="title_friend_detail">Detail</string>
+    <string name="title_friend_detail">Détail</string>
     <string name="title_add_friend">Add to contants</string>
     <string name="label_scan_add">Scan QRcode</string>
     <string name="title_friend_list">Family&amp;Friend</string>
@@ -776,8 +783,8 @@ ajouter à la liste blanche du gestionnaire 3ème partie si elle existe."</strin
     <string name="label_friend_refuse_message">%s refuse to be your friend</string>
     <string name="label_friend_care_message">%s send you a nudge!</string>
     <string name="lab_factory_internal_test">运动模式分析测试</string>
-    <string name="weighting_failed">"Poids instable
-S\'il vous plaît descendez après que la LED clignotex"</string>
+    <string name="weighting_failed">"Pesée impossible.
+Descendre de la balance une fois le clignotement de la LED terminé."</string>
     <string name="select_devices">Sélectionner les périphériques</string>
     <string name="select_devices_info">S\'il vous plaît sélectionnez Périphériques Mi à lier</string>
     <string name="weight_settings_merge_title">Regroupement des éléments de pesée fréquents</string>
@@ -794,36 +801,36 @@ S\'il vous plaît descendez après que la LED clignotex"</string>
     <string name="weight_tip_bmi_content">MC est l\'abréviation de Indice de Masse Corporelle. Utilisation internationale généralisée, car la quantité de graisse contenue dans le corps et ont une excellente relation, l\'IMC est le poids corporel (kg) divisé par la taille (en mètres) du côté secondaire</string>
     <string name="weight_tip_fat_name">Il suffit de regarder la valeur IMC ne peut être déterminée obèse</string>
     <string name="weight_tip_fat_content">L\'IMC est une valeur calculée à partir taille et le poids, le degré d\'obésité avec des critères simples, comme le poids standard, s\'il ya beaucoup de graisse.  Ainsi, les variations de poids corporel ou l\'augmentation musculaire confirment l\'abondance de graisse</string>
-    <string name="daily_sport_report">Résultat quotidien</string>
-    <string name="today_steps">Aujourd\'hui</string>
-    <string name="daily_consume">（Cal） consommée aujourd\'hui</string>
-    <string name="week_total_distance">"Distance de la semaine
-（Km）"</string>
-    <string name="continue_reach_goal_days">"La plus longue 
-série"</string>
-    <string name="equals_fat">"Égal à 
-%1$s g de graisse brûler"</string>
-    <string name="daily_sport_report_contintue_info">"%1$s lazy days left,
- personal record is %2$s days"</string>
-    <string name="daily_sport_report_week_info">"Marché %1$s pas.
-égal à %2$s gallons de gaz"</string>
+    <string name="daily_sport_report">Rapport d\'activité journalier</string>
+    <string name="today_steps">Nombre de pas</string>
+    <string name="daily_consume">Calories dépensées aujourd\'hui</string>
+    <string name="week_total_distance">Distance parcourue 
+cette semaine （km）</string>
+    <string name="continue_reach_goal_days">"Série la 
+plus longue"</string>
+    <string name="equals_fat">"Équivaut à %1$s g 
+de graisse brûlée"</string>
+    <string name="daily_sport_report_contintue_info">"%1$s jours de farniente restants,
+votre record est de %2$s jours"</string>
+    <string name="daily_sport_report_week_info">"Vous avez fait %1$s pas. Ce qui
+équivaut à %2$s gallons d'essence"</string>
     <string name="del_family_member">Retirer cet utilisateur ?</string>
-    <string name="del_family_member_content">Les données sur la santé de l\'utilisateur seront également supprimés. Vous ne pouvez pas annuler cette action ?</string>
+    <string name="del_family_member_content">Les données d'\activité de l\'utilisateur seront également supprimées. Vous ne pourrez pas annuler cette action. Continuer ?</string>
     <string name="mi_band">Mi-Fit</string>
     <string name="add_family_member">Ajouter un utilisateur</string>
-    <string name="delete_family_member">Supprimer l\'utilisateur</string>
-    <string name="daily_sport_report_notify">Aujourd\'hui vous avez marché %s, excellent !</string>
-    <string name="daily_sport_report_notify_content">Cliquez ici pour voir les résultats</string>
-    <string name="exceed_user">Utilisateur dépasser</string>
-    <string name="setting_daily_sport_notify_info">Rappelez-moi à 9:30PM</string>
-    <string name="setting_daily_sport_notify">Notifier résultat du sport quotidien</string>
-    <string name="daily_sport_report_notify_hurry">"besoin %1$s pas pour atteindre l'objectif d'aujourd'hui !"</string>
-    <string name="weight_overload_title">Trop de poids sur la Mi-Balance</string>
-    <string name="weight_overload_content">Le poids ne peut pas dépasser 150 kg</string>
+    <string name="delete_family_member">Retirer l\'utilisateur</string>
+    <string name="daily_sport_report_notify">Aujourd\'hui, vous avez marché %s, excellent !</string>
+    <string name="daily_sport_report_notify_content">Appuyer pour voir les résultats.</string>
+    <string name="exceed_user">Utilisateurs dépassés</string>
+    <string name="setting_daily_sport_notify_info">Affiche une notification de rapport d\'activité à 21 h 30</string>
+    <string name="setting_daily_sport_notify">Notification de rapport journalier</string>
+    <string name="daily_sport_report_notify_hurry">"Plus que %1$s pas pour atteindre l'objectif de la journée !"</string>
+    <string name="weight_overload_title">Trop de poids sur la balance</string>
+    <string name="weight_overload_content">Le poids sur la balance ne doit pas dépasser 150 kg.</string>
     <string name="weight_overload_confirm">OK</string>
     <string name="noti_weight_low_battery_title">Batterie faible</string>
-    <string name="noti_weight_low_battery_content">Vous devez remplacer la batterie. Vous aurez besoin de lier à nouveau après la mise à la batterie</string>
-    <string name="connect_to_retrive">Impossible de se connecter au réseau</string>
+    <string name="noti_weight_low_battery_content">Vous devez remplacer la batterie. Un nouvel appairage sera nécessaire après le remplacement de la batterie.</string>
+    <string name="connect_to_retrive">Connexion au réseau impossible</string>
     <string name="week_total_distance_miles">"Semaine totale
 (km)"</string>
     <string name="found_weight_scale_title">"Balance trouvée. S'assurer que les chiffres indiqués sur la balance et 
@@ -1009,12 +1016,12 @@ you need available network."</string>
     <string name="lab_factory_exercise_state_paused">Pause</string>
     <string name="lab_factory_exercise_state_stopped">Stop</string>
     <string name="lab_factory_sport_monitor_bracelet_offline">"Mi-Fit n'est pas connecté"</string>
-    <string name="lab_factory_sport_monitor_bracelet_offline_notice">Connectez votre bracelet avant de commencer</string>
+    <string name="lab_factory_sport_monitor_bracelet_offline_notice">Connecter votre bracelet avant de commencer.</string>
     <string name="lab_factory_sport_monitor_cancelled_notice">Le capteur va compter %s automatiquement</string>
-    <string name="lab_factory_sport_monitor_timeout_notice">"Pas d'activité detectée"</string>
+    <string name="lab_factory_sport_monitor_timeout_notice">"Pas d'activité détectée"</string>
     <string name="lab_factory_sport_device_preparing">Prêt</string>
-    <string name="lab_factory_sport_best_record">Record personnel:</string>
-    <string name="lab_factory_sport_group_record">Nombre de groupe:</string>
+    <string name="lab_factory_sport_best_record">Record personnel :</string>
+    <string name="lab_factory_sport_group_record">Nombre de groupe :</string>
     <string name="lab_factory_sport_share_info_history_best_record">Meilleur record :</string>
     <string name="lab_factory_sport_share_info_group_record">Dossier de groupe</string>
     <string name="lab_factory_sport_share_info_accumulated_time">Total</string>
@@ -1052,20 +1059,20 @@ you need available network."</string>
     <string name="lab_factory_sport_timeout">Aucune activité détectée</string>
     <string name="lab_factory_share_photo">Photo</string>
     <string name="lab_factory_share_photo_menu_title">Sélectionner une photo</string>
-    <string name="lab_factory_share_photo_menu_camera">Caméra</string>
+    <string name="lab_factory_share_photo_menu_camera">Appareil photo</string>
     <string name="lab_factory_share_photo_menu_gallery">Galerie</string>
     <string name="lab_factory_sport_result_cost_cal">%d calories brûlées</string>
-    <string name="lab_factory_sport_pb_desc">Record personnel de %s</string>
-    <string name="lab_factory_sport_pb_ropeskipping">Corde à sauter</string>
-    <string name="lab_factory_sport_pb_situp">Abdominaux</string>
-    <string name="lab_factory_sport_pb_count">Record personnel %d fois</string>
-    <string name="lab_factory_sport_gb_count">Continuité PB %d fois</string>
-    <string name="lab_factory_sport_average_rate_per_minute">Vitesse moyenne %d /min</string>
+    <string name="lab_factory_sport_pb_desc">Record personnel %s</string>
+    <string name="lab_factory_sport_pb_ropeskipping">de corde à sauter</string>
+    <string name="lab_factory_sport_pb_situp">"d'abdominaux"</string>
+    <string name="lab_factory_sport_pb_count">Record personnel : %d mouvements</string>
+    <string name="lab_factory_sport_gb_count">Record battu %d fois de suite !</string>
+    <string name="lab_factory_sport_average_rate_per_minute">Cadence moyenne de %d/min</string>
     <string name="lab_factory_sport_result_dot">", "</string>
-    <string name="lab_factory_sport_steps_converted">est égal à %d pas</string>
+    <string name="lab_factory_sport_steps_converted">ce qui équivaut à %d pas.</string>
     <string name="lab_factory_sport_come_on">Continuez !</string>
-    <string name="lab_factory_exit_press_again">Appuyez une nouvelle fois pour quitter</string>
-    <string name="lab_factory_sport_vote_desc">"S'il vous plaît votez pour votre sport favori"</string>
+    <string name="lab_factory_exit_press_again">Appuyer une nouvelle fois pour quitter</string>
+    <string name="lab_factory_sport_vote_desc">"Votez pour votre sport favori"</string>
     <string name="lab_factory_sport_vote_sub_desc">Arrivera bientôt</string>
     <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
     <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour le</string>
@@ -1075,10 +1082,10 @@ you need available network."</string>
     <string name="lab_factory_item_group_social">SOCIAL</string>
     <string name="lab_factory_item_group_others">Autre</string>
     <string name="lab_factory_cheat_toast">Pas de triche !</string>
-    <string name="lab_factory_sport_continuous_ropeskipping">Quantité de sauts</string>
-    <string name="lab_factory_sport_continuous_situp">"Quantité d'abdominaux"</string>
-    <string name="lab_factory_sport_accumulate">Votre entrainement est de %d mois</string>
-    <string name="lab_factory_disconnected_reminder">Alerte via bluetooth</string>
+    <string name="lab_factory_sport_continuous_ropeskipping">Nombre de sauts</string>
+    <string name="lab_factory_sport_continuous_situp">"Nombre d'abdominaux"</string>
+    <string name="lab_factory_sport_accumulate">Vous avez effectué un total cumulé de %d mouvements.</string>
+    <string name="lab_factory_disconnected_reminder">Alerte via Bluetooth</string>
     <string name="lab_factory_disconnected_reminder_tips">"Si la connexion entre le bracelet et le téléphone mobile Bluetooth est perdue, le bracelet vibrera une fois et les lumières blanches s'allumeront pour vous prévenir"</string>
     <string name="lab_factory_disconnected_reminder_disconnect">"S'il vous plaît connectez le bracelet, puis modifiez les paramètres d'alerte"</string>
     <string name="sport_running_helper">Géolocaliser</string>
@@ -1088,12 +1095,12 @@ you need available network."</string>
     <string name="sport_running_speed">Vitesse</string>
     <string name="sport_running_real_time_pace">Rythme (m/km)</string>
     <string name="sport_running_pace">Rythme</string>
-    <string name="sport_running_pace_lable">Paix</string>
+    <string name="sport_running_pace_lable">Rythme</string>
     <string name="sport_running_set_goal">Rappel objetif</string>
     <string name="sport_running_set_dist">Rappel distance</string>
-    <string name="sport_running_speed_detail">%.2fkm/h</string>
+    <string name="sport_running_speed_detail">%.2f km/h</string>
     <string name="sport_running_pace_detail">%s/km</string>
-    <string name="sport_running_distance_detail">%.2fkm</string>
+    <string name="sport_running_distance_detail">%.2f km</string>
     <string name="sport_running_time_desc">Temps</string>
     <string name="sport_running_start">Démarrer</string>
     <string name="sport_running_gps_turnon">Activer</string>
@@ -1110,13 +1117,13 @@ you need available network."</string>
     <string name="sport_running_end_time">Fin</string>
     <string name="sport_running_history_title">Historique</string>
     <string name="sport_running_history_date" formatted="false">%d/%d/%d</string>
-    <string name="sport_running_history_no_data">Aucune données</string>
-    <string name="sport_ranking_desc_poor">%s utilisateurs placés devant vous</string>
-    <string name="sport_ranking_desc_normal" formatted="false">Votre place &lt;b>%s&lt;/b> de %s utilisateurs</string>
+    <string name="sport_running_history_no_data">Aucune donnée</string>
+    <string name="sport_ranking_desc_poor">%s des utilisateurs sont meilleurs que vous</string>
+    <string name="sport_ranking_desc_normal" formatted="false">C\'est mieux que &lt;b>%s&lt;/b> des utilisateurs %s</string>
     <string name="sport_ranking_desc_great">Excellent travail !</string>
     <string name="sport_new_record_ropeskipping">Nouveau record</string>
-    <string name="percent_mark">%</string>
-    <string name="share_step_ranking">Vous dépassez &lt;b>%s&lt;/b> des utilisateurs du Mi-Fit</string>
+    <string name="percent_mark">" %"</string>
+    <string name="share_step_ranking">Vous dépassez &lt;b>%s&lt;/b> des utilisateurs de Mi-Fit</string>
     <string name="sport_running_volumn_notice">Low media volum for kilometer speech, please adjust it in Music/Settings</string>
     <string name="contour_track_failed_to_create">Failed to share, please check storage left.</string>
     <string name="share_img_failed_to_create">Failed to share, please check storage left.</string>
@@ -1131,8 +1138,8 @@ you need available network."</string>
     <string name="action_badminton">Badminton</string>
     <string name="action_basketball">Basketball</string>
     <string name="action_pingpong">Ping Pong</string>
-    <string name="action_sit">sit</string>
-    <string name="action_stand">stand</string>
+    <string name="action_sit">assis</string>
+    <string name="action_stand">debout</string>
     <string name="action_bus">bus</string>
     <string name="title_action_tag_agreement">Conditions d\'utilisation</string>
     <string name="complete">Terminé</string>
@@ -1140,7 +1147,7 @@ you need available network."</string>
     <string name="choose_tag_item">Choisissez une activité</string>
     <string name="confirm_complete_tag">Marquez cette activité comme finie ?</string>
     <string name="confirm_abort_tag">Do you realy want to abort this marking?</string>
-    <string name="tag_data_collecting">Collecte de données…</string>
+    <string name="tag_data_collecting">Collecte de données...</string>
     <string name="toast_behavior_tag_failed">Impossible de collecter des données</string>
     <string name="toast_enable_behavior_tag">Vos données d\'activité seront recueillies</string>
     <string name="toast_disable_behavior_tag">Vos données d\'activité ne seront pas ramassés</string>
@@ -1163,7 +1170,7 @@ you need available network."</string>
     <string name="description_list_icon">Icône objet</string>
     <string name="friends_invite2">Inviter</string>
     <string name="friends_search">Rechercher</string>
-    <string name="friends_search_tips">ID MIUI / surnom / numéro de téléphone</string>
+    <string name="friends_search_tips">ID MIUI / Pseudo / Numéro de téléphone</string>
     <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
     <string name="noti_bracelet_low_battery_title_none">"Le Mi-Fit s'est arrêté."</string>
     <string name="point">point(s)</string>
