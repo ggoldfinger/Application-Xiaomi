@@ -884,19 +884,19 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="irv2_matching_hint_text_subfix">Aucune obstruction entre les deux!</string>
     <string name="irv2_ok_text">OK</string>
     <string name="irv2_matching_hint_air_conditioner_on">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle allumée ?</string>
--    <string name="irv2_matching_hint_air_conditioner_ar16">Appuyez sur le bouton ci-dessous, la climatisation envoie-t-elle de l\'air froid ?</string>
--    <string name="irv2_matching_hint_air_conditioner_off">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle éteinte ?</string>
--    <string name="irv2_matching_hint_tv_vol_add">Allumez la télévision
--Appuyez sur le bouton ci-dessous, avez-vous remarqué une augmentation du volume ?</string>
--    <string name="irv2_matching_hint_tv_ch_add">Veuillez ajuster le signal TV pour AV/TV
--Appuyez sur le bouton ci-dessous, changer de canal ?</string>
--    <string name="irv2_matching_hint_box_ok">Appuyez sur le bouton ci-dessous, OK ?</string>
--    <string name="irv2_matching_hint_dvd_play">Insérez le DVD dans le lecteur
--Appuyez sur le bouton ci-dessous, souhaitez-vous commencer la lecture ?</string>
--    <string name="irv2_matching_hint_dvd_pause">Appuyez sur le bouton ci-dessous, souhaitez-vous mettre en pause ?</string>
--    <string name="irv2_matching_hint_dvd_stop">Appuyez sur le bouton ci-dessous, souhaitez-vous arrêter la lecture ?</string>
--    <string name="irv2_matching_total_hint_prefix">Article</string>
--    <string name="irv2_matching_total_hint_postfix">Ensembles de programmes</string>
+    <string name="irv2_matching_hint_air_conditioner_ar16">Appuyez sur le bouton ci-dessous, la climatisation envoie-t-elle de l\'air froid ?</string>
+    <string name="irv2_matching_hint_air_conditioner_off">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle éteinte ?</string>
+    <string name="irv2_matching_hint_tv_vol_add">"Allumez la télévision
+Appuyez sur le bouton ci-dessous, avez-vous remarqué une augmentation du volume ?"</string>
+    <string name="irv2_matching_hint_tv_ch_add">"Veuillez ajuster le signal TV pour AV/TV
+Appuyez sur le bouton ci-dessous, changer de canal ?"</string>
+    <string name="irv2_matching_hint_box_ok">Appuyez sur le bouton ci-dessous, OK ?</string>
+    <string name="irv2_matching_hint_dvd_play">"Insérez le DVD dans le lecteur
+Appuyez sur le bouton ci-dessous, souhaitez-vous commencer la lecture ?"</string>
+    <string name="irv2_matching_hint_dvd_pause">Appuyez sur le bouton ci-dessous, souhaitez-vous mettre en pause ?</string>
+    <string name="irv2_matching_hint_dvd_stop">Appuyez sur le bouton ci-dessous, souhaitez-vous arrêter la lecture ?</string>
+    <string name="irv2_matching_total_hint_prefix">Article</string>
+    <string name="irv2_matching_total_hint_postfix">Ensembles de programmes</string>
     <string name="irv2_response_negative">Non</string>
     <string name="irv2_response_positive">Oui</string>
     <string name="irv2_matching_success">OK</string>
@@ -2039,7 +2039,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="mitv_login_account_captchacode_error_get">Obtention du code échouée</string>
     <string name="mitv_login_account_vericode">Veuillez entrer le jeton Mi dynamique</string>
     <string name="mitv_login_account_captchacode_error">Code entré erroné</string>
-    <string name="family">Inviter/string>
+    <string name="family">Inviter</string>
     <string name="add_family_member">Ajouter un membre de la famille</string>
     <string name="add_other_family">Ajouter plus de membres de la famille</string>
     <string name="relation_to_me">En relation avec moi</string>
