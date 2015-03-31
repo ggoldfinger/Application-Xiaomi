@@ -355,7 +355,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v2_timing_title">Interrupteur minuterie</string>
     <string name="air_purifier_v2_timing_add">Ajouter une date</string>
     <string name="air_purifier_v2_set_success">Réglage réussi</string>
-    <string name="air_purifier_v2_set_fail">Programme d\'installation a échoué</string>
+    <string name="air_purifier_v2_set_fail">Échec du réglage</string>
     <string name="air_purifier_v3">Mi Purificateur d\'air 2</string>
     <string name="air_purifier_v3_filter">Filtre</string>
     <string name="air_purifier_v3_air_quality">Qualité de l\'air</string>
@@ -486,7 +486,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v3_timing_title">Interrupteur minuterie</string>
     <string name="air_purifier_v3_timing_add">Ajouter une date</string>
     <string name="air_purifier_v3_set_success">Réglage réussi</string>
-    <string name="air_purifier_v3_set_fail">Programme d\'installation a échoué</string>
+    <string name="air_purifier_v3_set_fail">Échec du réglage</string>
     <string name="sans_serif">sans-serif</string>
     <string name="week_day_0">0</string>
     <string name="week_day_1">1</string>
@@ -521,8 +521,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_settings_space_save_size_desc">Espace de stockage libre pour le Mi-Routeur:</string>
     <string name="camera_settings_copybacking_desc">Sauvegarde…</string>
     <string name="camera_settings_copybacking">Sauvegardez maintenant</string>
-    <string name="camera_settings_copybacking_luanch_success">Sauvegarde réussie commencer immédiatement</string>
-    <string name="camera_settings_copybacking_luanch_failed">Échec de la sauvegarde commencer immédiatement</string>
+    <string name="camera_settings_copybacking_luanch_success">Sauvegarder maintenant si démarrage réussi</string>
+    <string name="camera_settings_copybacking_luanch_failed">Sauvegarder maintenant si démarrage échoué</string>
     <string name="camera_settings_last_copyback_time">Dernière heure de sauvegarde:</string>
     <string name="camera_settings_router_not_support_copyback">Le routeur ne prend pas en charge la sauvegarde</string>
     <string name="camera_settings_camera_not_support_copyback">Détection de votre caméra: Il n\'y a pas de carte SD, vous ne pouvez pas utiliser cette fonction, insérer une carte SD</string>
@@ -701,7 +701,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="passcode_verify">Vérifier le mot de passe</string>
     <string name="passcode_set_success">Définition du mot de passe réussie</string>
     <string name="passcode_disable_verify_msg">Veuillez saisir votre mot de passe</string>
-    <string name="developer_remote_debug">Le Cloud testing adresse</string>
+    <string name="developer_remote_debug">Test de la couverture du domicile</string>
     <string name="gateway_main_title">Kits de maison intelligente</string>
     <string name="gateway_title">Passerelle multifonction</string>
     <string name="gateway_switch_name">Passerelle Wi-fi</string>
@@ -715,7 +715,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_guard_setting">Créez une alerte</string>
     <string name="gateway_night_lamp_setting">Paramètres de l\'éclairage nocturne</string>
     <string name="gateway_night_bright_setting">Paramètres de la luminosité nocturne</string>
-    <string name="gateway_light_time_setting">Lampes stroboscopiques</string>
+    <string name="gateway_light_time_setting">Paramètres des lampes stroboscopiques</string>
     <string name="gateway_system_setting">Paramètres système</string>
     <string name="gateway_system_brightness_setting">Système d\'éclairage</string>
     <string name="gateway_system_color_setting">Couleur système</string>
@@ -883,20 +883,20 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="irv2_matching_hint_text_prefix">Assurez-vous du centre de contrôle à distance</string>
     <string name="irv2_matching_hint_text_subfix">Aucune obstruction entre les deux!</string>
     <string name="irv2_ok_text">OK</string>
-    <string name="irv2_matching_hint_air_conditioner_on">点击下方按钮，空调打开了吗？</string>
-    <string name="irv2_matching_hint_air_conditioner_ar16">点击下方按钮，空调降温了吗？</string>
-    <string name="irv2_matching_hint_air_conditioner_off">点击下方按钮，空调关闭了吗？</string>
-    <string name="irv2_matching_hint_tv_vol_add">"请先打开电视
-点击下方按钮，音量有增加吗？"</string>
-    <string name="irv2_matching_hint_tv_ch_add">"请先将电视信号调为AV/TV
-点击下方按钮，频道有变化吗？"</string>
-    <string name="irv2_matching_hint_box_ok">Cliquez sur le bouton ci-dessous, vous OK ?</string>
-    <string name="irv2_matching_hint_dvd_play">"请先打开DVD放入碟片
-点击下方按钮，有开始播放吗？"</string>
-    <string name="irv2_matching_hint_dvd_pause">Cliquez sur le bouton ci-dessous, vous avez des pauses ?</string>
-    <string name="irv2_matching_hint_dvd_stop">Cliquez sur le bouton ci-dessous, a cessé de jouer ?</string>
-    <string name="irv2_matching_total_hint_prefix">Paragraphe</string>
-    <string name="irv2_matching_total_hint_postfix">Paquet</string>
+    <string name="irv2_matching_hint_air_conditioner_on">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle allumée ?</string>
+-    <string name="irv2_matching_hint_air_conditioner_ar16">Appuyez sur le bouton ci-dessous, la climatisation envoie-t-elle de l\'air froid ?</string>
+-    <string name="irv2_matching_hint_air_conditioner_off">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle éteinte ?</string>
+-    <string name="irv2_matching_hint_tv_vol_add">Allumez la télévision
+-Appuyez sur le bouton ci-dessous, avez-vous remarqué une augmentation du volume ?</string>
+-    <string name="irv2_matching_hint_tv_ch_add">Veuillez ajuster le signal TV pour AV/TV
+-Appuyez sur le bouton ci-dessous, changer de canal ?</string>
+-    <string name="irv2_matching_hint_box_ok">Appuyez sur le bouton ci-dessous, OK ?</string>
+-    <string name="irv2_matching_hint_dvd_play">Insérez le DVD dans le lecteur
+-Appuyez sur le bouton ci-dessous, souhaitez-vous commencer la lecture ?</string>
+-    <string name="irv2_matching_hint_dvd_pause">Appuyez sur le bouton ci-dessous, souhaitez-vous mettre en pause ?</string>
+-    <string name="irv2_matching_hint_dvd_stop">Appuyez sur le bouton ci-dessous, souhaitez-vous arrêter la lecture ?</string>
+-    <string name="irv2_matching_total_hint_prefix">Article</string>
+-    <string name="irv2_matching_total_hint_postfix">Ensembles de programmes</string>
     <string name="irv2_response_negative">Non</string>
     <string name="irv2_response_positive">Oui</string>
     <string name="irv2_matching_success">OK</string>
@@ -974,8 +974,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
 Donc, je ne peux ni apprendre, ni communiquer avec
 Si votre climatiseur ne correspond pas
 Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
-    <string name="irv2_controller_touch_hint">"上下左右滑动操作
-点击为确认"</string>
+    <string name="irv2_controller_touch_hint">Faites glisser de haut en bas
+-Appuyez pour confirmer</string>
     <string name="irv2_go_matching">Fusionner</string>
     <string name="irv2_report">Commentaire</string>
     <string name="irv2_report_title">Commentaires</string>
@@ -1433,7 +1433,7 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="send_log">Envoyez les journaux</string>
     <string name="feedback_contact_tips">Informations contact (facultatif)</string>
     <string name="feedback_contact_header">Contact:</string>
-    <string name="feedback_content_header">Contenu de vos commentaires:</string>
+    <string name="feedback_content_header">Contenu:</string>
     <string name="content_description">Description du problème (en anglais ou chinois)</string>
     <string name="commit">Envoyer</string>
     <string name="feedbacking">Envoyez vos commentaires</string>
@@ -2036,10 +2036,10 @@ Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
     <string name="lock_ir_title">Télécommandes</string>
     <string name="not_setting_home_position">Vous n\'avez pas défini l\'emplacement de la maison, souhaitez-vous le faire maintenant ?</string>
     <string name="mitv_login_account_captchacode">Veuillez entrer le code de vérification</string>
-    <string name="mitv_login_account_captchacode_error_get">Impossible d\'obtenir le code de vérification</string>
-    <string name="mitv_login_account_vericode">请输入小米动态令牌</string>
-    <string name="mitv_login_account_captchacode_error">输入验证码错误</string>
-    <string name="family">Inviter…</string>
+    <string name="mitv_login_account_captchacode_error_get">Obtention du code échouée</string>
+    <string name="mitv_login_account_vericode">Veuillez entrer le jeton Mi dynamique</string>
+    <string name="mitv_login_account_captchacode_error">Code entré erroné</string>
+    <string name="family">Inviter/string>
     <string name="add_family_member">Ajouter un membre de la famille</string>
     <string name="add_other_family">Ajouter plus de membres de la famille</string>
     <string name="relation_to_me">En relation avec moi</string>
