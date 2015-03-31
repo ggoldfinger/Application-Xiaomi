@@ -883,9 +883,9 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="irv2_matching_hint_text_prefix">Assurez-vous du centre de contrôle à distance</string>
     <string name="irv2_matching_hint_text_subfix">Aucune obstruction entre les deux!</string>
     <string name="irv2_ok_text">OK</string>
-    <string name="irv2_matching_hint_air_conditioner_on">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle allumée ?</string>
+    <string name="irv2_matching_hint_air_conditioner_on">Appuyez sur le bouton ci-dessous, la climatisation s\'est-elle allumée ?</string>
     <string name="irv2_matching_hint_air_conditioner_ar16">Appuyez sur le bouton ci-dessous, la climatisation envoie-t-elle de l\'air froid ?</string>
-    <string name="irv2_matching_hint_air_conditioner_off">Appuyez sur le bouton ci-dessous, la climatisation s'est-elle éteinte ?</string>
+    <string name="irv2_matching_hint_air_conditioner_off">Appuyez sur le bouton ci-dessous, la climatisation s\'est-elle éteinte ?</string>
     <string name="irv2_matching_hint_tv_vol_add">"Allumez la télévision
 Appuyez sur le bouton ci-dessous, avez-vous remarqué une augmentation du volume ?"</string>
     <string name="irv2_matching_hint_tv_ch_add">"Veuillez ajuster le signal TV pour AV/TV
