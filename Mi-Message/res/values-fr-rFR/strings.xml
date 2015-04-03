@@ -101,8 +101,8 @@ Montant total: %3$s RMB"</string>
     <string name="packages_pay">Acheter</string>
     <string name="packages_pay_confirm">Confirmer</string>
     <string name="packages_title">Données mobiles</string>
-    <string name="select_package_before_buy">Sélectionner une offre</string>
-    <string name="packages_select_to_buy_title">Sélectionner l\'offre</string>
+    <string name="select_package_before_buy">Sélectionnez une offre</string>
+    <string name="packages_select_to_buy_title">Sélectionnez l\'offre</string>
     <string name="packages_pay_hint">Envoyer des messages (gratuits)</string>
     <string name="packages_pay_success">Message envoyé</string>
     <string name="packages_wait_for_op_reply">Veuillez attendre le message de confirmation de votre opérateur</string>
@@ -128,8 +128,8 @@ Veuillez vérifier votre numéro de suivis."</string>
     <string name="express_inquiry_history">Historique</string>
     <string name="express_inquiry_delivered">Livré</string>
     <string name="express_inquiry_no_history">Aucun historique</string>
-    <string name="express_inquiry_delete_warning_single">Supprimer cette entrée?</string>
-    <string name="express_inquiry_delete_warning_multiple">Supprimer les %d entrées sélectionner de l\'historique?</string>
+    <string name="express_inquiry_delete_warning_single">Voulez-vous supprimer cette entrée ?</string>
+    <string name="express_inquiry_delete_warning_multiple">Voulez-vous supprimer les %d entrées sélectionner de l\'historique ?</string>
     <string name="remind_user_suspect_number_title">Numéro suspect</string>
     <string name="remind_user_suspect_number_message">Soyez vigilants: Vous devriez toujours vérifier l\'identité d\'un numéro par téléphone ou vidéo avant d\'envoyer un message contenant des informations personnelles.</string>
     <string name="remind_another_time">"Ne plus me rappeler"</string>
@@ -152,19 +152,19 @@ Veuillez vérifier votre numéro de suivis."</string>
     <string name="order_status">%s</string>
     <string name="order_price">%s</string>
     <string name="general_yellow_page_title">Général</string>
-    <string name="general_recent_title">Récent</string>
+    <string name="general_recent_title">Récents</string>
     <string name="general_favorite_title">Favoris</string>
     <string name="general_no_yellow_page">La liste est vide</string>
     <string name="general_menu_favorite">Favoris</string>
     <string name="general_menu_unfavorite">Supprimer des favoris</string>
     <string name="general_menu_delete_recent">Supprimer les récents</string>
-    <string name="general_cancel_favorite_ok">Favoris supprimé</string>
+    <string name="general_cancel_favorite_ok">Favoris supprimés</string>
     <string name="general_delete_recent_ok">Récents supprimés</string>
     <string name="nearby_yellow_page_title">Proche</string>
     <string name="nearby_no_yellow_page">Aucun résultat proche</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
     <string name="ablum">Album</string>
-    <string name="local_photo">Photos Local</string>
+    <string name="local_photo">Photos Locales</string>
     <string name="cloud_photo">Photos Mi-Cloud</string>
     <string name="photo_picker_select_photo">Sélectionnez une photo</string>
     <string name="photo_picker_select_photo_cnt">%d Photos sélectionnées</string>
@@ -180,10 +180,10 @@ Veuillez vérifier votre numéro de suivis."</string>
     <string name="downloading_upgrade_in_background">Téléchargement des paquets les plus récents...</string>
     <string name="upgrade_pkg_downloaded_title">Une mise à jour est disponible</string>
     <string name="upgrade_pkg_downloaded">Installer la version la plus récente.</string>
-    <string name="additional_upgrade_failed_title">Echec de la mise à jour.</string>
-    <string name="additional_upgrade_failed">Echec de la mise à jour, appuyez ici pour télécharger le paquet complet.</string>
+    <string name="additional_upgrade_failed_title">Échec de la mise à jour.</string>
+    <string name="additional_upgrade_failed">Échec de la mise à jour, appuyez ici pour télécharger le paquet complet.</string>
     <string name="upgrade">Mettre à jour</string>
-    <string name="app_upgradeDetail">Une nouvelle version de SMSLite est disponible, vouslez vous la télécharger maintenant?</string>
+    <string name="app_upgradeDetail">Une nouvelle version de SMSLite est disponible, voulez vous la télécharger maintenant ?</string>
     <string name="app_upgradeNo">Me rappeler plus tard</string>
     <string name="app_upgradeYes">Oui</string>
     <string name="app_upgradeFailed">Mise à jour impossible, veuillez réessayer plus tard.</string>
@@ -191,7 +191,7 @@ Veuillez vérifier votre numéro de suivis."</string>
     <string name="app_anzhuang">Installer</string>
     <string name="cancel">Annuler</string>
     <string name="download">Télécharger</string>
-    <string name="app_upgrade_additional_size">[MAJ]Taille de l\'installation: %.2fMB</string>
+    <string name="app_upgrade_additional_size">[MAJ]Taille de l\'installation: %.2fMo</string>
     <string name="mx_upgrade">Mise à jour du réseau SMS</string>
     <string name="mx_upgrade_desc">Téléchargement du paquet d\'installation</string>
     <string name="mx_upgrade_progress">%d%% téléchargé</string>
@@ -201,10 +201,10 @@ Veuillez vérifier votre numéro de suivis."</string>
     <string name="check_upgrade">Mettre à jour</string>
     <string name="app_upgradeTitle">Version du réseau SMS</string>
     <string name="app_upgradeDownloading">Téléchargement...</string>
-    <string name="upgrade_download_succeeded">"网络短信升级文件下载成功^-^
-立即安装体验新的网络短信吧！"</string>
-    <string name="app_upgrade_dialog_title">小米网络短信升级啦！</string>
-    <string name="process_photo">:gallery</string>
+    <string name="upgrade_download_succeeded">Fichier de mise à jour du réseau SMS téléchargé avec succès ^-^
+Installez immédiatement une nouvelle expérience de messagerie de réseau !</string>
+    <string name="app_upgrade_dialog_title">Droits de mise à jour du réseau de SMS Mi！</string>
+    <string name="process_photo">:galerie</string>
     <string name="process_xmsf">:xmsf</string>
     <string name="task_contact">com.android.contacts.activities.PeopleActivity</string>
     <string name="task_contact_phone">android.task.contacts.phone</string>
@@ -233,9 +233,9 @@ Veuillez vérifier votre numéro de suivis."</string>
     <string name="lunar_jiu">九</string>
     <string name="lunar_shi">十</string>
     <string name="lunar_shi_yi">冬</string>
-    <string name="lunar_shi_er">腊</string>
-    <string name="lunar_chu_shi">初十</string>
-    <string name="lunar_er_shi">二十</string>
+    <string name="lunar_shi_er">Décembre</string>
+    <string name="lunar_chu_shi">Dix</string>
+    <string name="lunar_er_shi">Vingt</string>
     <string name="lunar_san_shi">三十</string>
     <string name="lunar_chu">初</string>
     <string name="lunar_nian">廿</string>
