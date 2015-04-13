@@ -251,7 +251,7 @@ Installez immédiatement une nouvelle expérience de messagerie de réseau !</st
     <string name="new_years_day">Nouvel An</string>
     <string name="valentines_day">Saint Valentin</string>
     <string name="international_womens_day">Journée Internationale de la Femme</string>
-    <string name="arbor_day">Journée de l'Arbre</string>
+    <string name="arbor_day">Journée de l\'Arbre</string>
     <string name="fools_day">Poisson d\'Avril</string>
     <string name="labour_day">Fête du Travail</string>
     <string name="chinese_youth_day">Fête de la Jeunesse</string>
@@ -261,7 +261,7 @@ Installez immédiatement une nouvelle expérience de messagerie de réseau !</st
     <string name="teachers_day">Journée des Enseignants</string>
     <string name="national_day">Fête nationale chinoise</string>
     <string name="christmas_day">Noël</string>
-    <string name="peace_day"Journée de la Paix</string>
+    <string name="peace_day">Journée de la Paix</string>
     <string name="national_father_day">Fête des Pères</string>
     <string name="slight_cold">Léger froid</string>
     <string name="great_cold">Grand froid</string>
@@ -274,7 +274,7 @@ Installez immédiatement une nouvelle expérience de messagerie de réseau !</st
     <string name="summer_begins">Début de l\'été</string>
     <string name="grain_buds">Bourgeons de céréales(Xiaoman)</string>
     <string name="grain_in_ear">Grains Matures</string>
-    <string name="summer_solstice">Solstice d'été</string>
+    <string name="summer_solstice">Solstice d\'été</string>
     <string name="slight_heat">Légère chaleur</string>
     <string name="great_heat">Grosse chaleur</string>
     <string name="autumn_begins">Début de l\'automne</string>
@@ -325,14 +325,14 @@ Installez immédiatement une nouvelle expérience de messagerie de réseau !</st
     <string name="activation_code_input_title">Système Mi en phase de test, entrez le code d\'invitation, commencez à utiliser le système Mi</string>
     <string name="activation_code_input_hint">Code d\'invitation</string>
     <string name="activation_code_input_ok">Commencé !</string>
-    <string name="activation_code_input_invite">Vous n\'avez pas de code d'invitation ? Appuyez ici </string>
+    <string name="activation_code_input_invite">Vous n\'avez pas de code d\'invitation ? Appuyez ici </string>
     <string name="activation_code_get_title">Obtenir le code d\'invitation</string>
     <string name="activation_code_get_message">Remplissez le numéro de téléphone, vous recevrez un SMS contenant le code d\'invitation</string>
     <string name="activation_code_get_summary">Modèles pouvant être utilisés temporairement avec le système Mi: SAMSUNG GALAXY S2/S3/S4、NOTE 2、NOTE 3、GALAXY Nexsus</string>
     <string name="activation_code_get_ok">Obtention du code d\'invitation réussie</string>
     <string name="activation_code_get_button">Actuellement désactivé！</string>
     <string name="activation_code_get_hint">Numéro de téléphone</string>
-    <string name="activation_code_get_title2">Code d'invitation envoyé</string>
+    <string name="activation_code_get_title2">Code d\'invitation envoyé</string>
     <string name="activation_code_get_message2">Le SMS avec le code d\'invitation a été envoyé à votre téléphone mobile, veuillez vérifier !</string>
     <string name="activation_code_get_summary2">Première étape seulement !</string>
     <string name="activation_code_sorry_title">Cher utilisateur:</string>
@@ -419,10 +419,10 @@ Installez immédiatement une nouvelle expérience de messagerie de réseau !</st
     <string name="crop_save_text">Sauvegarder</string>
     <string name="crop_Ne plus afficher_text">Jeter</string>
     <string name="savingImage">Configuration du fond d\'écran…</string>
-    <string name="saving_LockScreen_Image">Configuration du fond d\'écran de l'écran de déverrouillage…</string>
+    <string name="saving_LockScreen_Image">Configuration du fond d\'écran de l\'écran de déverrouillage…</string>
     <string name="runningFaceDetection">En cours de traitement…</string>
-    <string name="crop_to_desktop_text">Découper fond d\'écran de l'écran d\'accueil</string>
-    <string name="crop_to_lockscreen_text">Découper fond d\'écran de l'écran de déverrouillage</string>
+    <string name="crop_to_desktop_text">Découper fond d\'écran de l\'écran d\'accueil</string>
+    <string name="crop_to_lockscreen_text">Découper fond d\'écran de l\'écran de déverrouillage</string>
     <string name="error_unkown_exception">Une erreur inconnue est survenue</string>
     <string name="error_out_of_memory">Manque de mémoire</string>
     <string name="no_advance_lockscreen_res">Impossible d\'utiliser ce thème</string>
@@ -484,7 +484,7 @@ http://www.miui.com"</string>
     <string name="current_lockscreen_setting">Paramétrages actuels de l\'écran de verrouillage</string>
     <string name="app_picker_default">Défault</string>
     <string name="setting_fullscreen">Cacher la berre d\'état</string>
-    <string name="setting_hapticfeedback">Activer les vibrations lors de l'\appui</string>
+    <string name="setting_hapticfeedback">Activer les vibrations lors de l\'appui</string>
     <string name="setting_sound_effect">Activer les effets sonores</string>
     <string name="setting_sound_effect_summary">Jouer les effets sonores du thème (si disponible)</string>
     <string name="one_key_locker_title">/"Verrouiller en un seul click/"</string>
@@ -500,7 +500,7 @@ Attention: /"Verrouiller en un seul click/" peut ne pas fonctionner sur certains
     <string name="lock_device_shortcut_tip">Veuillez activer /"Verrouiller en un seul click/" dans les paramétrages de MIUI Express</string>
     <string name="one_key_locker_not_support_tip">Votre Rom ne supporte pas /"Verrouiller en un seul click/".</string>
     <string name="lock_password_dialog_title">Avertissement de Sécurité</string>
-    <string name="lock_password_lock_home_key_tip">Mi Locker a détecté que vous avez activé le système de mot de passe pour l'écran de verrouillage , pour la sécurité veuillez terminer l'opération de verrouillage de l'accueil par clef pour activer la vérification du mot de passe.</string>
+    <string name="lock_password_lock_home_key_tip">Mi Locker a détecté que vous avez activé le système de mot de passe pour l\'écran de verrouillage , pour la sécurité veuillez terminer l\'opération de verrouillage de l\'accueil par clef pour activer la vérification du mot de passe.</string>
     <string name="lock_password_unsupport_type_tip">Mi Locker supporte uniquement le motif de déverrouillage.</string>
     <string name="start_one_key_locker_title">Activer le raccourci Locker</string>
     <string name="one_key_locker_explanation">Vous devez installer  /"Verrouiller en un seul click/" pour activer le raccourci Locker.</string>
@@ -526,7 +526,7 @@ Attention: /"Verrouiller en un seul click/" peut ne pas fonctionner sur certains
     <string name="resource_price_unit">MI Dollar</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resourcebrowser_lable">Ressources</string>
-    <string name="sdcard_status_changed_dialog_title">L'état de la carte SD a changé</string>
+    <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
     <string name="sdcard_status_changed_dialog_message">Pour en sortir.Veuillez rouvrir cette application pour rafraîchir les ressources.</string>
     <string name="resource_transparent_wallpaper">Transparent</string>
     <string name="resource_mute">Aucun</string>
@@ -581,9 +581,9 @@ Attention: /"Verrouiller en un seul click/" peut ne pas fonctionner sur certains
     <string name="theme_update_complete_title">Mise à jour terminée</string>
     <string name="theme_update_complete_content_success">%1$d réussie</string>
     <string name="theme_update_complete_content_fail">, %1$d échouée</string>
-    <string name="sd_not_available">La carte SD n'est pas montée ou est indisponible</string>
+    <string name="sd_not_available">La carte SD n\'est pas montée ou est indisponible</string>
     <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegardé en stockage interne</string>
-    <string name="sd_not_available_low_internal_storage">La carte SD n'est pas montée ou est indisponible, le stockage interne n\'est pas suffisant</string>
+    <string name="sd_not_available_low_internal_storage">La carte SD n\'est pas montée ou est indisponible, le stockage interne n\'est pas suffisant</string>
     <string name="sd_not_available_saved_to_internal_storage">Sauvegardé en stockage interne</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="reverse_all">Tout effacer</string>
