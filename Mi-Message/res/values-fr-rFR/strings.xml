@@ -422,7 +422,7 @@ Installez immédiatement une nouvelle expérience de messagerie de réseau !</st
     <string name="saving_LockScreen_Image">Configuration du fond d\'écran de l\'écran de déverrouillage…</string>
     <string name="runningFaceDetection">En cours de traitement…</string>
     <string name="crop_to_desktop_text">Découper fond d\'écran de l\'écran d\'accueil</string>
-    <string name="crop_to_Fond d\'écran_text">Découper fond d\'écran de l\'écran de déverrouillage</string>
+    <string name="crop_to_lockscreen_text">Découper fond d\'écran de l\'écran de déverrouillage</string>
     <string name="error_unkown_exception">Une erreur inconnue est survenue</string>
     <string name="error_out_of_memory">Manque de mémoire</string>
     <string name="no_advance_lockscreen_res">Impossible d\'utiliser ce thème</string>
@@ -652,8 +652,8 @@ Attention: /"Verrouiller en un seul click/" peut ne pas fonctionner sur certains
     <string name="theme_component_title_alarm">Alarme</string>
     <string name="theme_component_title_contact">Pavé numérique</string>
     <string name="theme_component_title_lockstyle">Écran de verrouillage</string>
-    <string name="theme_component_title_statusbar">Barre d'état</string>
-    <string name="theme_component_title_launcher">Écran d'accueil</string>
+    <string name="theme_component_title_statusbar">Barre d\'état</string>
+    <string name="theme_component_title_launcher">Écran d\'accueil</string>
     <string name="theme_component_title_audio_effect">Effet sonore</string>
     <string name="theme_component_title_clock">Horloge</string>
     <string name="theme_component_title_photo_frame">Cadre photo</string>
@@ -673,13 +673,13 @@ Attention: /"Verrouiller en un seul click/" peut ne pas fonctionner sur certains
     <string name="live_wallpaper">Fond d\'écran animé</string>
     <string name="lockscreen_wallpaper">Écran de verrouillage</string>
     <string name="change_wallpaper">Fond d\'écran</string>
-    <string name="weather_wallpaper">Fond d'écran Météo actif</string>
-    <string name="desktop_weather_wallpaper">Fond d'écran Météo actif sur l'\écran d\'accueil</string>
-    <string name="lockscreen_weather_wallpaper">Fond d'écran Météo actif sur l'\écran de verrouillage</string>
+    <string name="weather_wallpaper">Fond d\'écran Météo actif</string>
+    <string name="desktop_weather_wallpaper">Fond d\'écran Météo actif sur l\'écran d\'accueil</string>
+    <string name="lockscreen_weather_wallpaper">Fond d\'écran Météo actif sur l\'écran de verrouillage</string>
     <string name="component_settings_title">Personnaliser le thème</string>
     <string name="component_select_title">Composants %1$s sélectionnés</string>
     <string name="component_include_title">Contient %1$s composants</string>
-    <string name="component_screen_title">Inclure le fond d'écran</string>
+    <string name="component_screen_title">Inclure le fond d\'écran</string>
     <string name="resource_fail_to_show">Le thème ne contient pas les ressources nécessaires.</string>
     <string name="wrong_title">Erreur</string>
     <string name="theme_format_wrong_content">Format du thème non valide</string>
@@ -827,7 +827,7 @@ Attention: /"Verrouiller en un seul click/" peut ne pas fonctionner sur certains
     <string name="banner_ringtone_title">Cool Ringtones</string>
     <string name="banner_font_title">Cool Fonts</string>
     <string name="mi_account">Mon Compte</string>
-    <string name="application_name">MI-Message</string>
+    <string name="application_name">Message</string>
     <string name="application_sms_name">Messagerie Cloud</string>
     <string name="folder_name">Dossier</string>
     <string name="unnamed_folder_name">Unnamed folder</string>
