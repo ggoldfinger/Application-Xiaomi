@@ -75,7 +75,7 @@
     <string name="air_purifier_common_indoor_detail_source">Sources de données:</string>
     <string name="air_purifier_common_indoor_detail_source_pub">Collection</string>
     <string name="air_purifier_common_indoor_detail_ok">Savoir</string>
-    <string name="air_purifier_common_outdoor_detail_title">Plein air</string>
+    <string name="air_purifier_common_outdoor_detail_title">"Plein air "</string>
     <string name="air_purifier_common_outdoor_detail_location">Emplacement:</string>
     <string name="air_purifier_common_outdoor_detail_pm25">Particules(PM2.5):</string>
     <string name="air_purifier_common_outdoor_detail_aqi">Total des particules:</string>
@@ -102,7 +102,7 @@
     <string name="air_purifier_air_gran">Particules totales</string>
     <string name="air_purifier_main_filter">Filtre gauche %s</string>
     <string name="air_purifier_indoor">Intérieur</string>
-    <string name="air_purifier_indoor_air">Air intérieur </string>
+    <string name="air_purifier_indoor_air">"Air intérieur "</string>
     <string name="air_purifier_indoor_last">Dernière valeur prise</string>
     <string name="air_purifier_indoor_none">Aucune valeur détectée</string>
     <string name="air_purifier_indoor_closed">Air intérieur fenêtres fermées</string>
@@ -111,7 +111,7 @@
     <string name="air_purifier_manual_checking">Détection...</string>
     <string name="air_purifier_manual_check_count_three">Vous avez trois détection manuelle, la détection automatique est désactivée</string>
     <string name="air_purifier_filter_life">Vie du Filtre</string>
-    <string name="air_purifier_outdoor">Plein air</string>
+    <string name="air_purifier_outdoor">"Plein air "</string>
     <string name="air_pufifier_outdoor_city">Ville</string>
     <string name="air_pufifier_outdoor_district">Zone</string>
     <string name="air_purifier_pm25_indoor_level_0">Excellent</string>
@@ -235,7 +235,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v2_air_gran">Particules totales</string>
     <string name="air_purifier_v2_main_filter">Reste %s du filtre</string>
     <string name="air_purifier_v2_indoor">Intérieur</string>
-    <string name="air_purifier_v2_indoor_air">Air intérieur </string>
+    <string name="air_purifier_v2_indoor_air">"Air intérieur "</string>
     <string name="air_purifier_v2_indoor_last">Dernière valeur prise</string>
     <string name="air_purifier_v2_indoor_none">Aucune valeur détectée</string>
     <string name="air_purifier_v2_indoor_closed">Air intérieur fenêtres fermées</string>
@@ -244,7 +244,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v2_manual_checking">Détection…</string>
     <string name="air_purifier_v2_manual_check_count_three">Vous avez trois détection manuelle, la détection automatique est désactivée</string>
     <string name="air_purifier_v2_filter_life">Vie du Filtre</string>
-    <string name="air_purifier_v2_outdoor">Plein air</string>
+    <string name="air_purifier_v2_outdoor">"Plein air "</string>
     <string name="air_pufifier_v2_outdoor_city">Ville</string>
     <string name="air_pufifier_v2_outdoor_district">Zone</string>
     <string name="air_purifier_v2_pm25_indoor_level_0">Excellent</string>
@@ -366,7 +366,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v3_air_gran">Particules totales</string>
     <string name="air_purifier_v3_main_filter">Reste %s du filtre</string>
     <string name="air_purifier_v3_indoor">Intérieur</string>
-    <string name="air_purifier_v3_indoor_air">Air intérieur </string>
+    <string name="air_purifier_v3_indoor_air">"Air intérieur "</string>
     <string name="air_purifier_v3_indoor_last">Dernière valeur prise</string>
     <string name="air_purifier_v3_indoor_none">Aucune valeur détectée</string>
     <string name="air_purifier_v3_indoor_closed">Air intérieur fenêtres fermées</string>
@@ -375,7 +375,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_v3_manual_checking">Détection…</string>
     <string name="air_purifier_v3_manual_check_count_three">Vous avez trois détection manuelle, la détection automatique est désactivée</string>
     <string name="air_purifier_v3_filter_life">Vie du Filtre</string>
-    <string name="air_purifier_v3_outdoor">Plein air</string>
+    <string name="air_purifier_v3_outdoor">"Plein air "</string>
     <string name="air_pufifier_v3_outdoor_city">Ville</string>
     <string name="air_pufifier_v3_outdoor_district">Zone</string>
     <string name="air_purifier_v3_pm25_indoor_level_0">Excellent</string>
@@ -1198,9 +1198,9 @@ Vous pouvez commentez votre modèle de télécommande.</string>
 Donc, je ne peux ni apprendre, ni communiquer avec
 Si votre climatiseur ne correspond pas
 Vous pouvez nous donner vos commentaires sur votre type de climatiseur"</string>
-    <string name="irv2_controller_touch_hint">Faites glisser de haut en bas
+    <string name="irv2_controller_touch_hint">"Faites glisser de haut en bas
 Cliquez pour confirmer
-Appui long pour revenir</string>
+Appui long pour revenir"</string>
     <string name="irv2_go_matching">Fusionner</string>
     <string name="irv2_report">Commentaire</string>
     <string name="irv2_report_title">Commentaires</string>
@@ -2068,7 +2068,6 @@ Appui long pour revenir</string>
 "</string>
     <string name="air_error_page_text">Après vous êtes connecté au réseau, appuyez sur le bouton mode et l\'interrupteur de la lumière simultanément pendant 5 secondes, pour entendre le Bip, et vérifiez que votre Wi-Fi fonctionne correctement sinon le réinitialiser</string>
     <string name="about_faq_link">(Afficher la F.A.Q.)</string>
-    <string name="shop_click_refresh">" <u>Actualiser<u> "</string>
     <string name="share_no_user">Aucun périphérique partagé</string>
     <string name="share_no_device">Aucun périphérique partagé</string>
     <string name="user_license_btn_text">"Conditions d'utilisation"</string>
