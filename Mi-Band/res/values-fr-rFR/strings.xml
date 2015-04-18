@@ -353,8 +353,8 @@ se lever"</string>
     <string name="action_pop_smart_alarms">Alarme</string>
     <string name="action_pop_person_info">Mon Profil</string>
     <string name="action_pop_unlock_screen">"Déverrouillage de l'écran"</string>
-    <string name="action_pop_weixin_enter">Ajouter WeChat</string>
-    <string name="bind_qq">Lier avec un compte QQ</string>
+    <string name="action_pop_weixin_enter">Ajouter un compte WeChat</string>
+    <string name="bind_qq">Ajouter un compte QQ</string>
     <string name="bind_qq_health">Synchroniser avec QQ Health Center</string>
     <string name="start_weixin">Ouvrir WeChat</string>
     <string name="start_weixin_not_installed">Démarrer WeChat (non installé)</string>
@@ -700,7 +700,7 @@ ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau
     <string name="health_care_date_limit">Période de service : année gratuite</string>
     <string name="health_care_country_limit">Région : Chine continentale</string>
     <string name="service_call_notice">"L'accès au service est disponible 24 h sur 24 par téléphone."</string>
-    <string name="notice_for_users">Utilisateur de Mi-Fit exclusivement</string>
+    <string name="notice_for_users">Utilisateur Mi-Fit exclusivement</string>
     <string name="health_provider_desc">Services de santé</string>
     <string name="connected_broadcast">Protocole de diffusion BLE</string>
     <string name="connected_broadcast_tips">Permet au Mi-Fit d\'être détecté par d\'autres périphériques de même type.</string>
@@ -744,55 +744,55 @@ ajouter à la liste blanche du gestionnaire 3ème partie si elle existe."</strin
     <string name="toast_no_more_data">No more data</string>
     <string name="toast_add_friend_success">Invitation is already send!</string>
     <string name="toast_add_friend_failed">Invitation send failed!</string>
-    <string name="button_search_friend">Search</string>
+    <string name="button_search_friend">Recherche</string>
     <string name="button_send_care">Send a Nudge</string>
-    <string name="label_sport_data">Activity Data</string>
-    <string name="label_sleep_data">Sleep Data</string>
-    <string name="label_step_with_unit">%s Step</string>
-    <string name="label_empty_friend">You can share data with each other, when you become friend</string>
+    <string name="label_sport_data">Données sur les activités</string>
+    <string name="label_sleep_data">Données de sommeil</string>
+    <string name="label_step_with_unit">%s Pas</string>
+    <string name="label_empty_friend">Vous pouvez partager des données avec eux, lorsque vous devenez un ami</string>
     <string name="label_message_too_busy">You send too many Budges, please try later!</string>
     <string name="label_message">Message</string>
-    <string name="label_pull_to_refresh">Pull to refresh</string>
-    <string name="label_refreshing">Refreshing</string>
-    <string name="label_release_to_refresh">Release to refresh</string>
-    <string name="label_pull_to_load">Pull to load more</string>
-    <string name="label_loading">Loading</string>
+    <string name="label_pull_to_refresh">Tirez pour actualiser</string>
+    <string name="label_refreshing">Rafraîchisement</string>
+    <string name="label_release_to_refresh">Relâcher pour actualiser</string>
+    <string name="label_pull_to_load">Tirez dessus pour le charger plus</string>
+    <string name="label_loading">Chargement</string>
     <string name="label_release_to_load">Release to load</string>
-    <string name="label_weight">Current Weight</string>
-    <string name="label_sleep">Last Night Sleep</string>
-    <string name="label_activity">Today Step</string>
-    <string name="label_remark_name">Remark Name</string>
+    <string name="label_weight">Poids actuel</string>
+    <string name="label_sleep">Dernière nuit de sommeil</string>
+    <string name="label_activity">Pas d\'aujoud\hui</string>
+    <string name="label_remark_name">Remarque nom</string>
     <string name="label_delete_friend">Remove Contants</string>
     <string name="label_request_add_friend">Request to be your friend</string>
     <string name="label_refuse_add_friend_by_me">Refuse friend invitation</string>
     <string name="label_refuse_add_friend_by_him">Refuse to be your friend</string>
-    <string name="label_get_up_time">Wake Time</string>
-    <string name="label_refused">Refused</string>
-    <string name="label_accepted">Accepted</string>
-    <string name="label_more">more</string>
-    <string name="label_share_to_friend">Share to your friends and buuld contacts</string>
+    <string name="label_get_up_time">Heure du lever</string>
+    <string name="label_refused">Refuser</string>
+    <string name="label_accepted">Accepter</string>
+    <string name="label_more">Plus</string>
+    <string name="label_share_to_friend">Partager à vos amis et contacts</string>
     <string name="label_refuse">Refuse</string>
     <string name="lable_qrcode_is_myself">"Can't add yourself as a friend!"</string>
-    <string name="label_update_time">Updated at %s</string>
-    <string name="label_qrcode_error">Qr Code error!</string>
-    <string name="label_care_time_by_other">send %s Nudges to you</string>
-    <string name="label_care_time_by_me">Send %s Nudges to him</string>
-    <string name="label_no_care_time_by_me">Never send nudges to him</string>
+    <string name="label_update_time">Mis à jour à %s</string>
+    <string name="label_qrcode_error">Erreur QR code !</string>
+    <string name="label_care_time_by_other">Envoyer %s Wizz de vous</string>
+    <string name="label_care_time_by_me">Envoyer %s Wizz de lui</string>
+    <string name="label_no_care_time_by_me">Ne jamais envoyer de Wizz</string>
     <string name="label_step">Pas</string>
-    <string name="label_mileage">ilométrage (Km)</string>
+    <string name="label_mileage">Kilométrage (Km)</string>
     <string name="label_calorie">Calorie (kCal)</string>
     <string name="label_sleep_start_time">Fall Sleep Time</string>
-    <string name="toast_content_empty_error">"Content can't be empty"</string>
-    <string name="label_search_result_empty">ID does not exist!Pelease try again!</string>
+    <string name="toast_content_empty_error">Contenu ne peut pas être vide</string>
+    <string name="label_search_result_empty">ID n\'existe pas ! essayez à nouveau !</string>
     <string name="label_date_with_week">%1$s/%2$s %3$s</string>
-    <string name="label_sleep_record">%1$s/%2$s Sleep History</string>
-    <string name="label_activity_record">%1$s/%2$s Activity History</string>
+    <string name="label_sleep_record">%1$s/%2$s historique du sommeil</string>
+    <string name="label_activity_record">%1$s/%2$s historique de l\'activité</string>
     <string name="label_sleep_time">%1$sh%2$sm</string>
-    <string name="label_message_empty">Message Empty</string>
-    <string name="label_my_qrcode">My QRCode</string>
+    <string name="label_message_empty">Message vide</string>
+    <string name="label_my_qrcode">Mon QR Code</string>
     <string name="label_preparing_share_image">Preparing share image…</string>
     <string name="label_share_info1">Save image to local, then scan and contact him</string>
-    <string name="label_share_info2">Open Mi Fit app - Friend - Add Friend - Choose Qrcode from album</string>
+    <string name="label_share_info2">Ouvrir l\'app Mi-Fit - Ami - Ami ajouter - Choisir le Qr code de l\'album</string>
     <string name="message_title_friend">Friend Message</string>
     <string name="message_title_care">Care Message</string>
     <string name="label_friend_add_message">%s requests to become your friend</string>
@@ -827,8 +827,8 @@ S\'il vous plaît descendez après que la LED clignotex"</string>
 série"</string>
     <string name="equals_fat">"Égal à 
 %1$s g de graisse brûler"</string>
-    <string name="daily_sport_report_contintue_info">"%1$s lazy days left,
- personal record is %2$s days"</string>
+    <string name="daily_sport_report_contintue_info">"%1$s jours paresseux,
+record personnel est de %2$s jours"</string>
     <string name="daily_sport_report_week_info">"Marché %1$s pas.
 égal à %2$s gallons de gaz"</string>
     <string name="del_family_member">Retirer cet utilisateur ?</string>
@@ -851,13 +851,13 @@ série"</string>
     <string name="week_total_distance_miles">"Semaine totale
 (km)"</string>
     <string name="found_weight_scale_title">"Balance trouvée. S'assurer que les chiffres indiqués sur la balance et 
-ceux affichés dans l'application correspondent pour confirmer l'appairage."</string>
+ceux affichés dans l'application correspondent pour confirmer l'appairage"</string>
     <string name="confirm_pair">Confirmer la liaison</string>
-    <string name="done_with_add_weight_goal">"Congratulations!r
-You reached your goal."</string>
-    <string name="done_with_lose_weight_goal">"Congratulations!
-You reached your goal."</string>
-    <string name="not_reach_goal">"You haven't reached your goal
+    <string name="done_with_add_weight_goal">"Félicitations !
+Vous avez atteint votre objectif"</string>
+    <string name="done_with_lose_weight_goal">"Félicitations !
+Vous avez atteint votre objectif"</string>
+    <string name="not_reach_goal">"Vous n'avez pas atteint votre objectif
 Keep at it!"</string>
     <string name="standard_figure">"Average
 "</string>
@@ -886,39 +886,39 @@ Keep at it!"</string>
     <string name="nogoal_child_normal">"Congratulations! You're at your at your target weight."</string>
     <string name="nogoal_child_heavy">"You're over your target weight"</string>
     <string name="nogoal_child_fat">"You're over your target weight"</string>
-    <string name="wrong_tips">Error</string>
+    <string name="wrong_tips">Erreur</string>
     <string name="baby_no_weight">No weigh-in history</string>
     <string name="baby_weight_less">More than last weigh-in (%1$s)</string>
     <string name="baby_weight_equal">Same as last weigh-in</string>
     <string name="baby_weight_more">Less than last weigh-in (%1$s)</string>
-    <string name="action_type_error">Type error</string>
-    <string name="action_pop_sensorhub">Sensors</string>
+    <string name="action_type_error">Type d\'erreur</string>
+    <string name="action_pop_sensorhub">Capteurs</string>
     <string name="bind_qq_health_tip_init">Se connecter pour terminer la liaison QQ santé</string>
     <string name="bind_qq_health_tip_another_qq">Votre compte mobile de QQ est actuellement connecté et permet de voir les données en matière de santé</string>
-    <string name="please_input_name">Enter name</string>
-    <string name="runner_unlogin_notice">"Your data won't be synced to Mi Cloud. Sign in now?"</string>
+    <string name="please_input_name">Entrer nom</string>
+    <string name="runner_unlogin_notice">Vos données ne seront pas synchronisés avec Mi-Cloud. Inscrivez-vous maintenant ?</string>
     <string name="weight_test_dynamic_detail">Poids: %1$s%2$s</string>
     <string name="gotit">OK</string>
     <string name="setgoalafterweight">Set your goal after you weigh yourself.</string>
-    <string name="no_weight_record">No scale history for %1$s.</string>
+    <string name="no_weight_record">Pas d\'historique d\'échelle pour %1$s.</string>
     <string name="congrats">Félicitations</string>
-    <string name="total_distance_format">Total distance: %s</string>
+    <string name="total_distance_format">Distance total: %s</string>
     <string name="state_open">Ouvrir</string>
     <string name="state_close">Fermer</string>
-    <string name="pairing">Pairing ...</string>
-    <string name="weight_low_battery">Battery low, please change.</string>
-    <string name="weight_connect_failed_title">Weight scale connect failed.</string>
-    <string name="sure_to_delete_weight">Sure to delete weight record?</string>
-    <string name="weight_help_title_4">How to reconnect weight scale?</string>
-    <string name="weight_help_info_4">Please close the Mi Fit App and reopen to connect the Weight scale.</string>
-    <string name="multi_devices_weight_title">Pair failed</string>
-    <string name="upload_log">Upload log</string>
-    <string name="upload_log_info">Please make sure to upload log under wifi connection, confirm?</string>
+    <string name="pairing">Appairage...</string>
+    <string name="weight_low_battery">Batterie faible, remplacer</string>
+    <string name="weight_connect_failed_title">Mi-Balance échec de la connexion</string>
+    <string name="sure_to_delete_weight">Assurez-vous de supprimer l\'enregistrement de poids ?</string>
+    <string name="weight_help_title_4">Comment reconnecter Mi-Balance ?</string>
+    <string name="weight_help_info_4">Fermez l\'app Mi-Fit et ré-ouvrir pour vous connecter à la Mi-Balance</string>
+    <string name="multi_devices_weight_title">Echec appairage</string>
+    <string name="upload_log">Télécharger le journal</string>
+    <string name="upload_log_info">Veillez télécharger le journal sous la connexion wifi, confirmer ?</string>
     <string name="please_connect_internet">Opérations en réseau</string>
     <string name="user_set_succ_info">请打开%1$sAPP完成第一次称重</string>
-    <string name="lighter_than_goal">比目标轻%1$s</string>
-    <string name="heavier_than_goal">比目标重%1$s</string>
-    <string name="keep_goal_succ">成功保持体重</string>
+    <string name="lighter_than_goal">Plus léger que l\'objectif %1$s</string>
+    <string name="heavier_than_goal">Plus lourd que l\'objectif %1$s</string>
+    <string name="keep_goal_succ">Succès maintenir le poids</string>
     <string name="less_than_6">未满6岁，只测量体重。</string>
     <string name="add_than_last_time">"比上次
 增加了%1$s"</string>
@@ -928,34 +928,35 @@ Keep at it!"</string>
 瘦了%1$s"</string>
     <string name="change_current_weight_report">"当前体重不是\"%1$s\"的?
 点击列表为该体重设置新的主人"</string>
-    <string name="set_user_succ">创建成功</string>
+    <string name="set_user_succ">Créer avec succès</string>
     <string name="set_user_suc_tips">有了第一条称重记录，以后系统会自动识别属于你的称重记录，而且可以设置自己的体重控制目标哦。</string>
     <string name="height_less_than_100">身高未达到100厘米,无法分析体型</string>
-    <string name="body_figure">体型</string>
-    <string name="add_weight_succ_with_value">"增重成功
-比目标重%1$s"</string>
-    <string name="add_weight_succ">增重成功</string>
-    <string name="add_weight_fail_with_value">还需增重%1$s</string>
-    <string name="lose_weight_succ_with_value">"减肥成功
-比目标轻%1$s"</string>
-    <string name="lose_weight_succ">减肥成功</string>
-    <string name="lost_weight_fail_with_value">还需减肥%1$s</string>
-    <string name="larger_than_normal_with_value">超出标准%1$s</string>
-    <string name="smaller_than_normal_with_value">低于标准%1$s</string>
-    <string name="normal_figure">标准体型</string>
+    <string name="body_figure">Silhouette</string>
+    <string name="add_weight_succ_with_value">"La réussite de gain de poids
+Plus lourd que l'objectif %1$s"</string>
+    <string name="add_weight_succ">La réussite de gain de poids</string>
+    <string name="add_weight_fail_with_value">Besoin de prendre du poids %1$s</string>
+    <string name="lose_weight_succ_with_value">"La réussite de perte de poids
+Plus léger que la cible %1$s"</string>
+    <string name="lose_weight_succ">La réussite de perte de poids</string>
+    <string name="lost_weight_fail_with_value">Besoin de perdre du poids%1$s</string>
+    <string name="larger_than_normal_with_value">Au-delà de la norme%1$s</string>
+    <string name="smaller_than_normal_with_value">Inférieur aux normes%1$s</string>
+    <string name="normal_figure">Taille standard</string>
     <string name="change_weight_for_visitor">"访客称重纪录
 点击列表为该体重设置新的主人"</string>
-    <string name="bind_weibo">Ajouter Weibo</string>
+    <string name="bind_weibo">Ajouter un compte Weibo</string>
     <string name="bind_weibo_health">Synchro avec Weibo santé</string>
     <string name="bind_weibo_health_tip_init">Connectez-vous à Weibo santé</string>
     <string name="bind_weibo_health_title">Ajouter un compte Weibo</string>
-    <string name="bind_weibo_health_tip">"Synchronisez les informations: pas et sommeil sur la plate-forme de santé Weibo,
+    <string name="bind_weibo_health_tip">"Synchroniser vos informations (pas et sommeil) sur la plate-forme de santé Weibo,
 vous avez besoin de réseau disponible"</string>
     <string name="weibosdk_toast_auth_failed">Échec de la liaison</string>
     <string name="weibosdk_toast_auth_canceled">Retirer l\'autorisation</string>
-    <string name="upload_log_ok">Upload log success, thanks！</string>
-    <string name="upload_log_fail">Upload log failed, please try again.</string>
-    <string name="set_weight_goal_tips">%1$s，快来设置体重目标吧</string>
+    <string name="weibosdk_toast_binded">Le compte courant est lié à un autre compte de microblogging</string>
+    <string name="upload_log_ok">Téléchargement du journal avec succès, Merci ！</string>
+    <string name="upload_log_fail">Télécharger du journal a échoué, veuillez réessayer</string>
+    <string name="set_weight_goal_tips">%1$s fixer des objectifs de poids</string>
     <string name="tips">RAPPEL</string>
     <string name="alarm_tips">Le Mi-Fit s\'arrêtera de vibrer automatiquement lorsqu\'il détectera que vous êtes levé. Touchez le capteur du Mi-Fit à tout moment pour arrêter l\'alarme manuellement</string>
     <string name="prepare_log">Préparer le journal ...</string>
@@ -987,12 +988,12 @@ vous avez besoin de réseau disponible"</string>
     <string name="signal_weak">Faible</string>
     <string name="signal_none">Désactivé</string>
     <string name="action_pop_service">Services</string>
-    <string name="bracelet_store_desc">Mi Store</string>
+    <string name="bracelet_store_desc">Mi-Store</string>
     <string name="btn_confirm">Oui</string>
     <string name="btn_continue">Non</string>
     <string name="btn_delete">Supprimer</string>
     <string name="btn_save">Sauvegarder</string>
-    <string name="buy_bracelet_desc">Buy a band.</string>
+    <string name="buy_bracelet_desc">Acheter un Mi-Fit</string>
     <string name="data_loading">Chargement…</string>
     <string name="disable_hidden_feature">Activité cachée désactivée</string>
     <string name="enable_hidden_feature">Activité cachée activée</string>
@@ -1006,7 +1007,7 @@ vous avez besoin de réseau disponible"</string>
     <string name="share_image_preparing">Preparing for share</string>  
     <string name="sport_running_auto_pause">Détection de pause automatique</string>
     <string name="sport_running_auto_pause_desc">Arrêter la collecte d\'informations lorsque l\'exécution est en pause</string>
-    <string name="sport_running_backgroud_notification">Running…</string>
+    <string name="sport_running_backgroud_notification">Courir…</string>
     <string name="sport_running_cal_desc">Brûlées</string>
     <string name="sport_running_cal_with_unit">Cal</string>
     <string name="sport_running_cal_burnt">%d Cal</string>
@@ -1043,7 +1044,7 @@ vous avez besoin de réseau disponible"</string>
     <string name="state_deauthorization_success">Deauthorize success!</string>
     <string name="watermark_btn_confirm">OK</string>
     <string name="watermark_guide_tips">Touch to move</string>
-    <string name="watermark_search_location">\#Loading your location#</string>
+    <string name="watermark_search_location">\#Chargement de votre Localisation</string>
     <string name="title_activity_open">Partner Bind Page</string>
     <string name="lab_factory_title">Activités</string>
     <string name="lab_factory_sport_type_situp">Abdominaux</string>
@@ -1117,7 +1118,7 @@ vous avez besoin de réseau disponible"</string>
     <string name="lab_factory_sport_group_time_cost" formatted="false">Cycle actuel de %s sur %s</string>
     <string name="lab_factory_item_group_sport">ACTIVITÉS</string>
     <string name="lab_factory_item_group_social">SOCIAL</string>
-    <string name="lab_factory_item_group_others">Autre</string>
+    <string name="lab_factory_item_group_others">AUTRES</string>
     <string name="lab_factory_cheat_toast">Pas de triche !</string>
     <string name="lab_factory_sport_continuous_ropeskipping">Quantité de sauts</string>
     <string name="lab_factory_sport_continuous_situp">"Quantité d'abdominaux"</string>
